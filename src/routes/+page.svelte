@@ -17,9 +17,9 @@
 
     async function fetch_municipalities() {
         try {
-            const response = await fetch("https://github.com/annegv/dvs_final_project/blob/main/src/data/mbta_municipalities.txt");
-            const text = await response.text();
-            mbta_communities = text.split('\n').map(municipality => municipality.trim());
+            const response = await d3.text("https://github.com/annegv/dvs_final_project/blob/main/src/data/mbta_municipalities.txt");
+            // const text = await response.text();
+            mbta_communities = response.split('\n').map(municipality => municipality.trim());
             isLoading = false;
         } catch (error) {
             console.error('Error fetching data:', error);
