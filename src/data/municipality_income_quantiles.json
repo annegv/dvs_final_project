@@ -1,0 +1,3472 @@
+[
+	{
+		"GEO_ID": "0600000US2500103690",
+		"QUINTILE_1": "3.61",
+		"QUINTILE_2": "9.29",
+		"QUINTILE_3": "15.34",
+		"QUINTILE_4": "23.82",
+		"QUINTILE_5": "47.94",
+		"MUNICIPALITY": "Barnstable Town city",
+		"COUNTY": " Barnstable County"
+	},
+	{
+		"GEO_ID": "0600000US2500107175",
+		"QUINTILE_1": "4.19",
+		"QUINTILE_2": "10.34",
+		"QUINTILE_3": "15.37",
+		"QUINTILE_4": "23.97",
+		"QUINTILE_5": "46.13",
+		"MUNICIPALITY": "Bourne town",
+		"COUNTY": " Barnstable County"
+	},
+	{
+		"GEO_ID": "0600000US2500107980",
+		"QUINTILE_1": "3.32",
+		"QUINTILE_2": "8.06",
+		"QUINTILE_3": "14.37",
+		"QUINTILE_4": "23.48",
+		"QUINTILE_5": "50.77",
+		"MUNICIPALITY": "Brewster town",
+		"COUNTY": " Barnstable County"
+	},
+	{
+		"GEO_ID": "0600000US2500112995",
+		"QUINTILE_1": "2.73",
+		"QUINTILE_2": "7.29",
+		"QUINTILE_3": "11.13",
+		"QUINTILE_4": "20.43",
+		"QUINTILE_5": "58.42",
+		"MUNICIPALITY": "Chatham town",
+		"COUNTY": " Barnstable County"
+	},
+	{
+		"GEO_ID": "0600000US2500116775",
+		"QUINTILE_1": "3.44",
+		"QUINTILE_2": "9.01",
+		"QUINTILE_3": "15.00",
+		"QUINTILE_4": "24.37",
+		"QUINTILE_5": "48.18",
+		"MUNICIPALITY": "Dennis town",
+		"COUNTY": " Barnstable County"
+	},
+	{
+		"GEO_ID": "0600000US2500119295",
+		"QUINTILE_1": "4.24",
+		"QUINTILE_2": "9.29",
+		"QUINTILE_3": "14.20",
+		"QUINTILE_4": "23.30",
+		"QUINTILE_5": "48.96",
+		"MUNICIPALITY": "Eastham town",
+		"COUNTY": " Barnstable County"
+	},
+	{
+		"GEO_ID": "0600000US2500123105",
+		"QUINTILE_1": "3.15",
+		"QUINTILE_2": "8.34",
+		"QUINTILE_3": "13.86",
+		"QUINTILE_4": "23.24",
+		"QUINTILE_5": "51.41",
+		"MUNICIPALITY": "Falmouth town",
+		"COUNTY": " Barnstable County"
+	},
+	{
+		"GEO_ID": "0600000US2500129020",
+		"QUINTILE_1": "4.07",
+		"QUINTILE_2": "9.82",
+		"QUINTILE_3": "14.62",
+		"QUINTILE_4": "21.95",
+		"QUINTILE_5": "49.54",
+		"MUNICIPALITY": "Harwich town",
+		"COUNTY": " Barnstable County"
+	},
+	{
+		"GEO_ID": "0600000US2500139100",
+		"QUINTILE_1": "3.29",
+		"QUINTILE_2": "9.27",
+		"QUINTILE_3": "15.32",
+		"QUINTILE_4": "22.78",
+		"QUINTILE_5": "49.33",
+		"MUNICIPALITY": "Mashpee town",
+		"COUNTY": " Barnstable County"
+	},
+	{
+		"GEO_ID": "0600000US2500151440",
+		"QUINTILE_1": "2.66",
+		"QUINTILE_2": "7.15",
+		"QUINTILE_3": "12.30",
+		"QUINTILE_4": "20.16",
+		"QUINTILE_5": "57.74",
+		"MUNICIPALITY": "Orleans town",
+		"COUNTY": " Barnstable County"
+	},
+	{
+		"GEO_ID": "0600000US2500155500",
+		"QUINTILE_1": "2.23",
+		"QUINTILE_2": "5.95",
+		"QUINTILE_3": "12.39",
+		"QUINTILE_4": "24.48",
+		"QUINTILE_5": "54.95",
+		"MUNICIPALITY": "Provincetown town",
+		"COUNTY": " Barnstable County"
+	},
+	{
+		"GEO_ID": "0600000US2500159735",
+		"QUINTILE_1": "3.56",
+		"QUINTILE_2": "10.08",
+		"QUINTILE_3": "16.87",
+		"QUINTILE_4": "24.49",
+		"QUINTILE_5": "45.00",
+		"MUNICIPALITY": "Sandwich town",
+		"COUNTY": " Barnstable County"
+	},
+	{
+		"GEO_ID": "0600000US2500170605",
+		"QUINTILE_1": "2.55",
+		"QUINTILE_2": "5.54",
+		"QUINTILE_3": "15.11",
+		"QUINTILE_4": "29.88",
+		"QUINTILE_5": "46.92",
+		"MUNICIPALITY": "Truro town",
+		"COUNTY": " Barnstable County"
+	},
+	{
+		"GEO_ID": "0600000US2500174385",
+		"QUINTILE_1": "4.20",
+		"QUINTILE_2": "9.43",
+		"QUINTILE_3": "15.65",
+		"QUINTILE_4": "22.24",
+		"QUINTILE_5": "48.48",
+		"MUNICIPALITY": "Wellfleet town",
+		"COUNTY": " Barnstable County"
+	},
+	{
+		"GEO_ID": "0600000US2500182525",
+		"QUINTILE_1": "3.55",
+		"QUINTILE_2": "9.07",
+		"QUINTILE_3": "14.61",
+		"QUINTILE_4": "22.38",
+		"QUINTILE_5": "50.38",
+		"MUNICIPALITY": "Yarmouth town",
+		"COUNTY": " Barnstable County"
+	},
+	{
+		"GEO_ID": "0600000US2500300555",
+		"QUINTILE_1": "3.41",
+		"QUINTILE_2": "7.88",
+		"QUINTILE_3": "15.03",
+		"QUINTILE_4": "24.86",
+		"QUINTILE_5": "48.82",
+		"MUNICIPALITY": "Adams town",
+		"COUNTY": " Berkshire County"
+	},
+	{
+		"GEO_ID": "0600000US2500300975",
+		"QUINTILE_1": "1.95",
+		"QUINTILE_2": "8.30",
+		"QUINTILE_3": "13.36",
+		"QUINTILE_4": "21.50",
+		"QUINTILE_5": "54.89",
+		"MUNICIPALITY": "Alford town",
+		"COUNTY": " Berkshire County"
+	},
+	{
+		"GEO_ID": "0600000US2500304545",
+		"QUINTILE_1": "1.80",
+		"QUINTILE_2": "7.50",
+		"QUINTILE_3": "13.16",
+		"QUINTILE_4": "20.46",
+		"QUINTILE_5": "57.07",
+		"MUNICIPALITY": "Becket town",
+		"COUNTY": " Berkshire County"
+	},
+	{
+		"GEO_ID": "0600000US2500313345",
+		"QUINTILE_1": "4.70",
+		"QUINTILE_2": "11.09",
+		"QUINTILE_3": "16.55",
+		"QUINTILE_4": "25.52",
+		"QUINTILE_5": "42.15",
+		"MUNICIPALITY": "Cheshire town",
+		"COUNTY": " Berkshire County"
+	},
+	{
+		"GEO_ID": "0600000US2500314010",
+		"QUINTILE_1": "5.45",
+		"QUINTILE_2": "11.50",
+		"QUINTILE_3": "15.17",
+		"QUINTILE_4": "24.26",
+		"QUINTILE_5": "43.61",
+		"MUNICIPALITY": "Clarksburg town",
+		"COUNTY": " Berkshire County"
+	},
+	{
+		"GEO_ID": "0600000US2500316180",
+		"QUINTILE_1": "3.83",
+		"QUINTILE_2": "9.25",
+		"QUINTILE_3": "14.78",
+		"QUINTILE_4": "25.03",
+		"QUINTILE_5": "47.11",
+		"MUNICIPALITY": "Dalton town",
+		"COUNTY": " Berkshire County"
+	},
+	{
+		"GEO_ID": "0600000US2500321360",
+		"QUINTILE_1": "3.67",
+		"QUINTILE_2": "7.75",
+		"QUINTILE_3": "13.13",
+		"QUINTILE_4": "25.23",
+		"QUINTILE_5": "50.22",
+		"MUNICIPALITY": "Egremont town",
+		"COUNTY": " Berkshire County"
+	},
+	{
+		"GEO_ID": "0600000US2500324120",
+		"QUINTILE_1": "5.27",
+		"QUINTILE_2": "12.43",
+		"QUINTILE_3": "18.21",
+		"QUINTILE_4": "24.99",
+		"QUINTILE_5": "39.10",
+		"MUNICIPALITY": "Florida town",
+		"COUNTY": " Berkshire County"
+	},
+	{
+		"GEO_ID": "0600000US2500326815",
+		"QUINTILE_1": "2.56",
+		"QUINTILE_2": "7.53",
+		"QUINTILE_3": "13.10",
+		"QUINTILE_4": "21.37",
+		"QUINTILE_5": "55.45",
+		"MUNICIPALITY": "Great Barrington town",
+		"COUNTY": " Berkshire County"
+	},
+	{
+		"GEO_ID": "0600000US2500328180",
+		"QUINTILE_1": "1.82",
+		"QUINTILE_2": "8.19",
+		"QUINTILE_3": "16.07",
+		"QUINTILE_4": "25.35",
+		"QUINTILE_5": "48.57",
+		"MUNICIPALITY": "Hancock town",
+		"COUNTY": " Berkshire County"
+	},
+	{
+		"GEO_ID": "0600000US2500330315",
+		"QUINTILE_1": "4.50",
+		"QUINTILE_2": "9.69",
+		"QUINTILE_3": "16.26",
+		"QUINTILE_4": "26.45",
+		"QUINTILE_5": "43.10",
+		"MUNICIPALITY": "Hinsdale town",
+		"COUNTY": " Berkshire County"
+	},
+	{
+		"GEO_ID": "0600000US2500334340",
+		"QUINTILE_1": "4.94",
+		"QUINTILE_2": "10.45",
+		"QUINTILE_3": "17.24",
+		"QUINTILE_4": "23.79",
+		"QUINTILE_5": "43.59",
+		"MUNICIPALITY": "Lanesborough town",
+		"COUNTY": " Berkshire County"
+	},
+	{
+		"GEO_ID": "0600000US2500334655",
+		"QUINTILE_1": "3.91",
+		"QUINTILE_2": "9.35",
+		"QUINTILE_3": "14.80",
+		"QUINTILE_4": "24.82",
+		"QUINTILE_5": "47.12",
+		"MUNICIPALITY": "Lee town",
+		"COUNTY": " Berkshire County"
+	},
+	{
+		"GEO_ID": "0600000US2500334970",
+		"QUINTILE_1": "3.44",
+		"QUINTILE_2": "8.17",
+		"QUINTILE_3": "13.56",
+		"QUINTILE_4": "23.67",
+		"QUINTILE_5": "51.16",
+		"MUNICIPALITY": "Lenox town",
+		"COUNTY": " Berkshire County"
+	},
+	{
+		"GEO_ID": "0600000US2500342460",
+		"QUINTILE_1": "2.96",
+		"QUINTILE_2": "7.76",
+		"QUINTILE_3": "14.33",
+		"QUINTILE_4": "29.07",
+		"QUINTILE_5": "45.88",
+		"MUNICIPALITY": "Monterey town",
+		"COUNTY": " Berkshire County"
+	},
+	{
+		"GEO_ID": "0600000US2500343300",
+		"QUINTILE_1": "5.12",
+		"QUINTILE_2": "10.50",
+		"QUINTILE_3": "19.45",
+		"QUINTILE_4": "24.93",
+		"QUINTILE_5": "40.00",
+		"MUNICIPALITY": "Mount Washington town",
+		"COUNTY": " Berkshire County"
+	},
+	{
+		"GEO_ID": "0600000US2500344385",
+		"QUINTILE_1": "5.25",
+		"QUINTILE_2": "10.96",
+		"QUINTILE_3": "15.53",
+		"QUINTILE_4": "21.11",
+		"QUINTILE_5": "47.15",
+		"MUNICIPALITY": "New Ashford town",
+		"COUNTY": " Berkshire County"
+	},
+	{
+		"GEO_ID": "0600000US2500345420",
+		"QUINTILE_1": "3.60",
+		"QUINTILE_2": "8.96",
+		"QUINTILE_3": "12.77",
+		"QUINTILE_4": "23.72",
+		"QUINTILE_5": "50.96",
+		"MUNICIPALITY": "New Marlborough town",
+		"COUNTY": " Berkshire County"
+	},
+	{
+		"GEO_ID": "0600000US2500346225",
+		"QUINTILE_1": "2.82",
+		"QUINTILE_2": "7.61",
+		"QUINTILE_3": "13.14",
+		"QUINTILE_4": "21.92",
+		"QUINTILE_5": "54.50",
+		"MUNICIPALITY": "North Adams city",
+		"COUNTY": " Berkshire County"
+	},
+	{
+		"GEO_ID": "0600000US2500351580",
+		"QUINTILE_1": "5.09",
+		"QUINTILE_2": "11.88",
+		"QUINTILE_3": "17.81",
+		"QUINTILE_4": "24.51",
+		"QUINTILE_5": "40.70",
+		"MUNICIPALITY": "Otis town",
+		"COUNTY": " Berkshire County"
+	},
+	{
+		"GEO_ID": "0600000US2500353050",
+		"QUINTILE_1": "5.65",
+		"QUINTILE_2": "10.33",
+		"QUINTILE_3": "15.31",
+		"QUINTILE_4": "24.92",
+		"QUINTILE_5": "43.79",
+		"MUNICIPALITY": "Peru town",
+		"COUNTY": " Berkshire County"
+	},
+	{
+		"GEO_ID": "0600000US2500353960",
+		"QUINTILE_1": "3.46",
+		"QUINTILE_2": "8.45",
+		"QUINTILE_3": "14.70",
+		"QUINTILE_4": "21.86",
+		"QUINTILE_5": "51.53",
+		"MUNICIPALITY": "Pittsfield city",
+		"COUNTY": " Berkshire County"
+	},
+	{
+		"GEO_ID": "0600000US2500356795",
+		"QUINTILE_1": "3.57",
+		"QUINTILE_2": "7.93",
+		"QUINTILE_3": "13.05",
+		"QUINTILE_4": "21.49",
+		"QUINTILE_5": "53.96",
+		"MUNICIPALITY": "Richmond town",
+		"COUNTY": " Berkshire County"
+	},
+	{
+		"GEO_ID": "0600000US2500359665",
+		"QUINTILE_1": "3.73",
+		"QUINTILE_2": "9.37",
+		"QUINTILE_3": "14.22",
+		"QUINTILE_4": "21.90",
+		"QUINTILE_5": "50.78",
+		"MUNICIPALITY": "Sandisfield town",
+		"COUNTY": " Berkshire County"
+	},
+	{
+		"GEO_ID": "0600000US2500360225",
+		"QUINTILE_1": "3.57",
+		"QUINTILE_2": "10.20",
+		"QUINTILE_3": "16.22",
+		"QUINTILE_4": "25.72",
+		"QUINTILE_5": "44.28",
+		"MUNICIPALITY": "Savoy town",
+		"COUNTY": " Berkshire County"
+	},
+	{
+		"GEO_ID": "0600000US2500361065",
+		"QUINTILE_1": "3.38",
+		"QUINTILE_2": "7.46",
+		"QUINTILE_3": "12.33",
+		"QUINTILE_4": "20.40",
+		"QUINTILE_5": "56.43",
+		"MUNICIPALITY": "Sheffield town",
+		"COUNTY": " Berkshire County"
+	},
+	{
+		"GEO_ID": "0600000US2500367595",
+		"QUINTILE_1": "1.73",
+		"QUINTILE_2": "4.06",
+		"QUINTILE_3": "8.99",
+		"QUINTILE_4": "24.79",
+		"QUINTILE_5": "60.43",
+		"MUNICIPALITY": "Stockbridge town",
+		"COUNTY": " Berkshire County"
+	},
+	{
+		"GEO_ID": "0600000US2500371095",
+		"QUINTILE_1": "2.95",
+		"QUINTILE_2": "9.35",
+		"QUINTILE_3": "17.11",
+		"QUINTILE_4": "24.26",
+		"QUINTILE_5": "46.33",
+		"MUNICIPALITY": "Tyringham town",
+		"COUNTY": " Berkshire County"
+	},
+	{
+		"GEO_ID": "0600000US2500373335",
+		"QUINTILE_1": "5.59",
+		"QUINTILE_2": "11.76",
+		"QUINTILE_3": "18.66",
+		"QUINTILE_4": "24.17",
+		"QUINTILE_5": "39.82",
+		"MUNICIPALITY": "Washington town",
+		"COUNTY": " Berkshire County"
+	},
+	{
+		"GEO_ID": "0600000US2500377990",
+		"QUINTILE_1": "1.91",
+		"QUINTILE_2": "5.97",
+		"QUINTILE_3": "10.80",
+		"QUINTILE_4": "18.89",
+		"QUINTILE_5": "62.43",
+		"MUNICIPALITY": "West Stockbridge town",
+		"COUNTY": " Berkshire County"
+	},
+	{
+		"GEO_ID": "0600000US2500379985",
+		"QUINTILE_1": "2.38",
+		"QUINTILE_2": "7.34",
+		"QUINTILE_3": "14.56",
+		"QUINTILE_4": "22.51",
+		"QUINTILE_5": "53.22",
+		"MUNICIPALITY": "Williamstown town",
+		"COUNTY": " Berkshire County"
+	},
+	{
+		"GEO_ID": "0600000US2500380685",
+		"QUINTILE_1": "4.17",
+		"QUINTILE_2": "9.53",
+		"QUINTILE_3": "14.88",
+		"QUINTILE_4": "21.19",
+		"QUINTILE_5": "50.23",
+		"MUNICIPALITY": "Windsor town",
+		"COUNTY": " Berkshire County"
+	},
+	{
+		"GEO_ID": "0600000US2500500520",
+		"QUINTILE_1": "4.03",
+		"QUINTILE_2": "9.92",
+		"QUINTILE_3": "15.55",
+		"QUINTILE_4": "23.23",
+		"QUINTILE_5": "47.28",
+		"MUNICIPALITY": "Acushnet town",
+		"COUNTY": " Bristol County"
+	},
+	{
+		"GEO_ID": "0600000US2500502690",
+		"QUINTILE_1": "3.23",
+		"QUINTILE_2": "9.26",
+		"QUINTILE_3": "16.04",
+		"QUINTILE_4": "25.28",
+		"QUINTILE_5": "46.19",
+		"MUNICIPALITY": "Attleboro city",
+		"COUNTY": " Bristol County"
+	},
+	{
+		"GEO_ID": "0600000US2500505280",
+		"QUINTILE_1": "5.93",
+		"QUINTILE_2": "11.14",
+		"QUINTILE_3": "18.14",
+		"QUINTILE_4": "25.94",
+		"QUINTILE_5": "38.86",
+		"MUNICIPALITY": "Berkley town",
+		"COUNTY": " Bristol County"
+	},
+	{
+		"GEO_ID": "0600000US2500516425",
+		"QUINTILE_1": "3.18",
+		"QUINTILE_2": "8.90",
+		"QUINTILE_3": "15.40",
+		"QUINTILE_4": "23.67",
+		"QUINTILE_5": "48.85",
+		"MUNICIPALITY": "Dartmouth town",
+		"COUNTY": " Bristol County"
+	},
+	{
+		"GEO_ID": "0600000US2500516950",
+		"QUINTILE_1": "5.34",
+		"QUINTILE_2": "11.41",
+		"QUINTILE_3": "17.98",
+		"QUINTILE_4": "24.66",
+		"QUINTILE_5": "40.62",
+		"MUNICIPALITY": "Dighton town",
+		"COUNTY": " Bristol County"
+	},
+	{
+		"GEO_ID": "0600000US2500520100",
+		"QUINTILE_1": "3.46",
+		"QUINTILE_2": "9.24",
+		"QUINTILE_3": "15.10",
+		"QUINTILE_4": "23.93",
+		"QUINTILE_5": "48.27",
+		"MUNICIPALITY": "Easton town",
+		"COUNTY": " Bristol County"
+	},
+	{
+		"GEO_ID": "0600000US2500522130",
+		"QUINTILE_1": "2.84",
+		"QUINTILE_2": "7.61",
+		"QUINTILE_3": "14.02",
+		"QUINTILE_4": "21.79",
+		"QUINTILE_5": "53.75",
+		"MUNICIPALITY": "Fairhaven town",
+		"COUNTY": " Bristol County"
+	},
+	{
+		"GEO_ID": "0600000US2500523000",
+		"QUINTILE_1": "2.85",
+		"QUINTILE_2": "8.34",
+		"QUINTILE_3": "15.34",
+		"QUINTILE_4": "24.77",
+		"QUINTILE_5": "48.70",
+		"MUNICIPALITY": "Fall River city",
+		"COUNTY": " Bristol County"
+	},
+	{
+		"GEO_ID": "0600000US2500525240",
+		"QUINTILE_1": "5.13",
+		"QUINTILE_2": "11.88",
+		"QUINTILE_3": "18.35",
+		"QUINTILE_4": "24.38",
+		"QUINTILE_5": "40.27",
+		"MUNICIPALITY": "Freetown town",
+		"COUNTY": " Bristol County"
+	},
+	{
+		"GEO_ID": "0600000US2500538225",
+		"QUINTILE_1": "4.55",
+		"QUINTILE_2": "10.43",
+		"QUINTILE_3": "16.29",
+		"QUINTILE_4": "23.37",
+		"QUINTILE_5": "45.36",
+		"MUNICIPALITY": "Mansfield town",
+		"COUNTY": " Bristol County"
+	},
+	{
+		"GEO_ID": "0600000US2500545000",
+		"QUINTILE_1": "3.17",
+		"QUINTILE_2": "8.69",
+		"QUINTILE_3": "15.50",
+		"QUINTILE_4": "25.13",
+		"QUINTILE_5": "47.52",
+		"MUNICIPALITY": "New Bedford city",
+		"COUNTY": " Bristol County"
+	},
+	{
+		"GEO_ID": "0600000US2500546598",
+		"QUINTILE_1": "3.58",
+		"QUINTILE_2": "9.89",
+		"QUINTILE_3": "16.24",
+		"QUINTILE_4": "23.62",
+		"QUINTILE_5": "46.68",
+		"MUNICIPALITY": "North Attleborough Town city",
+		"COUNTY": " Bristol County"
+	},
+	{
+		"GEO_ID": "0600000US2500549970",
+		"QUINTILE_1": "4.08",
+		"QUINTILE_2": "11.08",
+		"QUINTILE_3": "16.37",
+		"QUINTILE_4": "23.70",
+		"QUINTILE_5": "44.76",
+		"MUNICIPALITY": "Norton town",
+		"COUNTY": " Bristol County"
+	},
+	{
+		"GEO_ID": "0600000US2500556060",
+		"QUINTILE_1": "2.49",
+		"QUINTILE_2": "8.52",
+		"QUINTILE_3": "15.83",
+		"QUINTILE_4": "24.14",
+		"QUINTILE_5": "49.02",
+		"MUNICIPALITY": "Raynham town",
+		"COUNTY": " Bristol County"
+	},
+	{
+		"GEO_ID": "0600000US2500556375",
+		"QUINTILE_1": "5.28",
+		"QUINTILE_2": "10.75",
+		"QUINTILE_3": "17.53",
+		"QUINTILE_4": "26.22",
+		"QUINTILE_5": "40.21",
+		"MUNICIPALITY": "Rehoboth town",
+		"COUNTY": " Bristol County"
+	},
+	{
+		"GEO_ID": "0600000US2500560645",
+		"QUINTILE_1": "4.10",
+		"QUINTILE_2": "10.88",
+		"QUINTILE_3": "17.44",
+		"QUINTILE_4": "25.44",
+		"QUINTILE_5": "42.14",
+		"MUNICIPALITY": "Seekonk town",
+		"COUNTY": " Bristol County"
+	},
+	{
+		"GEO_ID": "0600000US2500562430",
+		"QUINTILE_1": "4.06",
+		"QUINTILE_2": "11.39",
+		"QUINTILE_3": "16.47",
+		"QUINTILE_4": "22.77",
+		"QUINTILE_5": "45.31",
+		"MUNICIPALITY": "Somerset town",
+		"COUNTY": " Bristol County"
+	},
+	{
+		"GEO_ID": "0600000US2500568750",
+		"QUINTILE_1": "4.74",
+		"QUINTILE_2": "11.28",
+		"QUINTILE_3": "18.42",
+		"QUINTILE_4": "25.79",
+		"QUINTILE_5": "39.77",
+		"MUNICIPALITY": "Swansea town",
+		"COUNTY": " Bristol County"
+	},
+	{
+		"GEO_ID": "0600000US2500569170",
+		"QUINTILE_1": "3.29",
+		"QUINTILE_2": "9.12",
+		"QUINTILE_3": "16.37",
+		"QUINTILE_4": "25.93",
+		"QUINTILE_5": "45.29",
+		"MUNICIPALITY": "Taunton city",
+		"COUNTY": " Bristol County"
+	},
+	{
+		"GEO_ID": "0600000US2500577570",
+		"QUINTILE_1": "4.05",
+		"QUINTILE_2": "9.66",
+		"QUINTILE_3": "15.20",
+		"QUINTILE_4": "23.21",
+		"QUINTILE_5": "47.87",
+		"MUNICIPALITY": "Westport town",
+		"COUNTY": " Bristol County"
+	},
+	{
+		"GEO_ID": "0600000US2500701585",
+		"QUINTILE_1": "3.38",
+		"QUINTILE_2": "5.53",
+		"QUINTILE_3": "9.36",
+		"QUINTILE_4": "15.11",
+		"QUINTILE_5": "66.62",
+		"MUNICIPALITY": "Aquinnah town",
+		"COUNTY": " Dukes County"
+	},
+	{
+		"GEO_ID": "0600000US2500713800",
+		"QUINTILE_1": "4.05",
+		"QUINTILE_2": "8.45",
+		"QUINTILE_3": "13.76",
+		"QUINTILE_4": "19.86",
+		"QUINTILE_5": "53.89",
+		"MUNICIPALITY": "Chilmark town",
+		"COUNTY": " Dukes County"
+	},
+	{
+		"GEO_ID": "0600000US2500721150",
+		"QUINTILE_1": "3.03",
+		"QUINTILE_2": "7.64",
+		"QUINTILE_3": "10.32",
+		"QUINTILE_4": "17.56",
+		"QUINTILE_5": "61.45",
+		"MUNICIPALITY": "Edgartown town",
+		"COUNTY": " Dukes County"
+	},
+	{
+		"GEO_ID": "0600000US2500769940",
+		"QUINTILE_1": "4.59",
+		"QUINTILE_2": "11.58",
+		"QUINTILE_3": "15.09",
+		"QUINTILE_4": "23.12",
+		"QUINTILE_5": "45.62",
+		"MUNICIPALITY": "Tisbury town",
+		"COUNTY": " Dukes County"
+	},
+	{
+		"GEO_ID": "0600000US2500901260",
+		"QUINTILE_1": "3.15",
+		"QUINTILE_2": "9.18",
+		"QUINTILE_3": "15.27",
+		"QUINTILE_4": "23.18",
+		"QUINTILE_5": "49.22",
+		"MUNICIPALITY": "Amesbury Town city",
+		"COUNTY": "Essex County"
+	},
+	{
+		"GEO_ID": "0600000US2500901465",
+		"QUINTILE_1": "3.31",
+		"QUINTILE_2": "9.20",
+		"QUINTILE_3": "15.25",
+		"QUINTILE_4": "24.32",
+		"QUINTILE_5": "47.92",
+		"MUNICIPALITY": "Andover town",
+		"COUNTY": "Essex County"
+	},
+	{
+		"GEO_ID": "0600000US2500905595",
+		"QUINTILE_1": "2.36",
+		"QUINTILE_2": "8.46",
+		"QUINTILE_3": "14.83",
+		"QUINTILE_4": "23.81",
+		"QUINTILE_5": "50.55",
+		"MUNICIPALITY": "Beverly city",
+		"COUNTY": "Essex County"
+	},
+	{
+		"GEO_ID": "0600000US2500907420",
+		"QUINTILE_1": "3.89",
+		"QUINTILE_2": "9.61",
+		"QUINTILE_3": "15.19",
+		"QUINTILE_4": "21.67",
+		"QUINTILE_5": "49.64",
+		"MUNICIPALITY": "Boxford town",
+		"COUNTY": " Essex County"
+	},
+	{
+		"GEO_ID": "0600000US2500916250",
+		"QUINTILE_1": "4.43",
+		"QUINTILE_2": "10.68",
+		"QUINTILE_3": "16.71",
+		"QUINTILE_4": "24.42",
+		"QUINTILE_5": "43.76",
+		"MUNICIPALITY": "Danvers town",
+		"COUNTY": " Essex County"
+	},
+	{
+		"GEO_ID": "0600000US2500921850",
+		"QUINTILE_1": "3.28",
+		"QUINTILE_2": "8.79",
+		"QUINTILE_3": "16.01",
+		"QUINTILE_4": "24.20",
+		"QUINTILE_5": "47.71",
+		"MUNICIPALITY": "Essex town",
+		"COUNTY": " Essex County"
+	},
+	{
+		"GEO_ID": "0600000US2500925625",
+		"QUINTILE_1": "4.22",
+		"QUINTILE_2": "10.83",
+		"QUINTILE_3": "17.90",
+		"QUINTILE_4": "24.80",
+		"QUINTILE_5": "42.24",
+		"MUNICIPALITY": "Georgetown town",
+		"COUNTY": " Essex County"
+	},
+	{
+		"GEO_ID": "0600000US2500926150",
+		"QUINTILE_1": "2.95",
+		"QUINTILE_2": "8.17",
+		"QUINTILE_3": "15.08",
+		"QUINTILE_4": "23.10",
+		"QUINTILE_5": "50.70",
+		"MUNICIPALITY": "Gloucester city",
+		"COUNTY": " Essex County"
+	},
+	{
+		"GEO_ID": "0600000US2500927620",
+		"QUINTILE_1": "4.93",
+		"QUINTILE_2": "13.23",
+		"QUINTILE_3": "18.01",
+		"QUINTILE_4": "24.70",
+		"QUINTILE_5": "39.13",
+		"MUNICIPALITY": "Groveland town",
+		"COUNTY": " Essex County"
+	},
+	{
+		"GEO_ID": "0600000US2500927900",
+		"QUINTILE_1": "3.20",
+		"QUINTILE_2": "8.92",
+		"QUINTILE_3": "16.08",
+		"QUINTILE_4": "24.40",
+		"QUINTILE_5": "47.41",
+		"MUNICIPALITY": "Hamilton town",
+		"COUNTY": " Essex County"
+	},
+	{
+		"GEO_ID": "0600000US2500929405",
+		"QUINTILE_1": "3.61",
+		"QUINTILE_2": "9.76",
+		"QUINTILE_3": "16.13",
+		"QUINTILE_4": "24.75",
+		"QUINTILE_5": "45.74",
+		"MUNICIPALITY": "Haverhill city",
+		"COUNTY": " Essex County"
+	},
+	{
+		"GEO_ID": "0600000US2500932310",
+		"QUINTILE_1": "2.14",
+		"QUINTILE_2": "7.69",
+		"QUINTILE_3": "13.59",
+		"QUINTILE_4": "20.87",
+		"QUINTILE_5": "55.71",
+		"MUNICIPALITY": "Ipswich town",
+		"COUNTY": " Essex County"
+	},
+	{
+		"GEO_ID": "0600000US2500934550",
+		"QUINTILE_1": "3.17",
+		"QUINTILE_2": "8.86",
+		"QUINTILE_3": "14.96",
+		"QUINTILE_4": "23.57",
+		"QUINTILE_5": "49.44",
+		"MUNICIPALITY": "Lawrence city",
+		"COUNTY": " Essex County"
+	},
+	{
+		"GEO_ID": "0600000US2500937490",
+		"QUINTILE_1": "2.63",
+		"QUINTILE_2": "8.73",
+		"QUINTILE_3": "15.83",
+		"QUINTILE_4": "24.78",
+		"QUINTILE_5": "48.03",
+		"MUNICIPALITY": "Lynn city",
+		"COUNTY": " Essex County"
+	},
+	{
+		"GEO_ID": "0600000US2500937560",
+		"QUINTILE_1": "2.32",
+		"QUINTILE_2": "8.03",
+		"QUINTILE_3": "15.29",
+		"QUINTILE_4": "23.58",
+		"QUINTILE_5": "50.77",
+		"MUNICIPALITY": "Lynnfield town",
+		"COUNTY": " Essex County"
+	},
+	{
+		"GEO_ID": "0600000US2500937995",
+		"QUINTILE_1": "3.33",
+		"QUINTILE_2": "9.29",
+		"QUINTILE_3": "16.87",
+		"QUINTILE_4": "23.65",
+		"QUINTILE_5": "46.87",
+		"MUNICIPALITY": "Manchester-by-the-Sea town",
+		"COUNTY": " Essex County"
+	},
+	{
+		"GEO_ID": "0600000US2500938400",
+		"QUINTILE_1": "2.92",
+		"QUINTILE_2": "8.45",
+		"QUINTILE_3": "14.62",
+		"QUINTILE_4": "22.77",
+		"QUINTILE_5": "51.24",
+		"MUNICIPALITY": "Marblehead town",
+		"COUNTY": " Essex County"
+	},
+	{
+		"GEO_ID": "0600000US2500940430",
+		"QUINTILE_1": "5.00",
+		"QUINTILE_2": "10.94",
+		"QUINTILE_3": "17.69",
+		"QUINTILE_4": "26.52",
+		"QUINTILE_5": "39.86",
+		"MUNICIPALITY": "Merrimac town",
+		"COUNTY": " Essex County"
+	},
+	{
+		"GEO_ID": "0600000US2500940710",
+		"QUINTILE_1": "3.31",
+		"QUINTILE_2": "9.56",
+		"QUINTILE_3": "16.28",
+		"QUINTILE_4": "24.23",
+		"QUINTILE_5": "46.62",
+		"MUNICIPALITY": "Methuen Town city",
+		"COUNTY": " Essex County"
+	},
+	{
+		"GEO_ID": "0600000US2500941095",
+		"QUINTILE_1": "3.67",
+		"QUINTILE_2": "10.97",
+		"QUINTILE_3": "16.68",
+		"QUINTILE_4": "23.74",
+		"QUINTILE_5": "44.92",
+		"MUNICIPALITY": "Middleton town",
+		"COUNTY": " Essex County"
+	},
+	{
+		"GEO_ID": "0600000US2500943580",
+		"QUINTILE_1": "3.16",
+		"QUINTILE_2": "8.58",
+		"QUINTILE_3": "13.07",
+		"QUINTILE_4": "20.37",
+		"QUINTILE_5": "54.82",
+		"MUNICIPALITY": "Nahant town",
+		"COUNTY": " Essex County"
+	},
+	{
+		"GEO_ID": "0600000US2500945175",
+		"QUINTILE_1": "3.99",
+		"QUINTILE_2": "9.93",
+		"QUINTILE_3": "16.47",
+		"QUINTILE_4": "27.88",
+		"QUINTILE_5": "41.73",
+		"MUNICIPALITY": "Newbury town",
+		"COUNTY": " Essex County"
+	},
+	{
+		"GEO_ID": "0600000US2500945245",
+		"QUINTILE_1": "2.72",
+		"QUINTILE_2": "8.51",
+		"QUINTILE_3": "15.00",
+		"QUINTILE_4": "23.42",
+		"QUINTILE_5": "50.35",
+		"MUNICIPALITY": "Newburyport city",
+		"COUNTY": " Essex County"
+	},
+	{
+		"GEO_ID": "0600000US2500946365",
+		"QUINTILE_1": "2.96",
+		"QUINTILE_2": "8.75",
+		"QUINTILE_3": "15.15",
+		"QUINTILE_4": "23.39",
+		"QUINTILE_5": "49.75",
+		"MUNICIPALITY": "North Andover town",
+		"COUNTY": " Essex County"
+	},
+	{
+		"GEO_ID": "0600000US2500952490",
+		"QUINTILE_1": "3.18",
+		"QUINTILE_2": "9.18",
+		"QUINTILE_3": "15.84",
+		"QUINTILE_4": "23.77",
+		"QUINTILE_5": "48.03",
+		"MUNICIPALITY": "Peabody city",
+		"COUNTY": " Essex County"
+	},
+	{
+		"GEO_ID": "0600000US2500957880",
+		"QUINTILE_1": "3.66",
+		"QUINTILE_2": "9.02",
+		"QUINTILE_3": "15.07",
+		"QUINTILE_4": "23.34",
+		"QUINTILE_5": "48.90",
+		"MUNICIPALITY": "Rockport town",
+		"COUNTY": " Essex County"
+	},
+	{
+		"GEO_ID": "0600000US2500958405",
+		"QUINTILE_1": "4.21",
+		"QUINTILE_2": "9.43",
+		"QUINTILE_3": "13.96",
+		"QUINTILE_4": "19.72",
+		"QUINTILE_5": "52.67",
+		"MUNICIPALITY": "Rowley town",
+		"COUNTY": " Essex County"
+	},
+	{
+		"GEO_ID": "0600000US2500959105",
+		"QUINTILE_1": "2.98",
+		"QUINTILE_2": "8.73",
+		"QUINTILE_3": "15.63",
+		"QUINTILE_4": "25.33",
+		"QUINTILE_5": "47.33",
+		"MUNICIPALITY": "Salem city",
+		"COUNTY": " Essex County"
+	},
+	{
+		"GEO_ID": "0600000US2500959245",
+		"QUINTILE_1": "3.55",
+		"QUINTILE_2": "10.01",
+		"QUINTILE_3": "15.83",
+		"QUINTILE_4": "23.50",
+		"QUINTILE_5": "47.11",
+		"MUNICIPALITY": "Salisbury town",
+		"COUNTY": " Essex County"
+	},
+	{
+		"GEO_ID": "0600000US2500960015",
+		"QUINTILE_1": "3.06",
+		"QUINTILE_2": "10.07",
+		"QUINTILE_3": "16.25",
+		"QUINTILE_4": "23.63",
+		"QUINTILE_5": "46.99",
+		"MUNICIPALITY": "Saugus town",
+		"COUNTY": " Essex County"
+	},
+	{
+		"GEO_ID": "0600000US2500968645",
+		"QUINTILE_1": "2.26",
+		"QUINTILE_2": "7.62",
+		"QUINTILE_3": "13.74",
+		"QUINTILE_4": "21.56",
+		"QUINTILE_5": "54.81",
+		"MUNICIPALITY": "Swampscott town",
+		"COUNTY": " Essex County"
+	},
+	{
+		"GEO_ID": "0600000US2500970150",
+		"QUINTILE_1": "3.59",
+		"QUINTILE_2": "9.86",
+		"QUINTILE_3": "18.75",
+		"QUINTILE_4": "26.08",
+		"QUINTILE_5": "41.73",
+		"MUNICIPALITY": "Topsfield town",
+		"COUNTY": " Essex County"
+	},
+	{
+		"GEO_ID": "0600000US2500974595",
+		"QUINTILE_1": "2.71",
+		"QUINTILE_2": "9.90",
+		"QUINTILE_3": "16.95",
+		"QUINTILE_4": "23.11",
+		"QUINTILE_5": "47.33",
+		"MUNICIPALITY": "Wenham town",
+		"COUNTY": " Essex County"
+	},
+	{
+		"GEO_ID": "0600000US2500977150",
+		"QUINTILE_1": "4.98",
+		"QUINTILE_2": "10.83",
+		"QUINTILE_3": "17.34",
+		"QUINTILE_4": "23.00",
+		"QUINTILE_5": "43.84",
+		"MUNICIPALITY": "West Newbury town",
+		"COUNTY": " Essex County"
+	},
+	{
+		"GEO_ID": "0600000US2501102095",
+		"QUINTILE_1": "3.15",
+		"QUINTILE_2": "9.53",
+		"QUINTILE_3": "16.12",
+		"QUINTILE_4": "23.27",
+		"QUINTILE_5": "47.92",
+		"MUNICIPALITY": "Ashfield town",
+		"COUNTY": " Franklin County"
+	},
+	{
+		"GEO_ID": "0600000US2501105560",
+		"QUINTILE_1": "5.55",
+		"QUINTILE_2": "10.14",
+		"QUINTILE_3": "16.02",
+		"QUINTILE_4": "23.03",
+		"QUINTILE_5": "45.27",
+		"MUNICIPALITY": "Bernardston town",
+		"COUNTY": " Franklin County"
+	},
+	{
+		"GEO_ID": "0600000US2501109595",
+		"QUINTILE_1": "3.92",
+		"QUINTILE_2": "11.24",
+		"QUINTILE_3": "18.79",
+		"QUINTILE_4": "25.07",
+		"QUINTILE_5": "40.98",
+		"MUNICIPALITY": "Buckland town",
+		"COUNTY": " Franklin County"
+	},
+	{
+		"GEO_ID": "0600000US2501112505",
+		"QUINTILE_1": "4.47",
+		"QUINTILE_2": "10.00",
+		"QUINTILE_3": "13.29",
+		"QUINTILE_4": "21.57",
+		"QUINTILE_5": "50.68",
+		"MUNICIPALITY": "Charlemont town",
+		"COUNTY": " Franklin County"
+	},
+	{
+		"GEO_ID": "0600000US2501114885",
+		"QUINTILE_1": "4.95",
+		"QUINTILE_2": "10.90",
+		"QUINTILE_3": "16.29",
+		"QUINTILE_4": "24.47",
+		"QUINTILE_5": "43.38",
+		"MUNICIPALITY": "Colrain town",
+		"COUNTY": " Franklin County"
+	},
+	{
+		"GEO_ID": "0600000US2501115200",
+		"QUINTILE_1": "5.99",
+		"QUINTILE_2": "10.46",
+		"QUINTILE_3": "15.14",
+		"QUINTILE_4": "22.22",
+		"QUINTILE_5": "46.20",
+		"MUNICIPALITY": "Conway town",
+		"COUNTY": " Franklin County"
+	},
+	{
+		"GEO_ID": "0600000US2501116670",
+		"QUINTILE_1": "4.90",
+		"QUINTILE_2": "10.26",
+		"QUINTILE_3": "15.69",
+		"QUINTILE_4": "21.16",
+		"QUINTILE_5": "48.00",
+		"MUNICIPALITY": "Deerfield town",
+		"COUNTY": " Franklin County"
+	},
+	{
+		"GEO_ID": "0600000US2501121780",
+		"QUINTILE_1": "3.86",
+		"QUINTILE_2": "9.36",
+		"QUINTILE_3": "15.96",
+		"QUINTILE_4": "23.95",
+		"QUINTILE_5": "46.87",
+		"MUNICIPALITY": "Erving town",
+		"COUNTY": " Franklin County"
+	},
+	{
+		"GEO_ID": "0600000US2501125730",
+		"QUINTILE_1": "4.35",
+		"QUINTILE_2": "9.78",
+		"QUINTILE_3": "15.30",
+		"QUINTILE_4": "22.41",
+		"QUINTILE_5": "48.15",
+		"MUNICIPALITY": "Gill town",
+		"COUNTY": " Franklin County"
+	},
+	{
+		"GEO_ID": "0600000US2501127060",
+		"QUINTILE_1": "3.81",
+		"QUINTILE_2": "8.76",
+		"QUINTILE_3": "15.36",
+		"QUINTILE_4": "23.65",
+		"QUINTILE_5": "48.41",
+		"MUNICIPALITY": "Greenfield city",
+		"COUNTY": " Franklin County"
+	},
+	{
+		"GEO_ID": "0600000US2501129475",
+		"QUINTILE_1": "2.41",
+		"QUINTILE_2": "7.95",
+		"QUINTILE_3": "13.51",
+		"QUINTILE_4": "21.08",
+		"QUINTILE_5": "55.04",
+		"MUNICIPALITY": "Hawley town",
+		"COUNTY": " Franklin County"
+	},
+	{
+		"GEO_ID": "0600000US2501129650",
+		"QUINTILE_1": "3.21",
+		"QUINTILE_2": "10.91",
+		"QUINTILE_3": "19.53",
+		"QUINTILE_4": "24.29",
+		"QUINTILE_5": "42.07",
+		"MUNICIPALITY": "Heath town",
+		"COUNTY": " Franklin County"
+	},
+	{
+		"GEO_ID": "0600000US2501135180",
+		"QUINTILE_1": "3.81",
+		"QUINTILE_2": "9.23",
+		"QUINTILE_3": "15.01",
+		"QUINTILE_4": "23.98",
+		"QUINTILE_5": "47.98",
+		"MUNICIPALITY": "Leverett town",
+		"COUNTY": " Franklin County"
+	},
+	{
+		"GEO_ID": "0600000US2501135285",
+		"QUINTILE_1": "4.44",
+		"QUINTILE_2": "11.76",
+		"QUINTILE_3": "17.81",
+		"QUINTILE_4": "23.30",
+		"QUINTILE_5": "42.69",
+		"MUNICIPALITY": "Leyden town",
+		"COUNTY": " Franklin County"
+	},
+	{
+		"GEO_ID": "0600000US2501142285",
+		"QUINTILE_1": "4.33",
+		"QUINTILE_2": "10.30",
+		"QUINTILE_3": "17.36",
+		"QUINTILE_4": "26.54",
+		"QUINTILE_5": "41.47",
+		"MUNICIPALITY": "Montague town",
+		"COUNTY": " Franklin County"
+	},
+	{
+		"GEO_ID": "0600000US2501145490",
+		"QUINTILE_1": "4.21",
+		"QUINTILE_2": "10.41",
+		"QUINTILE_3": "16.38",
+		"QUINTILE_4": "24.82",
+		"QUINTILE_5": "44.19",
+		"MUNICIPALITY": "New Salem town",
+		"COUNTY": " Franklin County"
+	},
+	{
+		"GEO_ID": "0600000US2501147835",
+		"QUINTILE_1": "4.74",
+		"QUINTILE_2": "11.60",
+		"QUINTILE_3": "16.87",
+		"QUINTILE_4": "22.78",
+		"QUINTILE_5": "44.00",
+		"MUNICIPALITY": "Northfield town",
+		"COUNTY": " Franklin County"
+	},
+	{
+		"GEO_ID": "0600000US2501151265",
+		"QUINTILE_1": "3.99",
+		"QUINTILE_2": "8.85",
+		"QUINTILE_3": "15.88",
+		"QUINTILE_4": "25.73",
+		"QUINTILE_5": "45.54",
+		"MUNICIPALITY": "Orange town",
+		"COUNTY": " Franklin County"
+	},
+	{
+		"GEO_ID": "0600000US2501158335",
+		"QUINTILE_1": "5.40",
+		"QUINTILE_2": "11.26",
+		"QUINTILE_3": "17.88",
+		"QUINTILE_4": "24.44",
+		"QUINTILE_5": "41.02",
+		"MUNICIPALITY": "Rowe town",
+		"COUNTY": " Franklin County"
+	},
+	{
+		"GEO_ID": "0600000US2501161135",
+		"QUINTILE_1": "2.90",
+		"QUINTILE_2": "10.19",
+		"QUINTILE_3": "16.89",
+		"QUINTILE_4": "23.85",
+		"QUINTILE_5": "46.18",
+		"MUNICIPALITY": "Shelburne town",
+		"COUNTY": " Franklin County"
+	},
+	{
+		"GEO_ID": "0600000US2501161905",
+		"QUINTILE_1": "5.58",
+		"QUINTILE_2": "11.89",
+		"QUINTILE_3": "16.60",
+		"QUINTILE_4": "23.99",
+		"QUINTILE_5": "41.94",
+		"MUNICIPALITY": "Shutesbury town",
+		"COUNTY": " Franklin County"
+	},
+	{
+		"GEO_ID": "0600000US2501168400",
+		"QUINTILE_1": "2.33",
+		"QUINTILE_2": "9.98",
+		"QUINTILE_3": "16.33",
+		"QUINTILE_4": "24.89",
+		"QUINTILE_5": "46.47",
+		"MUNICIPALITY": "Sunderland town",
+		"COUNTY": " Franklin County"
+	},
+	{
+		"GEO_ID": "0600000US2501173265",
+		"QUINTILE_1": "5.27",
+		"QUINTILE_2": "11.69",
+		"QUINTILE_3": "17.11",
+		"QUINTILE_4": "24.43",
+		"QUINTILE_5": "41.49",
+		"MUNICIPALITY": "Warwick town",
+		"COUNTY": " Franklin County"
+	},
+	{
+		"GEO_ID": "0600000US2501174525",
+		"QUINTILE_1": "3.00",
+		"QUINTILE_2": "11.22",
+		"QUINTILE_3": "16.88",
+		"QUINTILE_4": "23.73",
+		"QUINTILE_5": "45.17",
+		"MUNICIPALITY": "Wendell town",
+		"COUNTY": " Franklin County"
+	},
+	{
+		"GEO_ID": "0600000US2501179110",
+		"QUINTILE_1": "4.19",
+		"QUINTILE_2": "8.89",
+		"QUINTILE_3": "12.73",
+		"QUINTILE_4": "19.15",
+		"QUINTILE_5": "55.03",
+		"MUNICIPALITY": "Whately town",
+		"COUNTY": " Franklin County"
+	},
+	{
+		"GEO_ID": "0600000US2501300840",
+		"QUINTILE_1": "3.59",
+		"QUINTILE_2": "9.47",
+		"QUINTILE_3": "15.66",
+		"QUINTILE_4": "24.18",
+		"QUINTILE_5": "47.10",
+		"MUNICIPALITY": "Agawam Town city",
+		"COUNTY": " Hampden County"
+	},
+	{
+		"GEO_ID": "0600000US2501306085",
+		"QUINTILE_1": "6.00",
+		"QUINTILE_2": "11.52",
+		"QUINTILE_3": "18.20",
+		"QUINTILE_4": "24.62",
+		"QUINTILE_5": "39.67",
+		"MUNICIPALITY": "Blandford town",
+		"COUNTY": " Hampden County"
+	},
+	{
+		"GEO_ID": "0600000US2501308470",
+		"QUINTILE_1": "3.05",
+		"QUINTILE_2": "7.90",
+		"QUINTILE_3": "14.99",
+		"QUINTILE_4": "24.35",
+		"QUINTILE_5": "49.71",
+		"MUNICIPALITY": "Brimfield town",
+		"COUNTY": " Hampden County"
+	},
+	{
+		"GEO_ID": "0600000US2501313485",
+		"QUINTILE_1": "5.51",
+		"QUINTILE_2": "12.62",
+		"QUINTILE_3": "18.92",
+		"QUINTILE_4": "24.23",
+		"QUINTILE_5": "38.72",
+		"MUNICIPALITY": "Chester town",
+		"COUNTY": " Hampden County"
+	},
+	{
+		"GEO_ID": "0600000US2501313660",
+		"QUINTILE_1": "3.39",
+		"QUINTILE_2": "9.21",
+		"QUINTILE_3": "16.01",
+		"QUINTILE_4": "24.08",
+		"QUINTILE_5": "47.30",
+		"MUNICIPALITY": "Chicopee city",
+		"COUNTY": " Hampden County"
+	},
+	{
+		"GEO_ID": "0600000US2501319645",
+		"QUINTILE_1": "4.17",
+		"QUINTILE_2": "10.24",
+		"QUINTILE_3": "15.40",
+		"QUINTILE_4": "23.74",
+		"QUINTILE_5": "46.45",
+		"MUNICIPALITY": "East Longmeadow town",
+		"COUNTY": " Hampden County"
+	},
+	{
+		"GEO_ID": "0600000US2501326675",
+		"QUINTILE_1": "4.09",
+		"QUINTILE_2": "11.24",
+		"QUINTILE_3": "17.30",
+		"QUINTILE_4": "24.52",
+		"QUINTILE_5": "42.85",
+		"MUNICIPALITY": "Granville town",
+		"COUNTY": " Hampden County"
+	},
+	{
+		"GEO_ID": "0600000US2501328075",
+		"QUINTILE_1": "5.30",
+		"QUINTILE_2": "11.86",
+		"QUINTILE_3": "18.34",
+		"QUINTILE_4": "25.95",
+		"QUINTILE_5": "38.56",
+		"MUNICIPALITY": "Hampden town",
+		"COUNTY": " Hampden County"
+	},
+	{
+		"GEO_ID": "0600000US2501330665",
+		"QUINTILE_1": "3.32",
+		"QUINTILE_2": "10.37",
+		"QUINTILE_3": "16.19",
+		"QUINTILE_4": "22.74",
+		"QUINTILE_5": "47.38",
+		"MUNICIPALITY": "Holland town",
+		"COUNTY": " Hampden County"
+	},
+	{
+		"GEO_ID": "0600000US2501330840",
+		"QUINTILE_1": "2.66",
+		"QUINTILE_2": "7.65",
+		"QUINTILE_3": "14.55",
+		"QUINTILE_4": "23.48",
+		"QUINTILE_5": "51.65",
+		"MUNICIPALITY": "Holyoke city",
+		"COUNTY": " Hampden County"
+	},
+	{
+		"GEO_ID": "0600000US2501336300",
+		"QUINTILE_1": "3.40",
+		"QUINTILE_2": "10.72",
+		"QUINTILE_3": "15.92",
+		"QUINTILE_4": "23.41",
+		"QUINTILE_5": "46.55",
+		"MUNICIPALITY": "Longmeadow town",
+		"COUNTY": " Hampden County"
+	},
+	{
+		"GEO_ID": "0600000US2501337175",
+		"QUINTILE_1": "3.28",
+		"QUINTILE_2": "9.60",
+		"QUINTILE_3": "15.69",
+		"QUINTILE_4": "24.48",
+		"QUINTILE_5": "46.96",
+		"MUNICIPALITY": "Ludlow town",
+		"COUNTY": " Hampden County"
+	},
+	{
+		"GEO_ID": "0600000US2501342145",
+		"QUINTILE_1": "3.68",
+		"QUINTILE_2": "9.53",
+		"QUINTILE_3": "15.86",
+		"QUINTILE_4": "24.94",
+		"QUINTILE_5": "46.00",
+		"MUNICIPALITY": "Monson town",
+		"COUNTY": " Hampden County"
+	},
+	{
+		"GEO_ID": "0600000US2501342530",
+		"QUINTILE_1": "5.14",
+		"QUINTILE_2": "10.93",
+		"QUINTILE_3": "16.11",
+		"QUINTILE_4": "23.49",
+		"QUINTILE_5": "44.31",
+		"MUNICIPALITY": "Montgomery town",
+		"COUNTY": " Hampden County"
+	},
+	{
+		"GEO_ID": "0600000US2501352144",
+		"QUINTILE_1": "3.56",
+		"QUINTILE_2": "10.16",
+		"QUINTILE_3": "15.91",
+		"QUINTILE_4": "23.35",
+		"QUINTILE_5": "47.02",
+		"MUNICIPALITY": "Palmer Town city",
+		"COUNTY": " Hampden County"
+	},
+	{
+		"GEO_ID": "0600000US2501358650",
+		"QUINTILE_1": "7.17",
+		"QUINTILE_2": "12.67",
+		"QUINTILE_3": "17.34",
+		"QUINTILE_4": "22.59",
+		"QUINTILE_5": "40.23",
+		"MUNICIPALITY": "Russell town",
+		"COUNTY": " Hampden County"
+	},
+	{
+		"GEO_ID": "0600000US2501365825",
+		"QUINTILE_1": "4.72",
+		"QUINTILE_2": "9.80",
+		"QUINTILE_3": "17.18",
+		"QUINTILE_4": "24.70",
+		"QUINTILE_5": "43.60",
+		"MUNICIPALITY": "Southwick town",
+		"COUNTY": " Hampden County"
+	},
+	{
+		"GEO_ID": "0600000US2501367000",
+		"QUINTILE_1": "2.70",
+		"QUINTILE_2": "7.74",
+		"QUINTILE_3": "14.55",
+		"QUINTILE_4": "24.60",
+		"QUINTILE_5": "50.41",
+		"MUNICIPALITY": "Springfield city",
+		"COUNTY": " Hampden County"
+	},
+	{
+		"GEO_ID": "0600000US2501370045",
+		"QUINTILE_1": "4.20",
+		"QUINTILE_2": "9.22",
+		"QUINTILE_3": "14.65",
+		"QUINTILE_4": "21.47",
+		"QUINTILE_5": "50.45",
+		"MUNICIPALITY": "Tolland town",
+		"COUNTY": " Hampden County"
+	},
+	{
+		"GEO_ID": "0600000US2501372390",
+		"QUINTILE_1": "4.60",
+		"QUINTILE_2": "12.52",
+		"QUINTILE_3": "16.96",
+		"QUINTILE_4": "22.75",
+		"QUINTILE_5": "43.17",
+		"MUNICIPALITY": "Wales town",
+		"COUNTY": " Hampden County"
+	},
+	{
+		"GEO_ID": "0600000US2501376030",
+		"QUINTILE_1": "3.59",
+		"QUINTILE_2": "9.63",
+		"QUINTILE_3": "15.53",
+		"QUINTILE_4": "23.65",
+		"QUINTILE_5": "47.61",
+		"MUNICIPALITY": "Westfield city",
+		"COUNTY": " Hampden County"
+	},
+	{
+		"GEO_ID": "0600000US2501377890",
+		"QUINTILE_1": "3.28",
+		"QUINTILE_2": "8.49",
+		"QUINTILE_3": "14.80",
+		"QUINTILE_4": "24.36",
+		"QUINTILE_5": "49.08",
+		"MUNICIPALITY": "West Springfield Town city",
+		"COUNTY": " Hampden County"
+	},
+	{
+		"GEO_ID": "0600000US2501379740",
+		"QUINTILE_1": "3.56",
+		"QUINTILE_2": "10.87",
+		"QUINTILE_3": "17.50",
+		"QUINTILE_4": "24.07",
+		"QUINTILE_5": "43.99",
+		"MUNICIPALITY": "Wilbraham town",
+		"COUNTY": " Hampden County"
+	},
+	{
+		"GEO_ID": "0600000US2501501370",
+		"QUINTILE_1": "1.75",
+		"QUINTILE_2": "6.25",
+		"QUINTILE_3": "13.14",
+		"QUINTILE_4": "23.67",
+		"QUINTILE_5": "55.19",
+		"MUNICIPALITY": "Amherst Town city",
+		"COUNTY": " Hampshire County"
+	},
+	{
+		"GEO_ID": "0600000US2501504825",
+		"QUINTILE_1": "3.97",
+		"QUINTILE_2": "11.15",
+		"QUINTILE_3": "17.62",
+		"QUINTILE_4": "24.55",
+		"QUINTILE_5": "42.72",
+		"MUNICIPALITY": "Belchertown town",
+		"COUNTY": " Hampshire County"
+	},
+	{
+		"GEO_ID": "0600000US2501513590",
+		"QUINTILE_1": "4.18",
+		"QUINTILE_2": "11.36",
+		"QUINTILE_3": "17.03",
+		"QUINTILE_4": "22.90",
+		"QUINTILE_5": "44.53",
+		"MUNICIPALITY": "Chesterfield town",
+		"COUNTY": " Hampshire County"
+	},
+	{
+		"GEO_ID": "0600000US2501516040",
+		"QUINTILE_1": "4.14",
+		"QUINTILE_2": "10.80",
+		"QUINTILE_3": "17.65",
+		"QUINTILE_4": "25.11",
+		"QUINTILE_5": "42.30",
+		"MUNICIPALITY": "Cummington town",
+		"COUNTY": " Hampshire County"
+	},
+	{
+		"GEO_ID": "0600000US2501519370",
+		"QUINTILE_1": "3.94",
+		"QUINTILE_2": "9.51",
+		"QUINTILE_3": "15.19",
+		"QUINTILE_4": "24.02",
+		"QUINTILE_5": "47.34",
+		"MUNICIPALITY": "Easthampton Town city",
+		"COUNTY": " Hampshire County"
+	},
+	{
+		"GEO_ID": "0600000US2501526290",
+		"QUINTILE_1": "4.71",
+		"QUINTILE_2": "10.59",
+		"QUINTILE_3": "18.87",
+		"QUINTILE_4": "24.85",
+		"QUINTILE_5": "40.97",
+		"MUNICIPALITY": "Goshen town",
+		"COUNTY": " Hampshire County"
+	},
+	{
+		"GEO_ID": "0600000US2501526535",
+		"QUINTILE_1": "3.28",
+		"QUINTILE_2": "9.35",
+		"QUINTILE_3": "16.42",
+		"QUINTILE_4": "22.84",
+		"QUINTILE_5": "48.11",
+		"MUNICIPALITY": "Granby town",
+		"COUNTY": " Hampshire County"
+	},
+	{
+		"GEO_ID": "0600000US2501527690",
+		"QUINTILE_1": "4.90",
+		"QUINTILE_2": "11.20",
+		"QUINTILE_3": "16.77",
+		"QUINTILE_4": "23.42",
+		"QUINTILE_5": "43.71",
+		"MUNICIPALITY": "Hadley town",
+		"COUNTY": " Hampshire County"
+	},
+	{
+		"GEO_ID": "0600000US2501529265",
+		"QUINTILE_1": "2.96",
+		"QUINTILE_2": "9.88",
+		"QUINTILE_3": "16.47",
+		"QUINTILE_4": "24.29",
+		"QUINTILE_5": "46.40",
+		"MUNICIPALITY": "Hatfield town",
+		"COUNTY": " Hampshire County"
+	},
+	{
+		"GEO_ID": "0600000US2501531785",
+		"QUINTILE_1": "5.38",
+		"QUINTILE_2": "10.93",
+		"QUINTILE_3": "17.68",
+		"QUINTILE_4": "26.39",
+		"QUINTILE_5": "39.62",
+		"MUNICIPALITY": "Huntington town",
+		"COUNTY": " Hampshire County"
+	},
+	{
+		"GEO_ID": "0600000US2501540990",
+		"QUINTILE_1": "3.76",
+		"QUINTILE_2": "10.71",
+		"QUINTILE_3": "15.51",
+		"QUINTILE_4": "21.02",
+		"QUINTILE_5": "48.99",
+		"MUNICIPALITY": "Middlefield town",
+		"COUNTY": " Hampshire County"
+	},
+	{
+		"GEO_ID": "0600000US2501546330",
+		"QUINTILE_1": "2.89",
+		"QUINTILE_2": "7.74",
+		"QUINTILE_3": "14.38",
+		"QUINTILE_4": "22.79",
+		"QUINTILE_5": "52.20",
+		"MUNICIPALITY": "Northampton city",
+		"COUNTY": " Hampshire County"
+	},
+	{
+		"GEO_ID": "0600000US2501552560",
+		"QUINTILE_1": "3.01",
+		"QUINTILE_2": "9.67",
+		"QUINTILE_3": "17.08",
+		"QUINTILE_4": "25.66",
+		"QUINTILE_5": "44.59",
+		"MUNICIPALITY": "Pelham town",
+		"COUNTY": " Hampshire County"
+	},
+	{
+		"GEO_ID": "0600000US2501554030",
+		"QUINTILE_1": "2.78",
+		"QUINTILE_2": "8.04",
+		"QUINTILE_3": "12.95",
+		"QUINTILE_4": "23.12",
+		"QUINTILE_5": "53.11",
+		"MUNICIPALITY": "Plainfield town",
+		"COUNTY": " Hampshire County"
+	},
+	{
+		"GEO_ID": "0600000US2501562745",
+		"QUINTILE_1": "4.73",
+		"QUINTILE_2": "10.26",
+		"QUINTILE_3": "16.75",
+		"QUINTILE_4": "22.86",
+		"QUINTILE_5": "45.39",
+		"MUNICIPALITY": "Southampton town",
+		"COUNTY": " Hampshire County"
+	},
+	{
+		"GEO_ID": "0600000US2501564145",
+		"QUINTILE_1": "3.24",
+		"QUINTILE_2": "8.99",
+		"QUINTILE_3": "15.19",
+		"QUINTILE_4": "22.67",
+		"QUINTILE_5": "49.91",
+		"MUNICIPALITY": "South Hadley town",
+		"COUNTY": " Hampshire County"
+	},
+	{
+		"GEO_ID": "0600000US2501572880",
+		"QUINTILE_1": "3.57",
+		"QUINTILE_2": "8.55",
+		"QUINTILE_3": "16.44",
+		"QUINTILE_4": "26.14",
+		"QUINTILE_5": "45.29",
+		"MUNICIPALITY": "Ware town",
+		"COUNTY": " Hampshire County"
+	},
+	{
+		"GEO_ID": "0600000US2501576380",
+		"QUINTILE_1": "5.35",
+		"QUINTILE_2": "10.43",
+		"QUINTILE_3": "15.02",
+		"QUINTILE_4": "23.26",
+		"QUINTILE_5": "45.95",
+		"MUNICIPALITY": "Westhampton town",
+		"COUNTY": " Hampshire County"
+	},
+	{
+		"GEO_ID": "0600000US2501579915",
+		"QUINTILE_1": "4.63",
+		"QUINTILE_2": "10.89",
+		"QUINTILE_3": "16.66",
+		"QUINTILE_4": "21.80",
+		"QUINTILE_5": "46.03",
+		"MUNICIPALITY": "Williamsburg town",
+		"COUNTY": " Hampshire County"
+	},
+	{
+		"GEO_ID": "0600000US2501582175",
+		"QUINTILE_1": "4.95",
+		"QUINTILE_2": "11.66",
+		"QUINTILE_3": "17.03",
+		"QUINTILE_4": "24.23",
+		"QUINTILE_5": "42.13",
+		"MUNICIPALITY": "Worthington town",
+		"COUNTY": " Hampshire County"
+	},
+	{
+		"GEO_ID": "0600000US2501700380",
+		"QUINTILE_1": "3.49",
+		"QUINTILE_2": "8.99",
+		"QUINTILE_3": "15.79",
+		"QUINTILE_4": "24.40",
+		"QUINTILE_5": "47.33",
+		"MUNICIPALITY": "Acton town",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501701605",
+		"QUINTILE_1": "2.78",
+		"QUINTILE_2": "8.91",
+		"QUINTILE_3": "15.09",
+		"QUINTILE_4": "23.47",
+		"QUINTILE_5": "49.75",
+		"MUNICIPALITY": "Arlington town",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501701955",
+		"QUINTILE_1": "5.47",
+		"QUINTILE_2": "11.69",
+		"QUINTILE_3": "16.36",
+		"QUINTILE_4": "22.40",
+		"QUINTILE_5": "44.09",
+		"MUNICIPALITY": "Ashby town",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501702130",
+		"QUINTILE_1": "4.34",
+		"QUINTILE_2": "10.25",
+		"QUINTILE_3": "15.51",
+		"QUINTILE_4": "23.77",
+		"QUINTILE_5": "46.14",
+		"MUNICIPALITY": "Ashland town",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501703005",
+		"QUINTILE_1": "4.32",
+		"QUINTILE_2": "10.19",
+		"QUINTILE_3": "16.73",
+		"QUINTILE_4": "24.90",
+		"QUINTILE_5": "43.85",
+		"MUNICIPALITY": "Ayer town",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501704615",
+		"QUINTILE_1": "3.33",
+		"QUINTILE_2": "8.91",
+		"QUINTILE_3": "14.95",
+		"QUINTILE_4": "23.18",
+		"QUINTILE_5": "49.63",
+		"MUNICIPALITY": "Bedford town",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501705070",
+		"QUINTILE_1": "2.88",
+		"QUINTILE_2": "8.84",
+		"QUINTILE_3": "14.55",
+		"QUINTILE_4": "22.20",
+		"QUINTILE_5": "51.52",
+		"MUNICIPALITY": "Belmont town",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501705805",
+		"QUINTILE_1": "4.88",
+		"QUINTILE_2": "12.01",
+		"QUINTILE_3": "18.34",
+		"QUINTILE_4": "24.06",
+		"QUINTILE_5": "40.72",
+		"MUNICIPALITY": "Billerica town",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501707350",
+		"QUINTILE_1": "3.64",
+		"QUINTILE_2": "9.73",
+		"QUINTILE_3": "16.49",
+		"QUINTILE_4": "26.30",
+		"QUINTILE_5": "43.85",
+		"MUNICIPALITY": "Boxborough town",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501709840",
+		"QUINTILE_1": "3.58",
+		"QUINTILE_2": "9.36",
+		"QUINTILE_3": "16.31",
+		"QUINTILE_4": "24.54",
+		"QUINTILE_5": "46.21",
+		"MUNICIPALITY": "Burlington town",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501711000",
+		"QUINTILE_1": "2.24",
+		"QUINTILE_2": "8.07",
+		"QUINTILE_3": "14.34",
+		"QUINTILE_4": "22.84",
+		"QUINTILE_5": "52.51",
+		"MUNICIPALITY": "Cambridge city",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501711525",
+		"QUINTILE_1": "3.16",
+		"QUINTILE_2": "10.27",
+		"QUINTILE_3": "16.34",
+		"QUINTILE_4": "24.19",
+		"QUINTILE_5": "46.04",
+		"MUNICIPALITY": "Carlisle town",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501713135",
+		"QUINTILE_1": "4.06",
+		"QUINTILE_2": "11.05",
+		"QUINTILE_3": "17.53",
+		"QUINTILE_4": "24.92",
+		"QUINTILE_5": "42.44",
+		"MUNICIPALITY": "Chelmsford town",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501715060",
+		"QUINTILE_1": "3.18",
+		"QUINTILE_2": "9.00",
+		"QUINTILE_3": "14.25",
+		"QUINTILE_4": "21.49",
+		"QUINTILE_5": "52.08",
+		"MUNICIPALITY": "Concord town",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501717475",
+		"QUINTILE_1": "4.15",
+		"QUINTILE_2": "10.57",
+		"QUINTILE_3": "17.49",
+		"QUINTILE_4": "25.36",
+		"QUINTILE_5": "42.43",
+		"MUNICIPALITY": "Dracut town",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501717825",
+		"QUINTILE_1": "5.48",
+		"QUINTILE_2": "12.13",
+		"QUINTILE_3": "19.14",
+		"QUINTILE_4": "24.96",
+		"QUINTILE_5": "38.29",
+		"MUNICIPALITY": "Dunstable town",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501721990",
+		"QUINTILE_1": "2.76",
+		"QUINTILE_2": "8.60",
+		"QUINTILE_3": "16.08",
+		"QUINTILE_4": "24.62",
+		"QUINTILE_5": "47.94",
+		"MUNICIPALITY": "Everett city",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501724960",
+		"QUINTILE_1": "2.97",
+		"QUINTILE_2": "8.73",
+		"QUINTILE_3": "14.32",
+		"QUINTILE_4": "23.69",
+		"QUINTILE_5": "50.29",
+		"MUNICIPALITY": "Framingham city",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501727480",
+		"QUINTILE_1": "2.68",
+		"QUINTILE_2": "8.78",
+		"QUINTILE_3": "17.04",
+		"QUINTILE_4": "24.77",
+		"QUINTILE_5": "46.72",
+		"MUNICIPALITY": "Groton town",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501730700",
+		"QUINTILE_1": "3.28",
+		"QUINTILE_2": "10.34",
+		"QUINTILE_3": "16.21",
+		"QUINTILE_4": "23.43",
+		"QUINTILE_5": "46.75",
+		"MUNICIPALITY": "Holliston town",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501731085",
+		"QUINTILE_1": "2.98",
+		"QUINTILE_2": "8.86",
+		"QUINTILE_3": "14.23",
+		"QUINTILE_4": "22.28",
+		"QUINTILE_5": "51.65",
+		"MUNICIPALITY": "Hopkinton town",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501731540",
+		"QUINTILE_1": "3.80",
+		"QUINTILE_2": "9.56",
+		"QUINTILE_3": "16.16",
+		"QUINTILE_4": "24.81",
+		"QUINTILE_5": "45.68",
+		"MUNICIPALITY": "Hudson town",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501735215",
+		"QUINTILE_1": "2.94",
+		"QUINTILE_2": "9.19",
+		"QUINTILE_3": "14.85",
+		"QUINTILE_4": "23.45",
+		"QUINTILE_5": "49.57",
+		"MUNICIPALITY": "Lexington town",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501735425",
+		"QUINTILE_1": "2.01",
+		"QUINTILE_2": "6.08",
+		"QUINTILE_3": "11.81",
+		"QUINTILE_4": "23.07",
+		"QUINTILE_5": "57.04",
+		"MUNICIPALITY": "Lincoln town",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501735950",
+		"QUINTILE_1": "3.93",
+		"QUINTILE_2": "9.71",
+		"QUINTILE_3": "16.63",
+		"QUINTILE_4": "25.06",
+		"QUINTILE_5": "44.66",
+		"MUNICIPALITY": "Littleton town",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501737000",
+		"QUINTILE_1": "3.06",
+		"QUINTILE_2": "9.37",
+		"QUINTILE_3": "16.21",
+		"QUINTILE_4": "24.27",
+		"QUINTILE_5": "47.10",
+		"MUNICIPALITY": "Lowell city",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501737875",
+		"QUINTILE_1": "2.97",
+		"QUINTILE_2": "9.13",
+		"QUINTILE_3": "16.09",
+		"QUINTILE_4": "24.68",
+		"QUINTILE_5": "47.13",
+		"MUNICIPALITY": "Malden city",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501738715",
+		"QUINTILE_1": "3.71",
+		"QUINTILE_2": "9.50",
+		"QUINTILE_3": "16.24",
+		"QUINTILE_4": "24.46",
+		"QUINTILE_5": "46.09",
+		"MUNICIPALITY": "Marlborough city",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501739625",
+		"QUINTILE_1": "2.78",
+		"QUINTILE_2": "8.87",
+		"QUINTILE_3": "15.95",
+		"QUINTILE_4": "25.36",
+		"QUINTILE_5": "47.04",
+		"MUNICIPALITY": "Maynard town",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501739835",
+		"QUINTILE_1": "3.24",
+		"QUINTILE_2": "9.23",
+		"QUINTILE_3": "16.10",
+		"QUINTILE_4": "24.57",
+		"QUINTILE_5": "46.87",
+		"MUNICIPALITY": "Medford city",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501740115",
+		"QUINTILE_1": "2.89",
+		"QUINTILE_2": "9.38",
+		"QUINTILE_3": "17.02",
+		"QUINTILE_4": "26.18",
+		"QUINTILE_5": "44.54",
+		"MUNICIPALITY": "Melrose city",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501743895",
+		"QUINTILE_1": "3.15",
+		"QUINTILE_2": "9.34",
+		"QUINTILE_3": "15.39",
+		"QUINTILE_4": "24.20",
+		"QUINTILE_5": "47.91",
+		"MUNICIPALITY": "Natick town",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501745560",
+		"QUINTILE_1": "2.68",
+		"QUINTILE_2": "8.20",
+		"QUINTILE_3": "14.03",
+		"QUINTILE_4": "22.45",
+		"QUINTILE_5": "52.63",
+		"MUNICIPALITY": "Newton city",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501748955",
+		"QUINTILE_1": "3.91",
+		"QUINTILE_2": "8.64",
+		"QUINTILE_3": "14.43",
+		"QUINTILE_4": "21.22",
+		"QUINTILE_5": "51.80",
+		"MUNICIPALITY": "North Reading town",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501752805",
+		"QUINTILE_1": "3.51",
+		"QUINTILE_2": "10.39",
+		"QUINTILE_3": "17.56",
+		"QUINTILE_4": "24.69",
+		"QUINTILE_5": "43.85",
+		"MUNICIPALITY": "Pepperell town",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501756130",
+		"QUINTILE_1": "3.47",
+		"QUINTILE_2": "9.91",
+		"QUINTILE_3": "17.06",
+		"QUINTILE_4": "24.99",
+		"QUINTILE_5": "44.58",
+		"MUNICIPALITY": "Reading town",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501761380",
+		"QUINTILE_1": "3.46",
+		"QUINTILE_2": "8.50",
+		"QUINTILE_3": "14.98",
+		"QUINTILE_4": "22.37",
+		"QUINTILE_5": "50.69",
+		"MUNICIPALITY": "Sherborn town",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501761590",
+		"QUINTILE_1": "3.96",
+		"QUINTILE_2": "10.08",
+		"QUINTILE_3": "17.35",
+		"QUINTILE_4": "23.88",
+		"QUINTILE_5": "44.74",
+		"MUNICIPALITY": "Shirley town",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501762535",
+		"QUINTILE_1": "3.07",
+		"QUINTILE_2": "9.80",
+		"QUINTILE_3": "16.32",
+		"QUINTILE_4": "24.26",
+		"QUINTILE_5": "46.56",
+		"MUNICIPALITY": "Somerville city",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501767665",
+		"QUINTILE_1": "3.40",
+		"QUINTILE_2": "9.88",
+		"QUINTILE_3": "16.08",
+		"QUINTILE_4": "25.46",
+		"QUINTILE_5": "45.17",
+		"MUNICIPALITY": "Stoneham town",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501768050",
+		"QUINTILE_1": "3.94",
+		"QUINTILE_2": "10.44",
+		"QUINTILE_3": "17.02",
+		"QUINTILE_4": "23.10",
+		"QUINTILE_5": "45.49",
+		"MUNICIPALITY": "Stow town",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501768260",
+		"QUINTILE_1": "4.02",
+		"QUINTILE_2": "11.34",
+		"QUINTILE_3": "16.50",
+		"QUINTILE_4": "23.99",
+		"QUINTILE_5": "44.15",
+		"MUNICIPALITY": "Sudbury town",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501769415",
+		"QUINTILE_1": "4.73",
+		"QUINTILE_2": "10.92",
+		"QUINTILE_3": "17.18",
+		"QUINTILE_4": "24.42",
+		"QUINTILE_5": "42.75",
+		"MUNICIPALITY": "Tewksbury town",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501770360",
+		"QUINTILE_1": "3.22",
+		"QUINTILE_2": "10.85",
+		"QUINTILE_3": "17.99",
+		"QUINTILE_4": "26.40",
+		"QUINTILE_5": "41.53",
+		"MUNICIPALITY": "Townsend town",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501771025",
+		"QUINTILE_1": "4.89",
+		"QUINTILE_2": "10.67",
+		"QUINTILE_3": "17.02",
+		"QUINTILE_4": "23.07",
+		"QUINTILE_5": "44.35",
+		"MUNICIPALITY": "Tyngsborough town",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501772215",
+		"QUINTILE_1": "3.37",
+		"QUINTILE_2": "9.99",
+		"QUINTILE_3": "15.94",
+		"QUINTILE_4": "23.35",
+		"QUINTILE_5": "47.35",
+		"MUNICIPALITY": "Wakefield town",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501772600",
+		"QUINTILE_1": "3.37",
+		"QUINTILE_2": "9.44",
+		"QUINTILE_3": "16.35",
+		"QUINTILE_4": "24.59",
+		"QUINTILE_5": "46.25",
+		"MUNICIPALITY": "Waltham city",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501773440",
+		"QUINTILE_1": "3.13",
+		"QUINTILE_2": "9.90",
+		"QUINTILE_3": "15.19",
+		"QUINTILE_4": "23.49",
+		"QUINTILE_5": "48.28",
+		"MUNICIPALITY": "Watertown Town city",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501773790",
+		"QUINTILE_1": "3.42",
+		"QUINTILE_2": "9.65",
+		"QUINTILE_3": "15.80",
+		"QUINTILE_4": "24.36",
+		"QUINTILE_5": "46.77",
+		"MUNICIPALITY": "Wayland town",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501776135",
+		"QUINTILE_1": "4.29",
+		"QUINTILE_2": "11.80",
+		"QUINTILE_3": "18.11",
+		"QUINTILE_4": "24.12",
+		"QUINTILE_5": "41.67",
+		"MUNICIPALITY": "Westford town",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501777255",
+		"QUINTILE_1": "1.25",
+		"QUINTILE_2": "6.56",
+		"QUINTILE_3": "13.81",
+		"QUINTILE_4": "22.49",
+		"QUINTILE_5": "55.89",
+		"MUNICIPALITY": "Weston town",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501780230",
+		"QUINTILE_1": "4.58",
+		"QUINTILE_2": "11.79",
+		"QUINTILE_3": "18.13",
+		"QUINTILE_4": "24.09",
+		"QUINTILE_5": "41.41",
+		"MUNICIPALITY": "Wilmington town",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501780510",
+		"QUINTILE_1": "2.67",
+		"QUINTILE_2": "9.04",
+		"QUINTILE_3": "15.05",
+		"QUINTILE_4": "23.42",
+		"QUINTILE_5": "49.82",
+		"MUNICIPALITY": "Winchester town",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501781035",
+		"QUINTILE_1": "3.74",
+		"QUINTILE_2": "9.83",
+		"QUINTILE_3": "15.51",
+		"QUINTILE_4": "24.33",
+		"QUINTILE_5": "46.60",
+		"MUNICIPALITY": "Woburn city",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501943790",
+		"QUINTILE_1": "3.87",
+		"QUINTILE_2": "8.77",
+		"QUINTILE_3": "15.08",
+		"QUINTILE_4": "22.88",
+		"QUINTILE_5": "49.40",
+		"MUNICIPALITY": "Nantucket town",
+		"COUNTY": " Nantucket County"
+	},
+	{
+		"GEO_ID": "0600000US2502102935",
+		"QUINTILE_1": "4.58",
+		"QUINTILE_2": "11.19",
+		"QUINTILE_3": "19.73",
+		"QUINTILE_4": "26.50",
+		"QUINTILE_5": "37.99",
+		"MUNICIPALITY": "Avon town",
+		"COUNTY": " Norfolk County"
+	},
+	{
+		"GEO_ID": "0600000US2502104930",
+		"QUINTILE_1": "4.09",
+		"QUINTILE_2": "11.26",
+		"QUINTILE_3": "17.61",
+		"QUINTILE_4": "24.54",
+		"QUINTILE_5": "42.50",
+		"MUNICIPALITY": "Bellingham town",
+		"COUNTY": " Norfolk County"
+	},
+	{
+		"GEO_ID": "0600000US2502107740",
+		"QUINTILE_1": "3.42",
+		"QUINTILE_2": "9.53",
+		"QUINTILE_3": "16.48",
+		"QUINTILE_4": "25.08",
+		"QUINTILE_5": "45.49",
+		"MUNICIPALITY": "Braintree Town city",
+		"COUNTY": " Norfolk County"
+	},
+	{
+		"GEO_ID": "0600000US2502109175",
+		"QUINTILE_1": "2.11",
+		"QUINTILE_2": "7.29",
+		"QUINTILE_3": "12.57",
+		"QUINTILE_4": "21.27",
+		"QUINTILE_5": "56.76",
+		"MUNICIPALITY": "Brookline town",
+		"COUNTY": " Norfolk County"
+	},
+	{
+		"GEO_ID": "0600000US2502111315",
+		"QUINTILE_1": "2.77",
+		"QUINTILE_2": "8.69",
+		"QUINTILE_3": "15.04",
+		"QUINTILE_4": "23.62",
+		"QUINTILE_5": "49.88",
+		"MUNICIPALITY": "Canton town",
+		"COUNTY": " Norfolk County"
+	},
+	{
+		"GEO_ID": "0600000US2502114640",
+		"QUINTILE_1": "1.96",
+		"QUINTILE_2": "6.49",
+		"QUINTILE_3": "12.53",
+		"QUINTILE_4": "22.33",
+		"QUINTILE_5": "56.68",
+		"MUNICIPALITY": "Cohasset town",
+		"COUNTY": " Norfolk County"
+	},
+	{
+		"GEO_ID": "0600000US2502116495",
+		"QUINTILE_1": "2.88",
+		"QUINTILE_2": "8.88",
+		"QUINTILE_3": "15.57",
+		"QUINTILE_4": "24.25",
+		"QUINTILE_5": "48.42",
+		"MUNICIPALITY": "Dedham town",
+		"COUNTY": " Norfolk County"
+	},
+	{
+		"GEO_ID": "0600000US2502117405",
+		"QUINTILE_1": "3.38",
+		"QUINTILE_2": "8.26",
+		"QUINTILE_3": "14.15",
+		"QUINTILE_4": "24.16",
+		"QUINTILE_5": "50.05",
+		"MUNICIPALITY": "Dover town",
+		"COUNTY": " Norfolk County"
+	},
+	{
+		"GEO_ID": "0600000US2502124820",
+		"QUINTILE_1": "2.64",
+		"QUINTILE_2": "8.00",
+		"QUINTILE_3": "13.29",
+		"QUINTILE_4": "21.05",
+		"QUINTILE_5": "55.02",
+		"MUNICIPALITY": "Foxborough town",
+		"COUNTY": " Norfolk County"
+	},
+	{
+		"GEO_ID": "0600000US2502125172",
+		"QUINTILE_1": "3.94",
+		"QUINTILE_2": "10.56",
+		"QUINTILE_3": "16.79",
+		"QUINTILE_4": "24.62",
+		"QUINTILE_5": "44.10",
+		"MUNICIPALITY": "Franklin Town city",
+		"COUNTY": " Norfolk County"
+	},
+	{
+		"GEO_ID": "0600000US2502130455",
+		"QUINTILE_1": "3.18",
+		"QUINTILE_2": "10.65",
+		"QUINTILE_3": "18.05",
+		"QUINTILE_4": "25.23",
+		"QUINTILE_5": "42.88",
+		"MUNICIPALITY": "Holbrook town",
+		"COUNTY": " Norfolk County"
+	},
+	{
+		"GEO_ID": "0600000US2502139765",
+		"QUINTILE_1": "2.39",
+		"QUINTILE_2": "8.22",
+		"QUINTILE_3": "15.16",
+		"QUINTILE_4": "23.70",
+		"QUINTILE_5": "50.54",
+		"MUNICIPALITY": "Medfield town",
+		"COUNTY": " Norfolk County"
+	},
+	{
+		"GEO_ID": "0600000US2502139975",
+		"QUINTILE_1": "3.75",
+		"QUINTILE_2": "10.10",
+		"QUINTILE_3": "16.26",
+		"QUINTILE_4": "22.56",
+		"QUINTILE_5": "47.33",
+		"MUNICIPALITY": "Medway town",
+		"COUNTY": " Norfolk County"
+	},
+	{
+		"GEO_ID": "0600000US2502141515",
+		"QUINTILE_1": "3.82",
+		"QUINTILE_2": "11.25",
+		"QUINTILE_3": "18.00",
+		"QUINTILE_4": "23.48",
+		"QUINTILE_5": "43.45",
+		"MUNICIPALITY": "Millis town",
+		"COUNTY": " Norfolk County"
+	},
+	{
+		"GEO_ID": "0600000US2502141690",
+		"QUINTILE_1": "2.65",
+		"QUINTILE_2": "8.81",
+		"QUINTILE_3": "15.51",
+		"QUINTILE_4": "23.81",
+		"QUINTILE_5": "49.23",
+		"MUNICIPALITY": "Milton town",
+		"COUNTY": " Norfolk County"
+	},
+	{
+		"GEO_ID": "0600000US2502144105",
+		"QUINTILE_1": "2.93",
+		"QUINTILE_2": "8.61",
+		"QUINTILE_3": "15.32",
+		"QUINTILE_4": "23.37",
+		"QUINTILE_5": "49.78",
+		"MUNICIPALITY": "Needham town",
+		"COUNTY": " Norfolk County"
+	},
+	{
+		"GEO_ID": "0600000US2502146050",
+		"QUINTILE_1": "5.32",
+		"QUINTILE_2": "11.53",
+		"QUINTILE_3": "17.39",
+		"QUINTILE_4": "24.17",
+		"QUINTILE_5": "41.60",
+		"MUNICIPALITY": "Norfolk town",
+		"COUNTY": " Norfolk County"
+	},
+	{
+		"GEO_ID": "0600000US2502150250",
+		"QUINTILE_1": "3.12",
+		"QUINTILE_2": "8.64",
+		"QUINTILE_3": "14.31",
+		"QUINTILE_4": "21.93",
+		"QUINTILE_5": "52.00",
+		"MUNICIPALITY": "Norwood town",
+		"COUNTY": " Norfolk County"
+	},
+	{
+		"GEO_ID": "0600000US2502154100",
+		"QUINTILE_1": "4.30",
+		"QUINTILE_2": "8.79",
+		"QUINTILE_3": "14.89",
+		"QUINTILE_4": "24.19",
+		"QUINTILE_5": "47.82",
+		"MUNICIPALITY": "Plainville town",
+		"COUNTY": " Norfolk County"
+	},
+	{
+		"GEO_ID": "0600000US2502155745",
+		"QUINTILE_1": "3.08",
+		"QUINTILE_2": "9.49",
+		"QUINTILE_3": "15.94",
+		"QUINTILE_4": "24.33",
+		"QUINTILE_5": "47.16",
+		"MUNICIPALITY": "Quincy city",
+		"COUNTY": " Norfolk County"
+	},
+	{
+		"GEO_ID": "0600000US2502156000",
+		"QUINTILE_1": "3.14",
+		"QUINTILE_2": "9.53",
+		"QUINTILE_3": "16.08",
+		"QUINTILE_4": "23.67",
+		"QUINTILE_5": "47.58",
+		"MUNICIPALITY": "Randolph Town city",
+		"COUNTY": " Norfolk County"
+	},
+	{
+		"GEO_ID": "0600000US2502160785",
+		"QUINTILE_1": "4.28",
+		"QUINTILE_2": "10.45",
+		"QUINTILE_3": "15.69",
+		"QUINTILE_4": "22.17",
+		"QUINTILE_5": "47.41",
+		"MUNICIPALITY": "Sharon town",
+		"COUNTY": " Norfolk County"
+	},
+	{
+		"GEO_ID": "0600000US2502167945",
+		"QUINTILE_1": "4.08",
+		"QUINTILE_2": "10.21",
+		"QUINTILE_3": "15.91",
+		"QUINTILE_4": "24.23",
+		"QUINTILE_5": "45.57",
+		"MUNICIPALITY": "Stoughton town",
+		"COUNTY": " Norfolk County"
+	},
+	{
+		"GEO_ID": "0600000US2502172495",
+		"QUINTILE_1": "3.75",
+		"QUINTILE_2": "10.02",
+		"QUINTILE_3": "16.60",
+		"QUINTILE_4": "24.27",
+		"QUINTILE_5": "45.36",
+		"MUNICIPALITY": "Walpole town",
+		"COUNTY": " Norfolk County"
+	},
+	{
+		"GEO_ID": "0600000US2502174175",
+		"QUINTILE_1": "2.46",
+		"QUINTILE_2": "7.65",
+		"QUINTILE_3": "14.39",
+		"QUINTILE_4": "22.64",
+		"QUINTILE_5": "52.87",
+		"MUNICIPALITY": "Wellesley town",
+		"COUNTY": " Norfolk County"
+	},
+	{
+		"GEO_ID": "0600000US2502178690",
+		"QUINTILE_1": "2.92",
+		"QUINTILE_2": "9.79",
+		"QUINTILE_3": "16.00",
+		"QUINTILE_4": "22.84",
+		"QUINTILE_5": "48.44",
+		"MUNICIPALITY": "Westwood town",
+		"COUNTY": " Norfolk County"
+	},
+	{
+		"GEO_ID": "0600000US2502178972",
+		"QUINTILE_1": "3.74",
+		"QUINTILE_2": "10.15",
+		"QUINTILE_3": "16.56",
+		"QUINTILE_4": "24.93",
+		"QUINTILE_5": "44.63",
+		"MUNICIPALITY": "Weymouth Town city",
+		"COUNTY": " Norfolk County"
+	},
+	{
+		"GEO_ID": "0600000US2502182315",
+		"QUINTILE_1": "4.04",
+		"QUINTILE_2": "9.99",
+		"QUINTILE_3": "16.57",
+		"QUINTILE_4": "24.03",
+		"QUINTILE_5": "45.37",
+		"MUNICIPALITY": "Wrentham town",
+		"COUNTY": " Norfolk County"
+	},
+	{
+		"GEO_ID": "0600000US2502300170",
+		"QUINTILE_1": "3.50",
+		"QUINTILE_2": "10.53",
+		"QUINTILE_3": "18.73",
+		"QUINTILE_4": "26.27",
+		"QUINTILE_5": "40.98",
+		"MUNICIPALITY": "Abington town",
+		"COUNTY": " Plymouth County"
+	},
+	{
+		"GEO_ID": "0600000US2502308130",
+		"QUINTILE_1": "4.21",
+		"QUINTILE_2": "10.06",
+		"QUINTILE_3": "16.39",
+		"QUINTILE_4": "23.25",
+		"QUINTILE_5": "46.09",
+		"MUNICIPALITY": "Bridgewater Town city",
+		"COUNTY": " Plymouth County"
+	},
+	{
+		"GEO_ID": "0600000US2502309000",
+		"QUINTILE_1": "3.01",
+		"QUINTILE_2": "8.84",
+		"QUINTILE_3": "14.95",
+		"QUINTILE_4": "23.85",
+		"QUINTILE_5": "49.35",
+		"MUNICIPALITY": "Brockton city",
+		"COUNTY": " Plymouth County"
+	},
+	{
+		"GEO_ID": "0600000US2502311665",
+		"QUINTILE_1": "4.13",
+		"QUINTILE_2": "9.44",
+		"QUINTILE_3": "14.17",
+		"QUINTILE_4": "24.30",
+		"QUINTILE_5": "47.96",
+		"MUNICIPALITY": "Carver town",
+		"COUNTY": " Plymouth County"
+	},
+	{
+		"GEO_ID": "0600000US2502317895",
+		"QUINTILE_1": "2.41",
+		"QUINTILE_2": "9.22",
+		"QUINTILE_3": "14.78",
+		"QUINTILE_4": "23.01",
+		"QUINTILE_5": "50.58",
+		"MUNICIPALITY": "Duxbury town",
+		"COUNTY": " Plymouth County"
+	},
+	{
+		"GEO_ID": "0600000US2502318455",
+		"QUINTILE_1": "4.01",
+		"QUINTILE_2": "9.10",
+		"QUINTILE_3": "15.33",
+		"QUINTILE_4": "22.70",
+		"QUINTILE_5": "48.86",
+		"MUNICIPALITY": "East Bridgewater town",
+		"COUNTY": " Plymouth County"
+	},
+	{
+		"GEO_ID": "0600000US2502327795",
+		"QUINTILE_1": "3.89",
+		"QUINTILE_2": "10.15",
+		"QUINTILE_3": "16.64",
+		"QUINTILE_4": "25.55",
+		"QUINTILE_5": "43.77",
+		"MUNICIPALITY": "Halifax town",
+		"COUNTY": " Plymouth County"
+	},
+	{
+		"GEO_ID": "0600000US2502328285",
+		"QUINTILE_1": "3.07",
+		"QUINTILE_2": "9.81",
+		"QUINTILE_3": "16.19",
+		"QUINTILE_4": "23.34",
+		"QUINTILE_5": "47.59",
+		"MUNICIPALITY": "Hanover town",
+		"COUNTY": " Plymouth County"
+	},
+	{
+		"GEO_ID": "0600000US2502328495",
+		"QUINTILE_1": "3.83",
+		"QUINTILE_2": "9.69",
+		"QUINTILE_3": "15.94",
+		"QUINTILE_4": "22.11",
+		"QUINTILE_5": "48.43",
+		"MUNICIPALITY": "Hanson town",
+		"COUNTY": " Plymouth County"
+	},
+	{
+		"GEO_ID": "0600000US2502330210",
+		"QUINTILE_1": "2.25",
+		"QUINTILE_2": "6.86",
+		"QUINTILE_3": "13.80",
+		"QUINTILE_4": "23.22",
+		"QUINTILE_5": "53.87",
+		"MUNICIPALITY": "Hingham town",
+		"COUNTY": " Plymouth County"
+	},
+	{
+		"GEO_ID": "0600000US2502331645",
+		"QUINTILE_1": "3.81",
+		"QUINTILE_2": "9.66",
+		"QUINTILE_3": "16.30",
+		"QUINTILE_4": "23.31",
+		"QUINTILE_5": "46.93",
+		"MUNICIPALITY": "Hull town",
+		"COUNTY": " Plymouth County"
+	},
+	{
+		"GEO_ID": "0600000US2502333220",
+		"QUINTILE_1": "4.11",
+		"QUINTILE_2": "9.89",
+		"QUINTILE_3": "16.87",
+		"QUINTILE_4": "25.10",
+		"QUINTILE_5": "44.03",
+		"MUNICIPALITY": "Kingston town",
+		"COUNTY": " Plymouth County"
+	},
+	{
+		"GEO_ID": "0600000US2502333920",
+		"QUINTILE_1": "4.40",
+		"QUINTILE_2": "10.91",
+		"QUINTILE_3": "17.08",
+		"QUINTILE_4": "25.11",
+		"QUINTILE_5": "42.50",
+		"MUNICIPALITY": "Lakeville town",
+		"COUNTY": " Plymouth County"
+	},
+	{
+		"GEO_ID": "0600000US2502338540",
+		"QUINTILE_1": "3.69",
+		"QUINTILE_2": "7.43",
+		"QUINTILE_3": "12.14",
+		"QUINTILE_4": "18.79",
+		"QUINTILE_5": "57.95",
+		"MUNICIPALITY": "Marion town",
+		"COUNTY": " Plymouth County"
+	},
+	{
+		"GEO_ID": "0600000US2502338855",
+		"QUINTILE_1": "2.93",
+		"QUINTILE_2": "8.82",
+		"QUINTILE_3": "15.88",
+		"QUINTILE_4": "23.60",
+		"QUINTILE_5": "48.77",
+		"MUNICIPALITY": "Marshfield town",
+		"COUNTY": " Plymouth County"
+	},
+	{
+		"GEO_ID": "0600000US2502339450",
+		"QUINTILE_1": "4.69",
+		"QUINTILE_2": "9.79",
+		"QUINTILE_3": "15.22",
+		"QUINTILE_4": "21.97",
+		"QUINTILE_5": "48.33",
+		"MUNICIPALITY": "Mattapoisett town",
+		"COUNTY": " Plymouth County"
+	},
+	{
+		"GEO_ID": "0600000US2502340850",
+		"QUINTILE_1": "3.81",
+		"QUINTILE_2": "9.75",
+		"QUINTILE_3": "15.41",
+		"QUINTILE_4": "22.93",
+		"QUINTILE_5": "48.10",
+		"MUNICIPALITY": "Middleborough town",
+		"COUNTY": " Plymouth County"
+	},
+	{
+		"GEO_ID": "0600000US2502350145",
+		"QUINTILE_1": "4.09",
+		"QUINTILE_2": "10.92",
+		"QUINTILE_3": "17.10",
+		"QUINTILE_4": "24.44",
+		"QUINTILE_5": "43.44",
+		"MUNICIPALITY": "Norwell town",
+		"COUNTY": " Plymouth County"
+	},
+	{
+		"GEO_ID": "0600000US2502352630",
+		"QUINTILE_1": "3.95",
+		"QUINTILE_2": "11.47",
+		"QUINTILE_3": "18.16",
+		"QUINTILE_4": "24.75",
+		"QUINTILE_5": "41.67",
+		"MUNICIPALITY": "Pembroke town",
+		"COUNTY": " Plymouth County"
+	},
+	{
+		"GEO_ID": "0600000US2502354310",
+		"QUINTILE_1": "3.79",
+		"QUINTILE_2": "9.87",
+		"QUINTILE_3": "15.88",
+		"QUINTILE_4": "22.60",
+		"QUINTILE_5": "47.86",
+		"MUNICIPALITY": "Plymouth town",
+		"COUNTY": " Plymouth County"
+	},
+	{
+		"GEO_ID": "0600000US2502354415",
+		"QUINTILE_1": "3.00",
+		"QUINTILE_2": "10.73",
+		"QUINTILE_3": "15.44",
+		"QUINTILE_4": "21.86",
+		"QUINTILE_5": "48.97",
+		"MUNICIPALITY": "Plympton town",
+		"COUNTY": " Plymouth County"
+	},
+	{
+		"GEO_ID": "0600000US2502357600",
+		"QUINTILE_1": "5.66",
+		"QUINTILE_2": "11.80",
+		"QUINTILE_3": "16.05",
+		"QUINTILE_4": "22.47",
+		"QUINTILE_5": "44.02",
+		"MUNICIPALITY": "Rochester town",
+		"COUNTY": " Plymouth County"
+	},
+	{
+		"GEO_ID": "0600000US2502357775",
+		"QUINTILE_1": "3.25",
+		"QUINTILE_2": "10.17",
+		"QUINTILE_3": "16.50",
+		"QUINTILE_4": "24.43",
+		"QUINTILE_5": "45.64",
+		"MUNICIPALITY": "Rockland town",
+		"COUNTY": " Plymouth County"
+	},
+	{
+		"GEO_ID": "0600000US2502360330",
+		"QUINTILE_1": "3.12",
+		"QUINTILE_2": "7.86",
+		"QUINTILE_3": "13.14",
+		"QUINTILE_4": "22.52",
+		"QUINTILE_5": "53.35",
+		"MUNICIPALITY": "Scituate town",
+		"COUNTY": " Plymouth County"
+	},
+	{
+		"GEO_ID": "0600000US2502372985",
+		"QUINTILE_1": "4.27",
+		"QUINTILE_2": "10.63",
+		"QUINTILE_3": "16.41",
+		"QUINTILE_4": "24.29",
+		"QUINTILE_5": "44.41",
+		"MUNICIPALITY": "Wareham town",
+		"COUNTY": " Plymouth County"
+	},
+	{
+		"GEO_ID": "0600000US2502375260",
+		"QUINTILE_1": "3.53",
+		"QUINTILE_2": "10.38",
+		"QUINTILE_3": "17.44",
+		"QUINTILE_4": "25.24",
+		"QUINTILE_5": "43.41",
+		"MUNICIPALITY": "West Bridgewater town",
+		"COUNTY": " Plymouth County"
+	},
+	{
+		"GEO_ID": "0600000US2502379530",
+		"QUINTILE_1": "3.87",
+		"QUINTILE_2": "10.78",
+		"QUINTILE_3": "17.96",
+		"QUINTILE_4": "25.91",
+		"QUINTILE_5": "41.47",
+		"MUNICIPALITY": "Whitman town",
+		"COUNTY": " Plymouth County"
+	},
+	{
+		"GEO_ID": "0600000US2502507000",
+		"QUINTILE_1": "1.66",
+		"QUINTILE_2": "6.64",
+		"QUINTILE_3": "13.49",
+		"QUINTILE_4": "22.90",
+		"QUINTILE_5": "55.31",
+		"MUNICIPALITY": "Boston city",
+		"COUNTY": " Suffolk County"
+	},
+	{
+		"GEO_ID": "0600000US2502513205",
+		"QUINTILE_1": "2.51",
+		"QUINTILE_2": "8.54",
+		"QUINTILE_3": "16.33",
+		"QUINTILE_4": "25.42",
+		"QUINTILE_5": "47.20",
+		"MUNICIPALITY": "Chelsea city",
+		"COUNTY": " Suffolk County"
+	},
+	{
+		"GEO_ID": "0600000US2502556585",
+		"QUINTILE_1": "2.59",
+		"QUINTILE_2": "8.85",
+		"QUINTILE_3": "16.18",
+		"QUINTILE_4": "25.64",
+		"QUINTILE_5": "46.73",
+		"MUNICIPALITY": "Revere city",
+		"COUNTY": " Suffolk County"
+	},
+	{
+		"GEO_ID": "0600000US2502581005",
+		"QUINTILE_1": "3.33",
+		"QUINTILE_2": "9.37",
+		"QUINTILE_3": "15.38",
+		"QUINTILE_4": "24.44",
+		"QUINTILE_5": "47.47",
+		"MUNICIPALITY": "Winthrop Town city",
+		"COUNTY": " Suffolk County"
+	},
+	{
+		"GEO_ID": "0600000US2502701885",
+		"QUINTILE_1": "4.69",
+		"QUINTILE_2": "12.30",
+		"QUINTILE_3": "18.20",
+		"QUINTILE_4": "25.94",
+		"QUINTILE_5": "38.86",
+		"MUNICIPALITY": "Ashburnham town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502702480",
+		"QUINTILE_1": "4.21",
+		"QUINTILE_2": "10.06",
+		"QUINTILE_3": "17.60",
+		"QUINTILE_4": "24.47",
+		"QUINTILE_5": "43.66",
+		"MUNICIPALITY": "Athol town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502702760",
+		"QUINTILE_1": "4.21",
+		"QUINTILE_2": "10.54",
+		"QUINTILE_3": "17.36",
+		"QUINTILE_4": "25.47",
+		"QUINTILE_5": "42.43",
+		"MUNICIPALITY": "Auburn town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502703740",
+		"QUINTILE_1": "6.45",
+		"QUINTILE_2": "12.70",
+		"QUINTILE_3": "18.80",
+		"QUINTILE_4": "25.81",
+		"QUINTILE_5": "36.24",
+		"MUNICIPALITY": "Barre town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502705490",
+		"QUINTILE_1": "2.83",
+		"QUINTILE_2": "9.64",
+		"QUINTILE_3": "15.71",
+		"QUINTILE_4": "22.44",
+		"QUINTILE_5": "49.38",
+		"MUNICIPALITY": "Berlin town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502706015",
+		"QUINTILE_1": "3.79",
+		"QUINTILE_2": "9.46",
+		"QUINTILE_3": "16.95",
+		"QUINTILE_4": "26.78",
+		"QUINTILE_5": "43.02",
+		"MUNICIPALITY": "Blackstone town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502706365",
+		"QUINTILE_1": "5.49",
+		"QUINTILE_2": "11.77",
+		"QUINTILE_3": "17.05",
+		"QUINTILE_4": "24.39",
+		"QUINTILE_5": "41.31",
+		"MUNICIPALITY": "Bolton town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502707525",
+		"QUINTILE_1": "4.08",
+		"QUINTILE_2": "10.37",
+		"QUINTILE_3": "15.43",
+		"QUINTILE_4": "24.05",
+		"QUINTILE_5": "46.06",
+		"MUNICIPALITY": "Boylston town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502709105",
+		"QUINTILE_1": "2.97",
+		"QUINTILE_2": "8.56",
+		"QUINTILE_3": "15.52",
+		"QUINTILE_4": "26.94",
+		"QUINTILE_5": "46.00",
+		"MUNICIPALITY": "Brookfield town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502712715",
+		"QUINTILE_1": "5.50",
+		"QUINTILE_2": "11.75",
+		"QUINTILE_3": "17.07",
+		"QUINTILE_4": "23.55",
+		"QUINTILE_5": "42.14",
+		"MUNICIPALITY": "Charlton town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502714395",
+		"QUINTILE_1": "4.41",
+		"QUINTILE_2": "10.93",
+		"QUINTILE_3": "17.54",
+		"QUINTILE_4": "25.40",
+		"QUINTILE_5": "41.73",
+		"MUNICIPALITY": "Clinton town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502717300",
+		"QUINTILE_1": "4.54",
+		"QUINTILE_2": "9.92",
+		"QUINTILE_3": "17.60",
+		"QUINTILE_4": "24.19",
+		"QUINTILE_5": "43.75",
+		"MUNICIPALITY": "Douglas town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502717685",
+		"QUINTILE_1": "3.53",
+		"QUINTILE_2": "10.01",
+		"QUINTILE_3": "17.71",
+		"QUINTILE_4": "25.92",
+		"QUINTILE_5": "42.83",
+		"MUNICIPALITY": "Dudley town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502718560",
+		"QUINTILE_1": "5.38",
+		"QUINTILE_2": "11.81",
+		"QUINTILE_3": "16.02",
+		"QUINTILE_4": "24.92",
+		"QUINTILE_5": "41.87",
+		"MUNICIPALITY": "East Brookfield town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502723875",
+		"QUINTILE_1": "3.68",
+		"QUINTILE_2": "9.20",
+		"QUINTILE_3": "16.24",
+		"QUINTILE_4": "24.94",
+		"QUINTILE_5": "45.94",
+		"MUNICIPALITY": "Fitchburg city",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502725485",
+		"QUINTILE_1": "3.92",
+		"QUINTILE_2": "9.06",
+		"QUINTILE_3": "15.37",
+		"QUINTILE_4": "24.20",
+		"QUINTILE_5": "47.44",
+		"MUNICIPALITY": "Gardner city",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502726430",
+		"QUINTILE_1": "3.68",
+		"QUINTILE_2": "9.65",
+		"QUINTILE_3": "16.25",
+		"QUINTILE_4": "25.27",
+		"QUINTILE_5": "45.14",
+		"MUNICIPALITY": "Grafton town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502728740",
+		"QUINTILE_1": "4.04",
+		"QUINTILE_2": "8.14",
+		"QUINTILE_3": "14.74",
+		"QUINTILE_4": "26.84",
+		"QUINTILE_5": "46.24",
+		"MUNICIPALITY": "Hardwick town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502728950",
+		"QUINTILE_1": "2.63",
+		"QUINTILE_2": "8.57",
+		"QUINTILE_3": "13.94",
+		"QUINTILE_4": "22.33",
+		"QUINTILE_5": "52.52",
+		"MUNICIPALITY": "Harvard town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502730560",
+		"QUINTILE_1": "4.23",
+		"QUINTILE_2": "11.46",
+		"QUINTILE_3": "18.14",
+		"QUINTILE_4": "24.86",
+		"QUINTILE_5": "41.31",
+		"MUNICIPALITY": "Holden town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502730945",
+		"QUINTILE_1": "3.88",
+		"QUINTILE_2": "11.00",
+		"QUINTILE_3": "16.69",
+		"QUINTILE_4": "26.36",
+		"QUINTILE_5": "42.07",
+		"MUNICIPALITY": "Hopedale town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502731435",
+		"QUINTILE_1": "4.76",
+		"QUINTILE_2": "11.15",
+		"QUINTILE_3": "18.54",
+		"QUINTILE_4": "25.54",
+		"QUINTILE_5": "40.01",
+		"MUNICIPALITY": "Hubbardston town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502734165",
+		"QUINTILE_1": "4.73",
+		"QUINTILE_2": "11.05",
+		"QUINTILE_3": "17.88",
+		"QUINTILE_4": "25.09",
+		"QUINTILE_5": "41.25",
+		"MUNICIPALITY": "Lancaster town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502734795",
+		"QUINTILE_1": "5.10",
+		"QUINTILE_2": "11.45",
+		"QUINTILE_3": "17.22",
+		"QUINTILE_4": "25.64",
+		"QUINTILE_5": "40.60",
+		"MUNICIPALITY": "Leicester town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502735075",
+		"QUINTILE_1": "3.65",
+		"QUINTILE_2": "9.52",
+		"QUINTILE_3": "15.00",
+		"QUINTILE_4": "23.37",
+		"QUINTILE_5": "48.47",
+		"MUNICIPALITY": "Leominster city",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502737420",
+		"QUINTILE_1": "3.53",
+		"QUINTILE_2": "11.17",
+		"QUINTILE_3": "17.12",
+		"QUINTILE_4": "23.88",
+		"QUINTILE_5": "44.30",
+		"MUNICIPALITY": "Lunenburg town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502740255",
+		"QUINTILE_1": "4.54",
+		"QUINTILE_2": "10.85",
+		"QUINTILE_3": "16.34",
+		"QUINTILE_4": "23.70",
+		"QUINTILE_5": "44.57",
+		"MUNICIPALITY": "Mendon town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502741165",
+		"QUINTILE_1": "4.12",
+		"QUINTILE_2": "10.65",
+		"QUINTILE_3": "16.10",
+		"QUINTILE_4": "24.42",
+		"QUINTILE_5": "44.71",
+		"MUNICIPALITY": "Milford town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502741340",
+		"QUINTILE_1": "3.52",
+		"QUINTILE_2": "10.59",
+		"QUINTILE_3": "16.89",
+		"QUINTILE_4": "24.56",
+		"QUINTILE_5": "44.43",
+		"MUNICIPALITY": "Millbury town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502741585",
+		"QUINTILE_1": "3.54",
+		"QUINTILE_2": "9.53",
+		"QUINTILE_3": "16.36",
+		"QUINTILE_4": "24.86",
+		"QUINTILE_5": "45.72",
+		"MUNICIPALITY": "Millville town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502745105",
+		"QUINTILE_1": "4.00",
+		"QUINTILE_2": "12.52",
+		"QUINTILE_3": "17.75",
+		"QUINTILE_4": "24.79",
+		"QUINTILE_5": "40.94",
+		"MUNICIPALITY": "New Braintree town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502746820",
+		"QUINTILE_1": "2.88",
+		"QUINTILE_2": "8.69",
+		"QUINTILE_3": "15.34",
+		"QUINTILE_4": "23.53",
+		"QUINTILE_5": "49.56",
+		"MUNICIPALITY": "Northborough town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502746925",
+		"QUINTILE_1": "3.88",
+		"QUINTILE_2": "9.87",
+		"QUINTILE_3": "17.38",
+		"QUINTILE_4": "26.78",
+		"QUINTILE_5": "42.09",
+		"MUNICIPALITY": "Northbridge town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502747135",
+		"QUINTILE_1": "4.51",
+		"QUINTILE_2": "12.58",
+		"QUINTILE_3": "15.82",
+		"QUINTILE_4": "22.03",
+		"QUINTILE_5": "45.06",
+		"MUNICIPALITY": "North Brookfield town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502750670",
+		"QUINTILE_1": "4.56",
+		"QUINTILE_2": "11.09",
+		"QUINTILE_3": "16.19",
+		"QUINTILE_4": "24.71",
+		"QUINTILE_5": "43.46",
+		"MUNICIPALITY": "Oakham town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502751825",
+		"QUINTILE_1": "3.62",
+		"QUINTILE_2": "9.42",
+		"QUINTILE_3": "17.40",
+		"QUINTILE_4": "27.32",
+		"QUINTILE_5": "42.23",
+		"MUNICIPALITY": "Oxford town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502752420",
+		"QUINTILE_1": "5.80",
+		"QUINTILE_2": "11.99",
+		"QUINTILE_3": "16.98",
+		"QUINTILE_4": "23.04",
+		"QUINTILE_5": "42.20",
+		"MUNICIPALITY": "Paxton town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502753120",
+		"QUINTILE_1": "4.94",
+		"QUINTILE_2": "10.64",
+		"QUINTILE_3": "18.29",
+		"QUINTILE_4": "25.29",
+		"QUINTILE_5": "40.84",
+		"MUNICIPALITY": "Petersham town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502753225",
+		"QUINTILE_1": "5.36",
+		"QUINTILE_2": "12.67",
+		"QUINTILE_3": "17.35",
+		"QUINTILE_4": "25.52",
+		"QUINTILE_5": "39.10",
+		"MUNICIPALITY": "Phillipston town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502755395",
+		"QUINTILE_1": "3.71",
+		"QUINTILE_2": "10.14",
+		"QUINTILE_3": "17.17",
+		"QUINTILE_4": "21.95",
+		"QUINTILE_5": "47.03",
+		"MUNICIPALITY": "Princeton town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502758580",
+		"QUINTILE_1": "3.95",
+		"QUINTILE_2": "12.53",
+		"QUINTILE_3": "19.82",
+		"QUINTILE_4": "25.75",
+		"QUINTILE_5": "37.94",
+		"MUNICIPALITY": "Royalston town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502758825",
+		"QUINTILE_1": "4.90",
+		"QUINTILE_2": "11.45",
+		"QUINTILE_3": "19.17",
+		"QUINTILE_4": "26.36",
+		"QUINTILE_5": "38.13",
+		"MUNICIPALITY": "Rutland town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502761800",
+		"QUINTILE_1": "3.92",
+		"QUINTILE_2": "10.21",
+		"QUINTILE_3": "15.92",
+		"QUINTILE_4": "23.79",
+		"QUINTILE_5": "46.16",
+		"MUNICIPALITY": "Shrewsbury town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502763165",
+		"QUINTILE_1": "3.35",
+		"QUINTILE_2": "8.93",
+		"QUINTILE_3": "14.93",
+		"QUINTILE_4": "22.96",
+		"QUINTILE_5": "49.84",
+		"MUNICIPALITY": "Southborough town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502763345",
+		"QUINTILE_1": "2.96",
+		"QUINTILE_2": "8.37",
+		"QUINTILE_3": "15.00",
+		"QUINTILE_4": "25.29",
+		"QUINTILE_5": "48.38",
+		"MUNICIPALITY": "Southbridge Town city",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502766105",
+		"QUINTILE_1": "3.63",
+		"QUINTILE_2": "10.07",
+		"QUINTILE_3": "15.44",
+		"QUINTILE_4": "23.45",
+		"QUINTILE_5": "47.41",
+		"MUNICIPALITY": "Spencer town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502767385",
+		"QUINTILE_1": "3.69",
+		"QUINTILE_2": "8.58",
+		"QUINTILE_3": "15.84",
+		"QUINTILE_4": "23.38",
+		"QUINTILE_5": "48.51",
+		"MUNICIPALITY": "Sterling town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502768155",
+		"QUINTILE_1": "4.16",
+		"QUINTILE_2": "10.14",
+		"QUINTILE_3": "16.97",
+		"QUINTILE_4": "25.30",
+		"QUINTILE_5": "43.42",
+		"MUNICIPALITY": "Sturbridge town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502768610",
+		"QUINTILE_1": "3.62",
+		"QUINTILE_2": "10.42",
+		"QUINTILE_3": "16.97",
+		"QUINTILE_4": "23.81",
+		"QUINTILE_5": "45.19",
+		"MUNICIPALITY": "Sutton town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502769275",
+		"QUINTILE_1": "4.65",
+		"QUINTILE_2": "10.70",
+		"QUINTILE_3": "18.48",
+		"QUINTILE_4": "25.79",
+		"QUINTILE_5": "40.38",
+		"MUNICIPALITY": "Templeton town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502771480",
+		"QUINTILE_1": "4.75",
+		"QUINTILE_2": "10.18",
+		"QUINTILE_3": "15.97",
+		"QUINTILE_4": "24.17",
+		"QUINTILE_5": "44.92",
+		"MUNICIPALITY": "Upton town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502771620",
+		"QUINTILE_1": "4.76",
+		"QUINTILE_2": "13.32",
+		"QUINTILE_3": "18.56",
+		"QUINTILE_4": "24.03",
+		"QUINTILE_5": "39.34",
+		"MUNICIPALITY": "Uxbridge town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502773090",
+		"QUINTILE_1": "3.20",
+		"QUINTILE_2": "8.79",
+		"QUINTILE_3": "15.17",
+		"QUINTILE_4": "24.83",
+		"QUINTILE_5": "48.01",
+		"MUNICIPALITY": "Warren town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502773895",
+		"QUINTILE_1": "3.41",
+		"QUINTILE_2": "9.14",
+		"QUINTILE_3": "15.43",
+		"QUINTILE_4": "24.16",
+		"QUINTILE_5": "47.86",
+		"MUNICIPALITY": "Webster town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502775015",
+		"QUINTILE_1": "3.67",
+		"QUINTILE_2": "9.07",
+		"QUINTILE_3": "15.04",
+		"QUINTILE_4": "23.96",
+		"QUINTILE_5": "48.26",
+		"MUNICIPALITY": "Westborough town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502775155",
+		"QUINTILE_1": "3.99",
+		"QUINTILE_2": "9.86",
+		"QUINTILE_3": "15.24",
+		"QUINTILE_4": "22.54",
+		"QUINTILE_5": "48.37",
+		"MUNICIPALITY": "West Boylston town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502775400",
+		"QUINTILE_1": "4.02",
+		"QUINTILE_2": "9.44",
+		"QUINTILE_3": "17.48",
+		"QUINTILE_4": "27.19",
+		"QUINTILE_5": "41.87",
+		"MUNICIPALITY": "West Brookfield town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502777010",
+		"QUINTILE_1": "4.43",
+		"QUINTILE_2": "10.59",
+		"QUINTILE_3": "15.48",
+		"QUINTILE_4": "24.10",
+		"QUINTILE_5": "45.40",
+		"MUNICIPALITY": "Westminster town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502780405",
+		"QUINTILE_1": "4.42",
+		"QUINTILE_2": "9.54",
+		"QUINTILE_3": "16.30",
+		"QUINTILE_4": "25.77",
+		"QUINTILE_5": "43.98",
+		"MUNICIPALITY": "Winchendon town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502782000",
+		"QUINTILE_1": "2.58",
+		"QUINTILE_2": "8.06",
+		"QUINTILE_3": "14.95",
+		"QUINTILE_4": "24.14",
+		"QUINTILE_5": "50.27",
+		"MUNICIPALITY": "Worcester city",
+		"COUNTY": " Worcester County"
+	}
+]

@@ -1,0 +1,2858 @@
+[
+	{
+		"GEO_ID": "0600000US2500100000",
+		"NAME": "County subdivisions not defined, Barnstable County, Massachusetts",
+		"MEDIAN_INCOME": "-",
+		"MARGIN_OF_ERROR": "**",
+		"MUNICIPALITY": "County subdivisions not defined",
+		"COUNTY": " Barnstable County"
+	},
+	{
+		"GEO_ID": "0600000US2500103690",
+		"NAME": "Barnstable Town city, Barnstable County, Massachusetts",
+		"MEDIAN_INCOME": "94387",
+		"MARGIN_OF_ERROR": "6367",
+		"MUNICIPALITY": "Barnstable Town city",
+		"COUNTY": " Barnstable County"
+	},
+	{
+		"GEO_ID": "0600000US2500107175",
+		"NAME": "Bourne town, Barnstable County, Massachusetts",
+		"MEDIAN_INCOME": "90640",
+		"MARGIN_OF_ERROR": "3355",
+		"MUNICIPALITY": "Bourne town",
+		"COUNTY": " Barnstable County"
+	},
+	{
+		"GEO_ID": "0600000US2500107980",
+		"NAME": "Brewster town, Barnstable County, Massachusetts",
+		"MEDIAN_INCOME": "95845",
+		"MARGIN_OF_ERROR": "6808",
+		"MUNICIPALITY": "Brewster town",
+		"COUNTY": " Barnstable County"
+	},
+	{
+		"GEO_ID": "0600000US2500112995",
+		"NAME": "Chatham town, Barnstable County, Massachusetts",
+		"MEDIAN_INCOME": "83835",
+		"MARGIN_OF_ERROR": "14998",
+		"MUNICIPALITY": "Chatham town",
+		"COUNTY": " Barnstable County"
+	},
+	{
+		"GEO_ID": "0600000US2500116775",
+		"NAME": "Dennis town, Barnstable County, Massachusetts",
+		"MEDIAN_INCOME": "82658",
+		"MARGIN_OF_ERROR": "8221",
+		"MUNICIPALITY": "Dennis town",
+		"COUNTY": " Barnstable County"
+	},
+	{
+		"GEO_ID": "0600000US2500119295",
+		"NAME": "Eastham town, Barnstable County, Massachusetts",
+		"MEDIAN_INCOME": "80167",
+		"MARGIN_OF_ERROR": "12956",
+		"MUNICIPALITY": "Eastham town",
+		"COUNTY": " Barnstable County"
+	},
+	{
+		"GEO_ID": "0600000US2500123105",
+		"NAME": "Falmouth town, Barnstable County, Massachusetts",
+		"MEDIAN_INCOME": "89809",
+		"MARGIN_OF_ERROR": "7239",
+		"MUNICIPALITY": "Falmouth town",
+		"COUNTY": " Barnstable County"
+	},
+	{
+		"GEO_ID": "0600000US2500129020",
+		"NAME": "Harwich town, Barnstable County, Massachusetts",
+		"MEDIAN_INCOME": "82851",
+		"MARGIN_OF_ERROR": "7806",
+		"MUNICIPALITY": "Harwich town",
+		"COUNTY": " Barnstable County"
+	},
+	{
+		"GEO_ID": "0600000US2500139100",
+		"NAME": "Mashpee town, Barnstable County, Massachusetts",
+		"MEDIAN_INCOME": "90465",
+		"MARGIN_OF_ERROR": "12705",
+		"MUNICIPALITY": "Mashpee town",
+		"COUNTY": " Barnstable County"
+	},
+	{
+		"GEO_ID": "0600000US2500151440",
+		"NAME": "Orleans town, Barnstable County, Massachusetts",
+		"MEDIAN_INCOME": "89375",
+		"MARGIN_OF_ERROR": "17950",
+		"MUNICIPALITY": "Orleans town",
+		"COUNTY": " Barnstable County"
+	},
+	{
+		"GEO_ID": "0600000US2500155500",
+		"NAME": "Provincetown town, Barnstable County, Massachusetts",
+		"MEDIAN_INCOME": "91447",
+		"MARGIN_OF_ERROR": "23468",
+		"MUNICIPALITY": "Provincetown town",
+		"COUNTY": " Barnstable County"
+	},
+	{
+		"GEO_ID": "0600000US2500159735",
+		"NAME": "Sandwich town, Barnstable County, Massachusetts",
+		"MEDIAN_INCOME": "121038",
+		"MARGIN_OF_ERROR": "12553",
+		"MUNICIPALITY": "Sandwich town",
+		"COUNTY": " Barnstable County"
+	},
+	{
+		"GEO_ID": "0600000US2500170605",
+		"NAME": "Truro town, Barnstable County, Massachusetts",
+		"MEDIAN_INCOME": "89243",
+		"MARGIN_OF_ERROR": "80129",
+		"MUNICIPALITY": "Truro town",
+		"COUNTY": " Barnstable County"
+	},
+	{
+		"GEO_ID": "0600000US2500174385",
+		"NAME": "Wellfleet town, Barnstable County, Massachusetts",
+		"MEDIAN_INCOME": "97396",
+		"MARGIN_OF_ERROR": "22527",
+		"MUNICIPALITY": "Wellfleet town",
+		"COUNTY": " Barnstable County"
+	},
+	{
+		"GEO_ID": "0600000US2500182525",
+		"NAME": "Yarmouth town, Barnstable County, Massachusetts",
+		"MEDIAN_INCOME": "77943",
+		"MARGIN_OF_ERROR": "4955",
+		"MUNICIPALITY": "Yarmouth town",
+		"COUNTY": " Barnstable County"
+	},
+	{
+		"GEO_ID": "0600000US2500300555",
+		"NAME": "Adams town, Berkshire County, Massachusetts",
+		"MEDIAN_INCOME": "54677",
+		"MARGIN_OF_ERROR": "5453",
+		"MUNICIPALITY": "Adams town",
+		"COUNTY": " Berkshire County"
+	},
+	{
+		"GEO_ID": "0600000US2500300975",
+		"NAME": "Alford town, Berkshire County, Massachusetts",
+		"MEDIAN_INCOME": "94375",
+		"MARGIN_OF_ERROR": "43756",
+		"MUNICIPALITY": "Alford town",
+		"COUNTY": " Berkshire County"
+	},
+	{
+		"GEO_ID": "0600000US2500304545",
+		"NAME": "Becket town, Berkshire County, Massachusetts",
+		"MEDIAN_INCOME": "76875",
+		"MARGIN_OF_ERROR": "18992",
+		"MUNICIPALITY": "Becket town",
+		"COUNTY": " Berkshire County"
+	},
+	{
+		"GEO_ID": "0600000US2500313345",
+		"NAME": "Cheshire town, Berkshire County, Massachusetts",
+		"MEDIAN_INCOME": "72485",
+		"MARGIN_OF_ERROR": "10623",
+		"MUNICIPALITY": "Cheshire town",
+		"COUNTY": " Berkshire County"
+	},
+	{
+		"GEO_ID": "0600000US2500314010",
+		"NAME": "Clarksburg town, Berkshire County, Massachusetts",
+		"MEDIAN_INCOME": "72872",
+		"MARGIN_OF_ERROR": "7941",
+		"MUNICIPALITY": "Clarksburg town",
+		"COUNTY": " Berkshire County"
+	},
+	{
+		"GEO_ID": "0600000US2500316180",
+		"NAME": "Dalton town, Berkshire County, Massachusetts",
+		"MEDIAN_INCOME": "76198",
+		"MARGIN_OF_ERROR": "11354",
+		"MUNICIPALITY": "Dalton town",
+		"COUNTY": " Berkshire County"
+	},
+	{
+		"GEO_ID": "0600000US2500321360",
+		"NAME": "Egremont town, Berkshire County, Massachusetts",
+		"MEDIAN_INCOME": "90139",
+		"MARGIN_OF_ERROR": "23019",
+		"MUNICIPALITY": "Egremont town",
+		"COUNTY": " Berkshire County"
+	},
+	{
+		"GEO_ID": "0600000US2500324120",
+		"NAME": "Florida town, Berkshire County, Massachusetts",
+		"MEDIAN_INCOME": "83125",
+		"MARGIN_OF_ERROR": "7902",
+		"MUNICIPALITY": "Florida town",
+		"COUNTY": " Berkshire County"
+	},
+	{
+		"GEO_ID": "0600000US2500326815",
+		"NAME": "Great Barrington town, Berkshire County, Massachusetts",
+		"MEDIAN_INCOME": "74205",
+		"MARGIN_OF_ERROR": "11734",
+		"MUNICIPALITY": "Great Barrington town",
+		"COUNTY": " Berkshire County"
+	},
+	{
+		"GEO_ID": "0600000US2500328180",
+		"NAME": "Hancock town, Berkshire County, Massachusetts",
+		"MEDIAN_INCOME": "88889",
+		"MARGIN_OF_ERROR": "28371",
+		"MUNICIPALITY": "Hancock town",
+		"COUNTY": " Berkshire County"
+	},
+	{
+		"GEO_ID": "0600000US2500330315",
+		"NAME": "Hinsdale town, Berkshire County, Massachusetts",
+		"MEDIAN_INCOME": "70234",
+		"MARGIN_OF_ERROR": "24701",
+		"MUNICIPALITY": "Hinsdale town",
+		"COUNTY": " Berkshire County"
+	},
+	{
+		"GEO_ID": "0600000US2500334340",
+		"NAME": "Lanesborough town, Berkshire County, Massachusetts",
+		"MEDIAN_INCOME": "87159",
+		"MARGIN_OF_ERROR": "20053",
+		"MUNICIPALITY": "Lanesborough town",
+		"COUNTY": " Berkshire County"
+	},
+	{
+		"GEO_ID": "0600000US2500334655",
+		"NAME": "Lee town, Berkshire County, Massachusetts",
+		"MEDIAN_INCOME": "74074",
+		"MARGIN_OF_ERROR": "20327",
+		"MUNICIPALITY": "Lee town",
+		"COUNTY": " Berkshire County"
+	},
+	{
+		"GEO_ID": "0600000US2500334970",
+		"NAME": "Lenox town, Berkshire County, Massachusetts",
+		"MEDIAN_INCOME": "76571",
+		"MARGIN_OF_ERROR": "36116",
+		"MUNICIPALITY": "Lenox town",
+		"COUNTY": " Berkshire County"
+	},
+	{
+		"GEO_ID": "0600000US2500342460",
+		"NAME": "Monterey town, Berkshire County, Massachusetts",
+		"MEDIAN_INCOME": "127159",
+		"MARGIN_OF_ERROR": "58736",
+		"MUNICIPALITY": "Monterey town",
+		"COUNTY": " Berkshire County"
+	},
+	{
+		"GEO_ID": "0600000US2500343300",
+		"NAME": "Mount Washington town, Berkshire County, Massachusetts",
+		"MEDIAN_INCOME": "117917",
+		"MARGIN_OF_ERROR": "37935",
+		"MUNICIPALITY": "Mount Washington town",
+		"COUNTY": " Berkshire County"
+	},
+	{
+		"GEO_ID": "0600000US2500344385",
+		"NAME": "New Ashford town, Berkshire County, Massachusetts",
+		"MEDIAN_INCOME": "78750",
+		"MARGIN_OF_ERROR": "24689",
+		"MUNICIPALITY": "New Ashford town",
+		"COUNTY": " Berkshire County"
+	},
+	{
+		"GEO_ID": "0600000US2500345420",
+		"NAME": "New Marlborough town, Berkshire County, Massachusetts",
+		"MEDIAN_INCOME": "75156",
+		"MARGIN_OF_ERROR": "17038",
+		"MUNICIPALITY": "New Marlborough town",
+		"COUNTY": " Berkshire County"
+	},
+	{
+		"GEO_ID": "0600000US2500346225",
+		"NAME": "North Adams city, Berkshire County, Massachusetts",
+		"MEDIAN_INCOME": "49525",
+		"MARGIN_OF_ERROR": "7420",
+		"MUNICIPALITY": "North Adams city",
+		"COUNTY": " Berkshire County"
+	},
+	{
+		"GEO_ID": "0600000US2500351580",
+		"NAME": "Otis town, Berkshire County, Massachusetts",
+		"MEDIAN_INCOME": "100955",
+		"MARGIN_OF_ERROR": "4604",
+		"MUNICIPALITY": "Otis town",
+		"COUNTY": " Berkshire County"
+	},
+	{
+		"GEO_ID": "0600000US2500353050",
+		"NAME": "Peru town, Berkshire County, Massachusetts",
+		"MEDIAN_INCOME": "78500",
+		"MARGIN_OF_ERROR": "22609",
+		"MUNICIPALITY": "Peru town",
+		"COUNTY": " Berkshire County"
+	},
+	{
+		"GEO_ID": "0600000US2500353960",
+		"NAME": "Pittsfield city, Berkshire County, Massachusetts",
+		"MEDIAN_INCOME": "66859",
+		"MARGIN_OF_ERROR": "2931",
+		"MUNICIPALITY": "Pittsfield city",
+		"COUNTY": " Berkshire County"
+	},
+	{
+		"GEO_ID": "0600000US2500356795",
+		"NAME": "Richmond town, Berkshire County, Massachusetts",
+		"MEDIAN_INCOME": "91875",
+		"MARGIN_OF_ERROR": "18855",
+		"MUNICIPALITY": "Richmond town",
+		"COUNTY": " Berkshire County"
+	},
+	{
+		"GEO_ID": "0600000US2500359665",
+		"NAME": "Sandisfield town, Berkshire County, Massachusetts",
+		"MEDIAN_INCOME": "75625",
+		"MARGIN_OF_ERROR": "16917",
+		"MUNICIPALITY": "Sandisfield town",
+		"COUNTY": " Berkshire County"
+	},
+	{
+		"GEO_ID": "0600000US2500360225",
+		"NAME": "Savoy town, Berkshire County, Massachusetts",
+		"MEDIAN_INCOME": "54219",
+		"MARGIN_OF_ERROR": "13559",
+		"MUNICIPALITY": "Savoy town",
+		"COUNTY": " Berkshire County"
+	},
+	{
+		"GEO_ID": "0600000US2500361065",
+		"NAME": "Sheffield town, Berkshire County, Massachusetts",
+		"MEDIAN_INCOME": "87604",
+		"MARGIN_OF_ERROR": "24722",
+		"MUNICIPALITY": "Sheffield town",
+		"COUNTY": " Berkshire County"
+	},
+	{
+		"GEO_ID": "0600000US2500367595",
+		"NAME": "Stockbridge town, Berkshire County, Massachusetts",
+		"MEDIAN_INCOME": "74333",
+		"MARGIN_OF_ERROR": "20593",
+		"MUNICIPALITY": "Stockbridge town",
+		"COUNTY": " Berkshire County"
+	},
+	{
+		"GEO_ID": "0600000US2500371095",
+		"NAME": "Tyringham town, Berkshire County, Massachusetts",
+		"MEDIAN_INCOME": "142813",
+		"MARGIN_OF_ERROR": "29235",
+		"MUNICIPALITY": "Tyringham town",
+		"COUNTY": " Berkshire County"
+	},
+	{
+		"GEO_ID": "0600000US2500373335",
+		"NAME": "Washington town, Berkshire County, Massachusetts",
+		"MEDIAN_INCOME": "87250",
+		"MARGIN_OF_ERROR": "8431",
+		"MUNICIPALITY": "Washington town",
+		"COUNTY": " Berkshire County"
+	},
+	{
+		"GEO_ID": "0600000US2500377990",
+		"NAME": "West Stockbridge town, Berkshire County, Massachusetts",
+		"MEDIAN_INCOME": "90875",
+		"MARGIN_OF_ERROR": "10891",
+		"MUNICIPALITY": "West Stockbridge town",
+		"COUNTY": " Berkshire County"
+	},
+	{
+		"GEO_ID": "0600000US2500379985",
+		"NAME": "Williamstown town, Berkshire County, Massachusetts",
+		"MEDIAN_INCOME": "102545",
+		"MARGIN_OF_ERROR": "23442",
+		"MUNICIPALITY": "Williamstown town",
+		"COUNTY": " Berkshire County"
+	},
+	{
+		"GEO_ID": "0600000US2500380685",
+		"NAME": "Windsor town, Berkshire County, Massachusetts",
+		"MEDIAN_INCOME": "102639",
+		"MARGIN_OF_ERROR": "20031",
+		"MUNICIPALITY": "Windsor town",
+		"COUNTY": " Berkshire County"
+	},
+	{
+		"GEO_ID": "0600000US2500500000",
+		"NAME": "County subdivisions not defined, Bristol County, Massachusetts",
+		"MEDIAN_INCOME": "-",
+		"MARGIN_OF_ERROR": "**",
+		"MUNICIPALITY": "County subdivisions not defined",
+		"COUNTY": " Bristol County"
+	},
+	{
+		"GEO_ID": "0600000US2500500520",
+		"NAME": "Acushnet town, Bristol County, Massachusetts",
+		"MEDIAN_INCOME": "88196",
+		"MARGIN_OF_ERROR": "9649",
+		"MUNICIPALITY": "Acushnet town",
+		"COUNTY": " Bristol County"
+	},
+	{
+		"GEO_ID": "0600000US2500502690",
+		"NAME": "Attleboro city, Bristol County, Massachusetts",
+		"MEDIAN_INCOME": "91378",
+		"MARGIN_OF_ERROR": "6844",
+		"MUNICIPALITY": "Attleboro city",
+		"COUNTY": " Bristol County"
+	},
+	{
+		"GEO_ID": "0600000US2500505280",
+		"NAME": "Berkley town, Bristol County, Massachusetts",
+		"MEDIAN_INCOME": "140000",
+		"MARGIN_OF_ERROR": "40887",
+		"MUNICIPALITY": "Berkley town",
+		"COUNTY": " Bristol County"
+	},
+	{
+		"GEO_ID": "0600000US2500516425",
+		"NAME": "Dartmouth town, Bristol County, Massachusetts",
+		"MEDIAN_INCOME": "97995",
+		"MARGIN_OF_ERROR": "9168",
+		"MUNICIPALITY": "Dartmouth town",
+		"COUNTY": " Bristol County"
+	},
+	{
+		"GEO_ID": "0600000US2500516950",
+		"NAME": "Dighton town, Bristol County, Massachusetts",
+		"MEDIAN_INCOME": "116712",
+		"MARGIN_OF_ERROR": "16830",
+		"MUNICIPALITY": "Dighton town",
+		"COUNTY": " Bristol County"
+	},
+	{
+		"GEO_ID": "0600000US2500520100",
+		"NAME": "Easton town, Bristol County, Massachusetts",
+		"MEDIAN_INCOME": "117418",
+		"MARGIN_OF_ERROR": "6698",
+		"MUNICIPALITY": "Easton town",
+		"COUNTY": " Bristol County"
+	},
+	{
+		"GEO_ID": "0600000US2500522130",
+		"NAME": "Fairhaven town, Bristol County, Massachusetts",
+		"MEDIAN_INCOME": "86676",
+		"MARGIN_OF_ERROR": "15474",
+		"MUNICIPALITY": "Fairhaven town",
+		"COUNTY": " Bristol County"
+	},
+	{
+		"GEO_ID": "0600000US2500523000",
+		"NAME": "Fall River city, Bristol County, Massachusetts",
+		"MEDIAN_INCOME": "52734",
+		"MARGIN_OF_ERROR": "3611",
+		"MUNICIPALITY": "Fall River city",
+		"COUNTY": " Bristol County"
+	},
+	{
+		"GEO_ID": "0600000US2500525240",
+		"NAME": "Freetown town, Bristol County, Massachusetts",
+		"MEDIAN_INCOME": "132996",
+		"MARGIN_OF_ERROR": "22432",
+		"MUNICIPALITY": "Freetown town",
+		"COUNTY": " Bristol County"
+	},
+	{
+		"GEO_ID": "0600000US2500538225",
+		"NAME": "Mansfield town, Bristol County, Massachusetts",
+		"MEDIAN_INCOME": "125506",
+		"MARGIN_OF_ERROR": "14972",
+		"MUNICIPALITY": "Mansfield town",
+		"COUNTY": " Bristol County"
+	},
+	{
+		"GEO_ID": "0600000US2500545000",
+		"NAME": "New Bedford city, Bristol County, Massachusetts",
+		"MEDIAN_INCOME": "54604",
+		"MARGIN_OF_ERROR": "2509",
+		"MUNICIPALITY": "New Bedford city",
+		"COUNTY": " Bristol County"
+	},
+	{
+		"GEO_ID": "0600000US2500546598",
+		"NAME": "North Attleborough Town city, Bristol County, Massachusetts",
+		"MEDIAN_INCOME": "104795",
+		"MARGIN_OF_ERROR": "6893",
+		"MUNICIPALITY": "North Attleborough Town city",
+		"COUNTY": " Bristol County"
+	},
+	{
+		"GEO_ID": "0600000US2500549970",
+		"NAME": "Norton town, Bristol County, Massachusetts",
+		"MEDIAN_INCOME": "112284",
+		"MARGIN_OF_ERROR": "9624",
+		"MUNICIPALITY": "Norton town",
+		"COUNTY": " Bristol County"
+	},
+	{
+		"GEO_ID": "0600000US2500556060",
+		"NAME": "Raynham town, Bristol County, Massachusetts",
+		"MEDIAN_INCOME": "105625",
+		"MARGIN_OF_ERROR": "16671",
+		"MUNICIPALITY": "Raynham town",
+		"COUNTY": " Bristol County"
+	},
+	{
+		"GEO_ID": "0600000US2500556375",
+		"NAME": "Rehoboth town, Bristol County, Massachusetts",
+		"MEDIAN_INCOME": "124306",
+		"MARGIN_OF_ERROR": "20580",
+		"MUNICIPALITY": "Rehoboth town",
+		"COUNTY": " Bristol County"
+	},
+	{
+		"GEO_ID": "0600000US2500560645",
+		"NAME": "Seekonk town, Bristol County, Massachusetts",
+		"MEDIAN_INCOME": "108479",
+		"MARGIN_OF_ERROR": "7320",
+		"MUNICIPALITY": "Seekonk town",
+		"COUNTY": " Bristol County"
+	},
+	{
+		"GEO_ID": "0600000US2500562430",
+		"NAME": "Somerset town, Bristol County, Massachusetts",
+		"MEDIAN_INCOME": "105377",
+		"MARGIN_OF_ERROR": "6262",
+		"MUNICIPALITY": "Somerset town",
+		"COUNTY": " Bristol County"
+	},
+	{
+		"GEO_ID": "0600000US2500568750",
+		"NAME": "Swansea town, Bristol County, Massachusetts",
+		"MEDIAN_INCOME": "110975",
+		"MARGIN_OF_ERROR": "11524",
+		"MUNICIPALITY": "Swansea town",
+		"COUNTY": " Bristol County"
+	},
+	{
+		"GEO_ID": "0600000US2500569170",
+		"NAME": "Taunton city, Bristol County, Massachusetts",
+		"MEDIAN_INCOME": "72782",
+		"MARGIN_OF_ERROR": "6433",
+		"MUNICIPALITY": "Taunton city",
+		"COUNTY": " Bristol County"
+	},
+	{
+		"GEO_ID": "0600000US2500577570",
+		"NAME": "Westport town, Bristol County, Massachusetts",
+		"MEDIAN_INCOME": "90925",
+		"MARGIN_OF_ERROR": "8263",
+		"MUNICIPALITY": "Westport town",
+		"COUNTY": " Bristol County"
+	},
+	{
+		"GEO_ID": "0600000US2500701585",
+		"NAME": "Aquinnah town, Dukes County, Massachusetts",
+		"MEDIAN_INCOME": "114375",
+		"MARGIN_OF_ERROR": "33444",
+		"MUNICIPALITY": "Aquinnah town",
+		"COUNTY": " Dukes County"
+	},
+	{
+		"GEO_ID": "0600000US2500713800",
+		"NAME": "Chilmark town, Dukes County, Massachusetts",
+		"MEDIAN_INCOME": "155938",
+		"MARGIN_OF_ERROR": "43944",
+		"MUNICIPALITY": "Chilmark town",
+		"COUNTY": " Dukes County"
+	},
+	{
+		"GEO_ID": "0600000US2500721150",
+		"NAME": "Edgartown town, Dukes County, Massachusetts",
+		"MEDIAN_INCOME": "79127",
+		"MARGIN_OF_ERROR": "23797",
+		"MUNICIPALITY": "Edgartown town",
+		"COUNTY": " Dukes County"
+	},
+	{
+		"GEO_ID": "0600000US2500726325",
+		"NAME": "Gosnold town, Dukes County, Massachusetts",
+		"MEDIAN_INCOME": "66250",
+		"MARGIN_OF_ERROR": "39879",
+		"MUNICIPALITY": "Gosnold town",
+		"COUNTY": " Dukes County"
+	},
+	{
+		"GEO_ID": "0600000US2500750390",
+		"NAME": "Oak Bluffs town, Dukes County, Massachusetts",
+		"MEDIAN_INCOME": "106284",
+		"MARGIN_OF_ERROR": "17846",
+		"MUNICIPALITY": "Oak Bluffs town",
+		"COUNTY": " Dukes County"
+	},
+	{
+		"GEO_ID": "0600000US2500769940",
+		"NAME": "Tisbury town, Dukes County, Massachusetts",
+		"MEDIAN_INCOME": "65789",
+		"MARGIN_OF_ERROR": "14638",
+		"MUNICIPALITY": "Tisbury town",
+		"COUNTY": " Dukes County"
+	},
+	{
+		"GEO_ID": "0600000US2500778235",
+		"NAME": "West Tisbury town, Dukes County, Massachusetts",
+		"MEDIAN_INCOME": "128045",
+		"MARGIN_OF_ERROR": "54114",
+		"MUNICIPALITY": "West Tisbury town",
+		"COUNTY": " Dukes County"
+	},
+	{
+		"GEO_ID": "0600000US2500900000",
+		"NAME": "County subdivisions not defined, Essex County, Massachusetts",
+		"MEDIAN_INCOME": "-",
+		"MARGIN_OF_ERROR": "**",
+		"MUNICIPALITY": "County subdivisions not defined",
+		"COUNTY": " Essex County"
+	},
+	{
+		"GEO_ID": "0600000US2500901260",
+		"NAME": "Amesbury Town city, Essex County, Massachusetts",
+		"MEDIAN_INCOME": "91010",
+		"MARGIN_OF_ERROR": "10379",
+		"MUNICIPALITY": "Amesbury Town city",
+		"COUNTY": " Essex County"
+	},
+	{
+		"GEO_ID": "0600000US2500901465",
+		"NAME": "Andover town, Essex County, Massachusetts",
+		"MEDIAN_INCOME": "162694",
+		"MARGIN_OF_ERROR": "12811",
+		"MUNICIPALITY": "Andover town",
+		"COUNTY": " Essex County"
+	},
+	{
+		"GEO_ID": "0600000US2500905595",
+		"NAME": "Beverly city, Essex County, Massachusetts",
+		"MEDIAN_INCOME": "99525",
+		"MARGIN_OF_ERROR": "8548",
+		"MUNICIPALITY": "Beverly city",
+		"COUNTY": " Essex County"
+	},
+	{
+		"GEO_ID": "0600000US2500907420",
+		"NAME": "Boxford town, Essex County, Massachusetts",
+		"MEDIAN_INCOME": "209423",
+		"MARGIN_OF_ERROR": "36147",
+		"MUNICIPALITY": "Boxford town",
+		"COUNTY": " Essex County"
+	},
+	{
+		"GEO_ID": "0600000US2500916250",
+		"NAME": "Danvers town, Essex County, Massachusetts",
+		"MEDIAN_INCOME": "116636",
+		"MARGIN_OF_ERROR": "9953",
+		"MUNICIPALITY": "Danvers town",
+		"COUNTY": " Essex County"
+	},
+	{
+		"GEO_ID": "0600000US2500921850",
+		"NAME": "Essex town, Essex County, Massachusetts",
+		"MEDIAN_INCOME": "133553",
+		"MARGIN_OF_ERROR": "20847",
+		"MUNICIPALITY": "Essex town",
+		"COUNTY": " Essex County"
+	},
+	{
+		"GEO_ID": "0600000US2500925625",
+		"NAME": "Georgetown town, Essex County, Massachusetts",
+		"MEDIAN_INCOME": "147156",
+		"MARGIN_OF_ERROR": "18595",
+		"MUNICIPALITY": "Georgetown town",
+		"COUNTY": " Essex County"
+	},
+	{
+		"GEO_ID": "0600000US2500926150",
+		"NAME": "Gloucester city, Essex County, Massachusetts",
+		"MEDIAN_INCOME": "84465",
+		"MARGIN_OF_ERROR": "7168",
+		"MUNICIPALITY": "Gloucester city",
+		"COUNTY": " Essex County"
+	},
+	{
+		"GEO_ID": "0600000US2500927620",
+		"NAME": "Groveland town, Essex County, Massachusetts",
+		"MEDIAN_INCOME": "131952",
+		"MARGIN_OF_ERROR": "10190",
+		"MUNICIPALITY": "Groveland town",
+		"COUNTY": " Essex County"
+	},
+	{
+		"GEO_ID": "0600000US2500927900",
+		"NAME": "Hamilton town, Essex County, Massachusetts",
+		"MEDIAN_INCOME": "138250",
+		"MARGIN_OF_ERROR": "17220",
+		"MUNICIPALITY": "Hamilton town",
+		"COUNTY": " Essex County"
+	},
+	{
+		"GEO_ID": "0600000US2500929405",
+		"NAME": "Haverhill city, Essex County, Massachusetts",
+		"MEDIAN_INCOME": "81989",
+		"MARGIN_OF_ERROR": "5088",
+		"MUNICIPALITY": "Haverhill city",
+		"COUNTY": " Essex County"
+	},
+	{
+		"GEO_ID": "0600000US2500932310",
+		"NAME": "Ipswich town, Essex County, Massachusetts",
+		"MEDIAN_INCOME": "123266",
+		"MARGIN_OF_ERROR": "15396",
+		"MUNICIPALITY": "Ipswich town",
+		"COUNTY": " Essex County"
+	},
+	{
+		"GEO_ID": "0600000US2500934550",
+		"NAME": "Lawrence city, Essex County, Massachusetts",
+		"MEDIAN_INCOME": "53977",
+		"MARGIN_OF_ERROR": "3131",
+		"MUNICIPALITY": "Lawrence city",
+		"COUNTY": " Essex County"
+	},
+	{
+		"GEO_ID": "0600000US2500937490",
+		"NAME": "Lynn city, Essex County, Massachusetts",
+		"MEDIAN_INCOME": "70046",
+		"MARGIN_OF_ERROR": "2644",
+		"MUNICIPALITY": "Lynn city",
+		"COUNTY": " Essex County"
+	},
+	{
+		"GEO_ID": "0600000US2500937560",
+		"NAME": "Lynnfield town, Essex County, Massachusetts",
+		"MEDIAN_INCOME": "160931",
+		"MARGIN_OF_ERROR": "28395",
+		"MUNICIPALITY": "Lynnfield town",
+		"COUNTY": " Essex County"
+	},
+	{
+		"GEO_ID": "0600000US2500937995",
+		"NAME": "Manchester-by-the-Sea town, Essex County, Massachusetts",
+		"MEDIAN_INCOME": "209052",
+		"MARGIN_OF_ERROR": "22248",
+		"MUNICIPALITY": "Manchester-by-the-Sea town",
+		"COUNTY": " Essex County"
+	},
+	{
+		"GEO_ID": "0600000US2500938400",
+		"NAME": "Marblehead town, Essex County, Massachusetts",
+		"MEDIAN_INCOME": "164104",
+		"MARGIN_OF_ERROR": "13112",
+		"MUNICIPALITY": "Marblehead town",
+		"COUNTY": " Essex County"
+	},
+	{
+		"GEO_ID": "0600000US2500940430",
+		"NAME": "Merrimac town, Essex County, Massachusetts",
+		"MEDIAN_INCOME": "100321",
+		"MARGIN_OF_ERROR": "22155",
+		"MUNICIPALITY": "Merrimac town",
+		"COUNTY": " Essex County"
+	},
+	{
+		"GEO_ID": "0600000US2500940710",
+		"NAME": "Methuen Town city, Essex County, Massachusetts",
+		"MEDIAN_INCOME": "93681",
+		"MARGIN_OF_ERROR": "6668",
+		"MUNICIPALITY": "Methuen Town city",
+		"COUNTY": " Essex County"
+	},
+	{
+		"GEO_ID": "0600000US2500941095",
+		"NAME": "Middleton town, Essex County, Massachusetts",
+		"MEDIAN_INCOME": "168245",
+		"MARGIN_OF_ERROR": "14983",
+		"MUNICIPALITY": "Middleton town",
+		"COUNTY": " Essex County"
+	},
+	{
+		"GEO_ID": "0600000US2500943580",
+		"NAME": "Nahant town, Essex County, Massachusetts",
+		"MEDIAN_INCOME": "105867",
+		"MARGIN_OF_ERROR": "5662",
+		"MUNICIPALITY": "Nahant town",
+		"COUNTY": " Essex County"
+	},
+	{
+		"GEO_ID": "0600000US2500945175",
+		"NAME": "Newbury town, Essex County, Massachusetts",
+		"MEDIAN_INCOME": "167625",
+		"MARGIN_OF_ERROR": "48506",
+		"MUNICIPALITY": "Newbury town",
+		"COUNTY": " Essex County"
+	},
+	{
+		"GEO_ID": "0600000US2500945245",
+		"NAME": "Newburyport city, Essex County, Massachusetts",
+		"MEDIAN_INCOME": "127306",
+		"MARGIN_OF_ERROR": "27383",
+		"MUNICIPALITY": "Newburyport city",
+		"COUNTY": " Essex County"
+	},
+	{
+		"GEO_ID": "0600000US2500946365",
+		"NAME": "North Andover town, Essex County, Massachusetts",
+		"MEDIAN_INCOME": "131852",
+		"MARGIN_OF_ERROR": "11522",
+		"MUNICIPALITY": "North Andover town",
+		"COUNTY": " Essex County"
+	},
+	{
+		"GEO_ID": "0600000US2500952490",
+		"NAME": "Peabody city, Essex County, Massachusetts",
+		"MEDIAN_INCOME": "91125",
+		"MARGIN_OF_ERROR": "2476",
+		"MUNICIPALITY": "Peabody city",
+		"COUNTY": " Essex County"
+	},
+	{
+		"GEO_ID": "0600000US2500957880",
+		"NAME": "Rockport town, Essex County, Massachusetts",
+		"MEDIAN_INCOME": "95091",
+		"MARGIN_OF_ERROR": "11870",
+		"MUNICIPALITY": "Rockport town",
+		"COUNTY": " Essex County"
+	},
+	{
+		"GEO_ID": "0600000US2500958405",
+		"NAME": "Rowley town, Essex County, Massachusetts",
+		"MEDIAN_INCOME": "135396",
+		"MARGIN_OF_ERROR": "20856",
+		"MUNICIPALITY": "Rowley town",
+		"COUNTY": " Essex County"
+	},
+	{
+		"GEO_ID": "0600000US2500959105",
+		"NAME": "Salem city, Essex County, Massachusetts",
+		"MEDIAN_INCOME": "79196",
+		"MARGIN_OF_ERROR": "5497",
+		"MUNICIPALITY": "Salem city",
+		"COUNTY": " Essex County"
+	},
+	{
+		"GEO_ID": "0600000US2500959245",
+		"NAME": "Salisbury town, Essex County, Massachusetts",
+		"MEDIAN_INCOME": "97237",
+		"MARGIN_OF_ERROR": "16967",
+		"MUNICIPALITY": "Salisbury town",
+		"COUNTY": " Essex County"
+	},
+	{
+		"GEO_ID": "0600000US2500960015",
+		"NAME": "Saugus town, Essex County, Massachusetts",
+		"MEDIAN_INCOME": "96064",
+		"MARGIN_OF_ERROR": "4509",
+		"MUNICIPALITY": "Saugus town",
+		"COUNTY": " Essex County"
+	},
+	{
+		"GEO_ID": "0600000US2500968645",
+		"NAME": "Swampscott town, Essex County, Massachusetts",
+		"MEDIAN_INCOME": "118646",
+		"MARGIN_OF_ERROR": "18850",
+		"MUNICIPALITY": "Swampscott town",
+		"COUNTY": " Essex County"
+	},
+	{
+		"GEO_ID": "0600000US2500970150",
+		"NAME": "Topsfield town, Essex County, Massachusetts",
+		"MEDIAN_INCOME": "162734",
+		"MARGIN_OF_ERROR": "16054",
+		"MUNICIPALITY": "Topsfield town",
+		"COUNTY": " Essex County"
+	},
+	{
+		"GEO_ID": "0600000US2500974595",
+		"NAME": "Wenham town, Essex County, Massachusetts",
+		"MEDIAN_INCOME": "181982",
+		"MARGIN_OF_ERROR": "25247",
+		"MUNICIPALITY": "Wenham town",
+		"COUNTY": " Essex County"
+	},
+	{
+		"GEO_ID": "0600000US2500977150",
+		"NAME": "West Newbury town, Essex County, Massachusetts",
+		"MEDIAN_INCOME": "181125",
+		"MARGIN_OF_ERROR": "25641",
+		"MUNICIPALITY": "West Newbury town",
+		"COUNTY": " Essex County"
+	},
+	{
+		"GEO_ID": "0600000US2501102095",
+		"NAME": "Ashfield town, Franklin County, Massachusetts",
+		"MEDIAN_INCOME": "79648",
+		"MARGIN_OF_ERROR": "5860",
+		"MUNICIPALITY": "Ashfield town",
+		"COUNTY": " Franklin County"
+	},
+	{
+		"GEO_ID": "0600000US2501105560",
+		"NAME": "Bernardston town, Franklin County, Massachusetts",
+		"MEDIAN_INCOME": "76761",
+		"MARGIN_OF_ERROR": "12321",
+		"MUNICIPALITY": "Bernardston town",
+		"COUNTY": " Franklin County"
+	},
+	{
+		"GEO_ID": "0600000US2501109595",
+		"NAME": "Buckland town, Franklin County, Massachusetts",
+		"MEDIAN_INCOME": "77188",
+		"MARGIN_OF_ERROR": "11012",
+		"MUNICIPALITY": "Buckland town",
+		"COUNTY": " Franklin County"
+	},
+	{
+		"GEO_ID": "0600000US2501112505",
+		"NAME": "Charlemont town, Franklin County, Massachusetts",
+		"MEDIAN_INCOME": "55603",
+		"MARGIN_OF_ERROR": "11603",
+		"MUNICIPALITY": "Charlemont town",
+		"COUNTY": " Franklin County"
+	},
+	{
+		"GEO_ID": "0600000US2501114885",
+		"NAME": "Colrain town, Franklin County, Massachusetts",
+		"MEDIAN_INCOME": "81316",
+		"MARGIN_OF_ERROR": "12756",
+		"MUNICIPALITY": "Colrain town",
+		"COUNTY": " Franklin County"
+	},
+	{
+		"GEO_ID": "0600000US2501115200",
+		"NAME": "Conway town, Franklin County, Massachusetts",
+		"MEDIAN_INCOME": "90500",
+		"MARGIN_OF_ERROR": "10986",
+		"MUNICIPALITY": "Conway town",
+		"COUNTY": " Franklin County"
+	},
+	{
+		"GEO_ID": "0600000US2501116670",
+		"NAME": "Deerfield town, Franklin County, Massachusetts",
+		"MEDIAN_INCOME": "99917",
+		"MARGIN_OF_ERROR": "10450",
+		"MUNICIPALITY": "Deerfield town",
+		"COUNTY": " Franklin County"
+	},
+	{
+		"GEO_ID": "0600000US2501121780",
+		"NAME": "Erving town, Franklin County, Massachusetts",
+		"MEDIAN_INCOME": "70560",
+		"MARGIN_OF_ERROR": "7234",
+		"MUNICIPALITY": "Erving town",
+		"COUNTY": " Franklin County"
+	},
+	{
+		"GEO_ID": "0600000US2501125730",
+		"NAME": "Gill town, Franklin County, Massachusetts",
+		"MEDIAN_INCOME": "79135",
+		"MARGIN_OF_ERROR": "8562",
+		"MUNICIPALITY": "Gill town",
+		"COUNTY": " Franklin County"
+	},
+	{
+		"GEO_ID": "0600000US2501127060",
+		"NAME": "Greenfield city, Franklin County, Massachusetts",
+		"MEDIAN_INCOME": "53149",
+		"MARGIN_OF_ERROR": "4779",
+		"MUNICIPALITY": "Greenfield city",
+		"COUNTY": " Franklin County"
+	},
+	{
+		"GEO_ID": "0600000US2501129475",
+		"NAME": "Hawley town, Franklin County, Massachusetts",
+		"MEDIAN_INCOME": "98542",
+		"MARGIN_OF_ERROR": "39228",
+		"MUNICIPALITY": "Hawley town",
+		"COUNTY": " Franklin County"
+	},
+	{
+		"GEO_ID": "0600000US2501129650",
+		"NAME": "Heath town, Franklin County, Massachusetts",
+		"MEDIAN_INCOME": "95125",
+		"MARGIN_OF_ERROR": "22591",
+		"MUNICIPALITY": "Heath town",
+		"COUNTY": " Franklin County"
+	},
+	{
+		"GEO_ID": "0600000US2501135180",
+		"NAME": "Leverett town, Franklin County, Massachusetts",
+		"MEDIAN_INCOME": "105833",
+		"MARGIN_OF_ERROR": "23147",
+		"MUNICIPALITY": "Leverett town",
+		"COUNTY": " Franklin County"
+	},
+	{
+		"GEO_ID": "0600000US2501135285",
+		"NAME": "Leyden town, Franklin County, Massachusetts",
+		"MEDIAN_INCOME": "97500",
+		"MARGIN_OF_ERROR": "15233",
+		"MUNICIPALITY": "Leyden town",
+		"COUNTY": " Franklin County"
+	},
+	{
+		"GEO_ID": "0600000US2501142040",
+		"NAME": "Monroe town, Franklin County, Massachusetts",
+		"MEDIAN_INCOME": "-",
+		"MARGIN_OF_ERROR": "**",
+		"MUNICIPALITY": "Monroe town",
+		"COUNTY": " Franklin County"
+	},
+	{
+		"GEO_ID": "0600000US2501142285",
+		"NAME": "Montague town, Franklin County, Massachusetts",
+		"MEDIAN_INCOME": "70208",
+		"MARGIN_OF_ERROR": "7038",
+		"MUNICIPALITY": "Montague town",
+		"COUNTY": " Franklin County"
+	},
+	{
+		"GEO_ID": "0600000US2501145490",
+		"NAME": "New Salem town, Franklin County, Massachusetts",
+		"MEDIAN_INCOME": "75951",
+		"MARGIN_OF_ERROR": "8805",
+		"MUNICIPALITY": "New Salem town",
+		"COUNTY": " Franklin County"
+	},
+	{
+		"GEO_ID": "0600000US2501147835",
+		"NAME": "Northfield town, Franklin County, Massachusetts",
+		"MEDIAN_INCOME": "94775",
+		"MARGIN_OF_ERROR": "8376",
+		"MUNICIPALITY": "Northfield town",
+		"COUNTY": " Franklin County"
+	},
+	{
+		"GEO_ID": "0600000US2501151265",
+		"NAME": "Orange town, Franklin County, Massachusetts",
+		"MEDIAN_INCOME": "56000",
+		"MARGIN_OF_ERROR": "5550",
+		"MUNICIPALITY": "Orange town",
+		"COUNTY": " Franklin County"
+	},
+	{
+		"GEO_ID": "0600000US2501158335",
+		"NAME": "Rowe town, Franklin County, Massachusetts",
+		"MEDIAN_INCOME": "78281",
+		"MARGIN_OF_ERROR": "22354",
+		"MUNICIPALITY": "Rowe town",
+		"COUNTY": " Franklin County"
+	},
+	{
+		"GEO_ID": "0600000US2501161135",
+		"NAME": "Shelburne town, Franklin County, Massachusetts",
+		"MEDIAN_INCOME": "76800",
+		"MARGIN_OF_ERROR": "3618",
+		"MUNICIPALITY": "Shelburne town",
+		"COUNTY": " Franklin County"
+	},
+	{
+		"GEO_ID": "0600000US2501161905",
+		"NAME": "Shutesbury town, Franklin County, Massachusetts",
+		"MEDIAN_INCOME": "101458",
+		"MARGIN_OF_ERROR": "10811",
+		"MUNICIPALITY": "Shutesbury town",
+		"COUNTY": " Franklin County"
+	},
+	{
+		"GEO_ID": "0600000US2501168400",
+		"NAME": "Sunderland town, Franklin County, Massachusetts",
+		"MEDIAN_INCOME": "59185",
+		"MARGIN_OF_ERROR": "8981",
+		"MUNICIPALITY": "Sunderland town",
+		"COUNTY": " Franklin County"
+	},
+	{
+		"GEO_ID": "0600000US2501173265",
+		"NAME": "Warwick town, Franklin County, Massachusetts",
+		"MEDIAN_INCOME": "89643",
+		"MARGIN_OF_ERROR": "14696",
+		"MUNICIPALITY": "Warwick town",
+		"COUNTY": " Franklin County"
+	},
+	{
+		"GEO_ID": "0600000US2501174525",
+		"NAME": "Wendell town, Franklin County, Massachusetts",
+		"MEDIAN_INCOME": "66815",
+		"MARGIN_OF_ERROR": "6696",
+		"MUNICIPALITY": "Wendell town",
+		"COUNTY": " Franklin County"
+	},
+	{
+		"GEO_ID": "0600000US2501179110",
+		"NAME": "Whately town, Franklin County, Massachusetts",
+		"MEDIAN_INCOME": "98015",
+		"MARGIN_OF_ERROR": "12535",
+		"MUNICIPALITY": "Whately town",
+		"COUNTY": " Franklin County"
+	},
+	{
+		"GEO_ID": "0600000US2501300840",
+		"NAME": "Agawam Town city, Hampden County, Massachusetts",
+		"MEDIAN_INCOME": "80809",
+		"MARGIN_OF_ERROR": "5418",
+		"MUNICIPALITY": "Agawam Town city",
+		"COUNTY": " Hampden County"
+	},
+	{
+		"GEO_ID": "0600000US2501306085",
+		"NAME": "Blandford town, Hampden County, Massachusetts",
+		"MEDIAN_INCOME": "91442",
+		"MARGIN_OF_ERROR": "20818",
+		"MUNICIPALITY": "Blandford town",
+		"COUNTY": " Hampden County"
+	},
+	{
+		"GEO_ID": "0600000US2501308470",
+		"NAME": "Brimfield town, Hampden County, Massachusetts",
+		"MEDIAN_INCOME": "88438",
+		"MARGIN_OF_ERROR": "35852",
+		"MUNICIPALITY": "Brimfield town",
+		"COUNTY": " Hampden County"
+	},
+	{
+		"GEO_ID": "0600000US2501313485",
+		"NAME": "Chester town, Hampden County, Massachusetts",
+		"MEDIAN_INCOME": "80947",
+		"MARGIN_OF_ERROR": "3556",
+		"MUNICIPALITY": "Chester town",
+		"COUNTY": " Hampden County"
+	},
+	{
+		"GEO_ID": "0600000US2501313660",
+		"NAME": "Chicopee city, Hampden County, Massachusetts",
+		"MEDIAN_INCOME": "63866",
+		"MARGIN_OF_ERROR": "4378",
+		"MUNICIPALITY": "Chicopee city",
+		"COUNTY": " Hampden County"
+	},
+	{
+		"GEO_ID": "0600000US2501319645",
+		"NAME": "East Longmeadow town, Hampden County, Massachusetts",
+		"MEDIAN_INCOME": "101570",
+		"MARGIN_OF_ERROR": "9742",
+		"MUNICIPALITY": "East Longmeadow town",
+		"COUNTY": " Hampden County"
+	},
+	{
+		"GEO_ID": "0600000US2501326675",
+		"NAME": "Granville town, Hampden County, Massachusetts",
+		"MEDIAN_INCOME": "102143",
+		"MARGIN_OF_ERROR": "15011",
+		"MUNICIPALITY": "Granville town",
+		"COUNTY": " Hampden County"
+	},
+	{
+		"GEO_ID": "0600000US2501328075",
+		"NAME": "Hampden town, Hampden County, Massachusetts",
+		"MEDIAN_INCOME": "110320",
+		"MARGIN_OF_ERROR": "10068",
+		"MUNICIPALITY": "Hampden town",
+		"COUNTY": " Hampden County"
+	},
+	{
+		"GEO_ID": "0600000US2501330665",
+		"NAME": "Holland town, Hampden County, Massachusetts",
+		"MEDIAN_INCOME": "81250",
+		"MARGIN_OF_ERROR": "15539",
+		"MUNICIPALITY": "Holland town",
+		"COUNTY": " Hampden County"
+	},
+	{
+		"GEO_ID": "0600000US2501330840",
+		"NAME": "Holyoke city, Hampden County, Massachusetts",
+		"MEDIAN_INCOME": "49007",
+		"MARGIN_OF_ERROR": "2716",
+		"MUNICIPALITY": "Holyoke city",
+		"COUNTY": " Hampden County"
+	},
+	{
+		"GEO_ID": "0600000US2501336300",
+		"NAME": "Longmeadow town, Hampden County, Massachusetts",
+		"MEDIAN_INCOME": "138218",
+		"MARGIN_OF_ERROR": "8348",
+		"MUNICIPALITY": "Longmeadow town",
+		"COUNTY": " Hampden County"
+	},
+	{
+		"GEO_ID": "0600000US2501337175",
+		"NAME": "Ludlow town, Hampden County, Massachusetts",
+		"MEDIAN_INCOME": "76395",
+		"MARGIN_OF_ERROR": "6209",
+		"MUNICIPALITY": "Ludlow town",
+		"COUNTY": " Hampden County"
+	},
+	{
+		"GEO_ID": "0600000US2501342145",
+		"NAME": "Monson town, Hampden County, Massachusetts",
+		"MEDIAN_INCOME": "80750",
+		"MARGIN_OF_ERROR": "13004",
+		"MUNICIPALITY": "Monson town",
+		"COUNTY": " Hampden County"
+	},
+	{
+		"GEO_ID": "0600000US2501342530",
+		"NAME": "Montgomery town, Hampden County, Massachusetts",
+		"MEDIAN_INCOME": "116250",
+		"MARGIN_OF_ERROR": "18682",
+		"MUNICIPALITY": "Montgomery town",
+		"COUNTY": " Hampden County"
+	},
+	{
+		"GEO_ID": "0600000US2501352144",
+		"NAME": "Palmer Town city, Hampden County, Massachusetts",
+		"MEDIAN_INCOME": "73568",
+		"MARGIN_OF_ERROR": "10713",
+		"MUNICIPALITY": "Palmer Town city",
+		"COUNTY": " Hampden County"
+	},
+	{
+		"GEO_ID": "0600000US2501358650",
+		"NAME": "Russell town, Hampden County, Massachusetts",
+		"MEDIAN_INCOME": "102969",
+		"MARGIN_OF_ERROR": "10587",
+		"MUNICIPALITY": "Russell town",
+		"COUNTY": " Hampden County"
+	},
+	{
+		"GEO_ID": "0600000US2501365825",
+		"NAME": "Southwick town, Hampden County, Massachusetts",
+		"MEDIAN_INCOME": "106779",
+		"MARGIN_OF_ERROR": "17703",
+		"MUNICIPALITY": "Southwick town",
+		"COUNTY": " Hampden County"
+	},
+	{
+		"GEO_ID": "0600000US2501367000",
+		"NAME": "Springfield city, Hampden County, Massachusetts",
+		"MEDIAN_INCOME": "47677",
+		"MARGIN_OF_ERROR": "2541",
+		"MUNICIPALITY": "Springfield city",
+		"COUNTY": " Hampden County"
+	},
+	{
+		"GEO_ID": "0600000US2501370045",
+		"NAME": "Tolland town, Hampden County, Massachusetts",
+		"MEDIAN_INCOME": "115250",
+		"MARGIN_OF_ERROR": "32009",
+		"MUNICIPALITY": "Tolland town",
+		"COUNTY": " Hampden County"
+	},
+	{
+		"GEO_ID": "0600000US2501372390",
+		"NAME": "Wales town, Hampden County, Massachusetts",
+		"MEDIAN_INCOME": "90688",
+		"MARGIN_OF_ERROR": "9909",
+		"MUNICIPALITY": "Wales town",
+		"COUNTY": " Hampden County"
+	},
+	{
+		"GEO_ID": "0600000US2501376030",
+		"NAME": "Westfield city, Hampden County, Massachusetts",
+		"MEDIAN_INCOME": "78307",
+		"MARGIN_OF_ERROR": "3776",
+		"MUNICIPALITY": "Westfield city",
+		"COUNTY": " Hampden County"
+	},
+	{
+		"GEO_ID": "0600000US2501377890",
+		"NAME": "West Springfield Town city, Hampden County, Massachusetts",
+		"MEDIAN_INCOME": "67297",
+		"MARGIN_OF_ERROR": "8886",
+		"MUNICIPALITY": "West Springfield Town city",
+		"COUNTY": " Hampden County"
+	},
+	{
+		"GEO_ID": "0600000US2501379740",
+		"NAME": "Wilbraham town, Hampden County, Massachusetts",
+		"MEDIAN_INCOME": "125946",
+		"MARGIN_OF_ERROR": "12665",
+		"MUNICIPALITY": "Wilbraham town",
+		"COUNTY": " Hampden County"
+	},
+	{
+		"GEO_ID": "0600000US2501501370",
+		"NAME": "Amherst Town city, Hampshire County, Massachusetts",
+		"MEDIAN_INCOME": "68427",
+		"MARGIN_OF_ERROR": "14474",
+		"MUNICIPALITY": "Amherst Town city",
+		"COUNTY": " Hampshire County"
+	},
+	{
+		"GEO_ID": "0600000US2501504825",
+		"NAME": "Belchertown town, Hampshire County, Massachusetts",
+		"MEDIAN_INCOME": "99365",
+		"MARGIN_OF_ERROR": "15901",
+		"MUNICIPALITY": "Belchertown town",
+		"COUNTY": " Hampshire County"
+	},
+	{
+		"GEO_ID": "0600000US2501513590",
+		"NAME": "Chesterfield town, Hampshire County, Massachusetts",
+		"MEDIAN_INCOME": "86979",
+		"MARGIN_OF_ERROR": "17053",
+		"MUNICIPALITY": "Chesterfield town",
+		"COUNTY": " Hampshire County"
+	},
+	{
+		"GEO_ID": "0600000US2501516040",
+		"NAME": "Cummington town, Hampshire County, Massachusetts",
+		"MEDIAN_INCOME": "83708",
+		"MARGIN_OF_ERROR": "12488",
+		"MUNICIPALITY": "Cummington town",
+		"COUNTY": " Hampshire County"
+	},
+	{
+		"GEO_ID": "0600000US2501519370",
+		"NAME": "Easthampton Town city, Hampshire County, Massachusetts",
+		"MEDIAN_INCOME": "67329",
+		"MARGIN_OF_ERROR": "6863",
+		"MUNICIPALITY": "Easthampton Town city",
+		"COUNTY": " Hampshire County"
+	},
+	{
+		"GEO_ID": "0600000US2501526290",
+		"NAME": "Goshen town, Hampshire County, Massachusetts",
+		"MEDIAN_INCOME": "94500",
+		"MARGIN_OF_ERROR": "12820",
+		"MUNICIPALITY": "Goshen town",
+		"COUNTY": " Hampshire County"
+	},
+	{
+		"GEO_ID": "0600000US2501526535",
+		"NAME": "Granby town, Hampshire County, Massachusetts",
+		"MEDIAN_INCOME": "102248",
+		"MARGIN_OF_ERROR": "21575",
+		"MUNICIPALITY": "Granby town",
+		"COUNTY": " Hampshire County"
+	},
+	{
+		"GEO_ID": "0600000US2501527690",
+		"NAME": "Hadley town, Hampshire County, Massachusetts",
+		"MEDIAN_INCOME": "112450",
+		"MARGIN_OF_ERROR": "6801",
+		"MUNICIPALITY": "Hadley town",
+		"COUNTY": " Hampshire County"
+	},
+	{
+		"GEO_ID": "0600000US2501529265",
+		"NAME": "Hatfield town, Hampshire County, Massachusetts",
+		"MEDIAN_INCOME": "83459",
+		"MARGIN_OF_ERROR": "18188",
+		"MUNICIPALITY": "Hatfield town",
+		"COUNTY": " Hampshire County"
+	},
+	{
+		"GEO_ID": "0600000US2501531785",
+		"NAME": "Huntington town, Hampshire County, Massachusetts",
+		"MEDIAN_INCOME": "82917",
+		"MARGIN_OF_ERROR": "15202",
+		"MUNICIPALITY": "Huntington town",
+		"COUNTY": " Hampshire County"
+	},
+	{
+		"GEO_ID": "0600000US2501540990",
+		"NAME": "Middlefield town, Hampshire County, Massachusetts",
+		"MEDIAN_INCOME": "80875",
+		"MARGIN_OF_ERROR": "6654",
+		"MUNICIPALITY": "Middlefield town",
+		"COUNTY": " Hampshire County"
+	},
+	{
+		"GEO_ID": "0600000US2501546330",
+		"NAME": "Northampton city, Hampshire County, Massachusetts",
+		"MEDIAN_INCOME": "80981",
+		"MARGIN_OF_ERROR": "6605",
+		"MUNICIPALITY": "Northampton city",
+		"COUNTY": " Hampshire County"
+	},
+	{
+		"GEO_ID": "0600000US2501552560",
+		"NAME": "Pelham town, Hampshire County, Massachusetts",
+		"MEDIAN_INCOME": "104667",
+		"MARGIN_OF_ERROR": "18768",
+		"MUNICIPALITY": "Pelham town",
+		"COUNTY": " Hampshire County"
+	},
+	{
+		"GEO_ID": "0600000US2501554030",
+		"NAME": "Plainfield town, Hampshire County, Massachusetts",
+		"MEDIAN_INCOME": "59861",
+		"MARGIN_OF_ERROR": "20096",
+		"MUNICIPALITY": "Plainfield town",
+		"COUNTY": " Hampshire County"
+	},
+	{
+		"GEO_ID": "0600000US2501562745",
+		"NAME": "Southampton town, Hampshire County, Massachusetts",
+		"MEDIAN_INCOME": "114531",
+		"MARGIN_OF_ERROR": "21749",
+		"MUNICIPALITY": "Southampton town",
+		"COUNTY": " Hampshire County"
+	},
+	{
+		"GEO_ID": "0600000US2501564145",
+		"NAME": "South Hadley town, Hampshire County, Massachusetts",
+		"MEDIAN_INCOME": "92740",
+		"MARGIN_OF_ERROR": "12925",
+		"MUNICIPALITY": "South Hadley town",
+		"COUNTY": " Hampshire County"
+	},
+	{
+		"GEO_ID": "0600000US2501572880",
+		"NAME": "Ware town, Hampshire County, Massachusetts",
+		"MEDIAN_INCOME": "66250",
+		"MARGIN_OF_ERROR": "6770",
+		"MUNICIPALITY": "Ware town",
+		"COUNTY": " Hampshire County"
+	},
+	{
+		"GEO_ID": "0600000US2501576380",
+		"NAME": "Westhampton town, Hampshire County, Massachusetts",
+		"MEDIAN_INCOME": "91771",
+		"MARGIN_OF_ERROR": "13423",
+		"MUNICIPALITY": "Westhampton town",
+		"COUNTY": " Hampshire County"
+	},
+	{
+		"GEO_ID": "0600000US2501579915",
+		"NAME": "Williamsburg town, Hampshire County, Massachusetts",
+		"MEDIAN_INCOME": "108250",
+		"MARGIN_OF_ERROR": "17522",
+		"MUNICIPALITY": "Williamsburg town",
+		"COUNTY": " Hampshire County"
+	},
+	{
+		"GEO_ID": "0600000US2501582175",
+		"NAME": "Worthington town, Hampshire County, Massachusetts",
+		"MEDIAN_INCOME": "91250",
+		"MARGIN_OF_ERROR": "7314",
+		"MUNICIPALITY": "Worthington town",
+		"COUNTY": " Hampshire County"
+	},
+	{
+		"GEO_ID": "0600000US2501700380",
+		"NAME": "Acton town, Middlesex County, Massachusetts",
+		"MEDIAN_INCOME": "150482",
+		"MARGIN_OF_ERROR": "11458",
+		"MUNICIPALITY": "Acton town",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501701605",
+		"NAME": "Arlington town, Middlesex County, Massachusetts",
+		"MEDIAN_INCOME": "136312",
+		"MARGIN_OF_ERROR": "6108",
+		"MUNICIPALITY": "Arlington town",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501701955",
+		"NAME": "Ashby town, Middlesex County, Massachusetts",
+		"MEDIAN_INCOME": "105750",
+		"MARGIN_OF_ERROR": "9252",
+		"MUNICIPALITY": "Ashby town",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501702130",
+		"NAME": "Ashland town, Middlesex County, Massachusetts",
+		"MEDIAN_INCOME": "124311",
+		"MARGIN_OF_ERROR": "11734",
+		"MUNICIPALITY": "Ashland town",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501703005",
+		"NAME": "Ayer town, Middlesex County, Massachusetts",
+		"MEDIAN_INCOME": "100605",
+		"MARGIN_OF_ERROR": "15748",
+		"MUNICIPALITY": "Ayer town",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501704615",
+		"NAME": "Bedford town, Middlesex County, Massachusetts",
+		"MEDIAN_INCOME": "143736",
+		"MARGIN_OF_ERROR": "19443",
+		"MUNICIPALITY": "Bedford town",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501705070",
+		"NAME": "Belmont town, Middlesex County, Massachusetts",
+		"MEDIAN_INCOME": "164918",
+		"MARGIN_OF_ERROR": "9862",
+		"MUNICIPALITY": "Belmont town",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501705805",
+		"NAME": "Billerica town, Middlesex County, Massachusetts",
+		"MEDIAN_INCOME": "134805",
+		"MARGIN_OF_ERROR": "5836",
+		"MUNICIPALITY": "Billerica town",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501707350",
+		"NAME": "Boxborough town, Middlesex County, Massachusetts",
+		"MEDIAN_INCOME": "151207",
+		"MARGIN_OF_ERROR": "21545",
+		"MUNICIPALITY": "Boxborough town",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501709840",
+		"NAME": "Burlington town, Middlesex County, Massachusetts",
+		"MEDIAN_INCOME": "133936",
+		"MARGIN_OF_ERROR": "11666",
+		"MUNICIPALITY": "Burlington town",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501711000",
+		"NAME": "Cambridge city, Middlesex County, Massachusetts",
+		"MEDIAN_INCOME": "121539",
+		"MARGIN_OF_ERROR": "4716",
+		"MUNICIPALITY": "Cambridge city",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501711525",
+		"NAME": "Carlisle town, Middlesex County, Massachusetts",
+		"MEDIAN_INCOME": "247656",
+		"MARGIN_OF_ERROR": "29389",
+		"MUNICIPALITY": "Carlisle town",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501713135",
+		"NAME": "Chelmsford town, Middlesex County, Massachusetts",
+		"MEDIAN_INCOME": "134291",
+		"MARGIN_OF_ERROR": "7118",
+		"MUNICIPALITY": "Chelmsford town",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501715060",
+		"NAME": "Concord town, Middlesex County, Massachusetts",
+		"MEDIAN_INCOME": "184086",
+		"MARGIN_OF_ERROR": "9301",
+		"MUNICIPALITY": "Concord town",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501717475",
+		"NAME": "Dracut town, Middlesex County, Massachusetts",
+		"MEDIAN_INCOME": "102500",
+		"MARGIN_OF_ERROR": "7296",
+		"MUNICIPALITY": "Dracut town",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501717825",
+		"NAME": "Dunstable town, Middlesex County, Massachusetts",
+		"MEDIAN_INCOME": "193583",
+		"MARGIN_OF_ERROR": "13439",
+		"MUNICIPALITY": "Dunstable town",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501721990",
+		"NAME": "Everett city, Middlesex County, Massachusetts",
+		"MEDIAN_INCOME": "77796",
+		"MARGIN_OF_ERROR": "7920",
+		"MUNICIPALITY": "Everett city",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501724960",
+		"NAME": "Framingham city, Middlesex County, Massachusetts",
+		"MEDIAN_INCOME": "94909",
+		"MARGIN_OF_ERROR": "3920",
+		"MUNICIPALITY": "Framingham city",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501727480",
+		"NAME": "Groton town, Middlesex County, Massachusetts",
+		"MEDIAN_INCOME": "186333",
+		"MARGIN_OF_ERROR": "18535",
+		"MUNICIPALITY": "Groton town",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501730700",
+		"NAME": "Holliston town, Middlesex County, Massachusetts",
+		"MEDIAN_INCOME": "149614",
+		"MARGIN_OF_ERROR": "8951",
+		"MUNICIPALITY": "Holliston town",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501731085",
+		"NAME": "Hopkinton town, Middlesex County, Massachusetts",
+		"MEDIAN_INCOME": "191439",
+		"MARGIN_OF_ERROR": "19313",
+		"MUNICIPALITY": "Hopkinton town",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501731540",
+		"NAME": "Hudson town, Middlesex County, Massachusetts",
+		"MEDIAN_INCOME": "103086",
+		"MARGIN_OF_ERROR": "6606",
+		"MUNICIPALITY": "Hudson town",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501735215",
+		"NAME": "Lexington town, Middlesex County, Massachusetts",
+		"MEDIAN_INCOME": "206323",
+		"MARGIN_OF_ERROR": "13665",
+		"MUNICIPALITY": "Lexington town",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501735425",
+		"NAME": "Lincoln town, Middlesex County, Massachusetts",
+		"MEDIAN_INCOME": "158894",
+		"MARGIN_OF_ERROR": "31303",
+		"MUNICIPALITY": "Lincoln town",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501735950",
+		"NAME": "Littleton town, Middlesex County, Massachusetts",
+		"MEDIAN_INCOME": "151488",
+		"MARGIN_OF_ERROR": "23901",
+		"MUNICIPALITY": "Littleton town",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501737000",
+		"NAME": "Lowell city, Middlesex County, Massachusetts",
+		"MEDIAN_INCOME": "73008",
+		"MARGIN_OF_ERROR": "2737",
+		"MUNICIPALITY": "Lowell city",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501737875",
+		"NAME": "Malden city, Middlesex County, Massachusetts",
+		"MEDIAN_INCOME": "90295",
+		"MARGIN_OF_ERROR": "5212",
+		"MUNICIPALITY": "Malden city",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501738715",
+		"NAME": "Marlborough city, Middlesex County, Massachusetts",
+		"MEDIAN_INCOME": "94199",
+		"MARGIN_OF_ERROR": "9218",
+		"MUNICIPALITY": "Marlborough city",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501739625",
+		"NAME": "Maynard town, Middlesex County, Massachusetts",
+		"MEDIAN_INCOME": "112524",
+		"MARGIN_OF_ERROR": "12718",
+		"MUNICIPALITY": "Maynard town",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501739835",
+		"NAME": "Medford city, Middlesex County, Massachusetts",
+		"MEDIAN_INCOME": "114863",
+		"MARGIN_OF_ERROR": "6610",
+		"MUNICIPALITY": "Medford city",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501740115",
+		"NAME": "Melrose city, Middlesex County, Massachusetts",
+		"MEDIAN_INCOME": "126305",
+		"MARGIN_OF_ERROR": "10441",
+		"MUNICIPALITY": "Melrose city",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501743895",
+		"NAME": "Natick town, Middlesex County, Massachusetts",
+		"MEDIAN_INCOME": "133605",
+		"MARGIN_OF_ERROR": "9046",
+		"MUNICIPALITY": "Natick town",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501745560",
+		"NAME": "Newton city, Middlesex County, Massachusetts",
+		"MEDIAN_INCOME": "176373",
+		"MARGIN_OF_ERROR": "6023",
+		"MUNICIPALITY": "Newton city",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501748955",
+		"NAME": "North Reading town, Middlesex County, Massachusetts",
+		"MEDIAN_INCOME": "141442",
+		"MARGIN_OF_ERROR": "18986",
+		"MUNICIPALITY": "North Reading town",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501752805",
+		"NAME": "Pepperell town, Middlesex County, Massachusetts",
+		"MEDIAN_INCOME": "124254",
+		"MARGIN_OF_ERROR": "9459",
+		"MUNICIPALITY": "Pepperell town",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501756130",
+		"NAME": "Reading town, Middlesex County, Massachusetts",
+		"MEDIAN_INCOME": "154662",
+		"MARGIN_OF_ERROR": "14004",
+		"MUNICIPALITY": "Reading town",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501761380",
+		"NAME": "Sherborn town, Middlesex County, Massachusetts",
+		"MEDIAN_INCOME": "242688",
+		"MARGIN_OF_ERROR": "48369",
+		"MUNICIPALITY": "Sherborn town",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501761590",
+		"NAME": "Shirley town, Middlesex County, Massachusetts",
+		"MEDIAN_INCOME": "114118",
+		"MARGIN_OF_ERROR": "28672",
+		"MUNICIPALITY": "Shirley town",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501762535",
+		"NAME": "Somerville city, Middlesex County, Massachusetts",
+		"MEDIAN_INCOME": "120778",
+		"MARGIN_OF_ERROR": "3840",
+		"MUNICIPALITY": "Somerville city",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501767665",
+		"NAME": "Stoneham town, Middlesex County, Massachusetts",
+		"MEDIAN_INCOME": "112935",
+		"MARGIN_OF_ERROR": "13608",
+		"MUNICIPALITY": "Stoneham town",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501768050",
+		"NAME": "Stow town, Middlesex County, Massachusetts",
+		"MEDIAN_INCOME": "166833",
+		"MARGIN_OF_ERROR": "9686",
+		"MUNICIPALITY": "Stow town",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501768260",
+		"NAME": "Sudbury town, Middlesex County, Massachusetts",
+		"MEDIAN_INCOME": "234427",
+		"MARGIN_OF_ERROR": "18307",
+		"MUNICIPALITY": "Sudbury town",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501769415",
+		"NAME": "Tewksbury town, Middlesex County, Massachusetts",
+		"MEDIAN_INCOME": "119832",
+		"MARGIN_OF_ERROR": "8945",
+		"MUNICIPALITY": "Tewksbury town",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501770360",
+		"NAME": "Townsend town, Middlesex County, Massachusetts",
+		"MEDIAN_INCOME": "105662",
+		"MARGIN_OF_ERROR": "17101",
+		"MUNICIPALITY": "Townsend town",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501771025",
+		"NAME": "Tyngsborough town, Middlesex County, Massachusetts",
+		"MEDIAN_INCOME": "141070",
+		"MARGIN_OF_ERROR": "16466",
+		"MUNICIPALITY": "Tyngsborough town",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501772215",
+		"NAME": "Wakefield town, Middlesex County, Massachusetts",
+		"MEDIAN_INCOME": "125592",
+		"MARGIN_OF_ERROR": "8760",
+		"MUNICIPALITY": "Wakefield town",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501772600",
+		"NAME": "Waltham city, Middlesex County, Massachusetts",
+		"MEDIAN_INCOME": "113443",
+		"MARGIN_OF_ERROR": "4818",
+		"MUNICIPALITY": "Waltham city",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501773440",
+		"NAME": "Watertown Town city, Middlesex County, Massachusetts",
+		"MEDIAN_INCOME": "117625",
+		"MARGIN_OF_ERROR": "8656",
+		"MUNICIPALITY": "Watertown Town city",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501773790",
+		"NAME": "Wayland town, Middlesex County, Massachusetts",
+		"MEDIAN_INCOME": "208750",
+		"MARGIN_OF_ERROR": "35581",
+		"MUNICIPALITY": "Wayland town",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501776135",
+		"NAME": "Westford town, Middlesex County, Massachusetts",
+		"MEDIAN_INCOME": "174424",
+		"MARGIN_OF_ERROR": "8220",
+		"MUNICIPALITY": "Westford town",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501777255",
+		"NAME": "Weston town, Middlesex County, Massachusetts",
+		"MEDIAN_INCOME": "250,000+",
+		"MARGIN_OF_ERROR": "***",
+		"MUNICIPALITY": "Weston town",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501780230",
+		"NAME": "Wilmington town, Middlesex County, Massachusetts",
+		"MEDIAN_INCOME": "151034",
+		"MARGIN_OF_ERROR": "13607",
+		"MUNICIPALITY": "Wilmington town",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501780510",
+		"NAME": "Winchester town, Middlesex County, Massachusetts",
+		"MEDIAN_INCOME": "208531",
+		"MARGIN_OF_ERROR": "14737",
+		"MUNICIPALITY": "Winchester town",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501781035",
+		"NAME": "Woburn city, Middlesex County, Massachusetts",
+		"MEDIAN_INCOME": "104780",
+		"MARGIN_OF_ERROR": "7590",
+		"MUNICIPALITY": "Woburn city",
+		"COUNTY": " Middlesex County"
+	},
+	{
+		"GEO_ID": "0600000US2501900000",
+		"NAME": "County subdivisions not defined, Nantucket County, Massachusetts",
+		"MEDIAN_INCOME": "-",
+		"MARGIN_OF_ERROR": "**",
+		"MUNICIPALITY": "County subdivisions not defined",
+		"COUNTY": " Nantucket County"
+	},
+	{
+		"GEO_ID": "0600000US2501943790",
+		"NAME": "Nantucket town, Nantucket County, Massachusetts",
+		"MEDIAN_INCOME": "135590",
+		"MARGIN_OF_ERROR": "17386",
+		"MUNICIPALITY": "Nantucket town",
+		"COUNTY": " Nantucket County"
+	},
+	{
+		"GEO_ID": "0600000US2502102935",
+		"NAME": "Avon town, Norfolk County, Massachusetts",
+		"MEDIAN_INCOME": "125000",
+		"MARGIN_OF_ERROR": "37303",
+		"MUNICIPALITY": "Avon town",
+		"COUNTY": " Norfolk County"
+	},
+	{
+		"GEO_ID": "0600000US2502104930",
+		"NAME": "Bellingham town, Norfolk County, Massachusetts",
+		"MEDIAN_INCOME": "116152",
+		"MARGIN_OF_ERROR": "11871",
+		"MUNICIPALITY": "Bellingham town",
+		"COUNTY": " Norfolk County"
+	},
+	{
+		"GEO_ID": "0600000US2502107740",
+		"NAME": "Braintree Town city, Norfolk County, Massachusetts",
+		"MEDIAN_INCOME": "120593",
+		"MARGIN_OF_ERROR": "8025",
+		"MUNICIPALITY": "Braintree Town city",
+		"COUNTY": " Norfolk County"
+	},
+	{
+		"GEO_ID": "0600000US2502109175",
+		"NAME": "Brookline town, Norfolk County, Massachusetts",
+		"MEDIAN_INCOME": "130600",
+		"MARGIN_OF_ERROR": "7890",
+		"MUNICIPALITY": "Brookline town",
+		"COUNTY": " Norfolk County"
+	},
+	{
+		"GEO_ID": "0600000US2502111315",
+		"NAME": "Canton town, Norfolk County, Massachusetts",
+		"MEDIAN_INCOME": "130134",
+		"MARGIN_OF_ERROR": "11086",
+		"MUNICIPALITY": "Canton town",
+		"COUNTY": " Norfolk County"
+	},
+	{
+		"GEO_ID": "0600000US2502114640",
+		"NAME": "Cohasset town, Norfolk County, Massachusetts",
+		"MEDIAN_INCOME": "178013",
+		"MARGIN_OF_ERROR": "25992",
+		"MUNICIPALITY": "Cohasset town",
+		"COUNTY": " Norfolk County"
+	},
+	{
+		"GEO_ID": "0600000US2502116495",
+		"NAME": "Dedham town, Norfolk County, Massachusetts",
+		"MEDIAN_INCOME": "118877",
+		"MARGIN_OF_ERROR": "8552",
+		"MUNICIPALITY": "Dedham town",
+		"COUNTY": " Norfolk County"
+	},
+	{
+		"GEO_ID": "0600000US2502117405",
+		"NAME": "Dover town, Norfolk County, Massachusetts",
+		"MEDIAN_INCOME": "250,000+",
+		"MARGIN_OF_ERROR": "***",
+		"MUNICIPALITY": "Dover town",
+		"COUNTY": " Norfolk County"
+	},
+	{
+		"GEO_ID": "0600000US2502124820",
+		"NAME": "Foxborough town, Norfolk County, Massachusetts",
+		"MEDIAN_INCOME": "104350",
+		"MARGIN_OF_ERROR": "9767",
+		"MUNICIPALITY": "Foxborough town",
+		"COUNTY": " Norfolk County"
+	},
+	{
+		"GEO_ID": "0600000US2502125172",
+		"NAME": "Franklin Town city, Norfolk County, Massachusetts",
+		"MEDIAN_INCOME": "138062",
+		"MARGIN_OF_ERROR": "4552",
+		"MUNICIPALITY": "Franklin Town city",
+		"COUNTY": " Norfolk County"
+	},
+	{
+		"GEO_ID": "0600000US2502130455",
+		"NAME": "Holbrook town, Norfolk County, Massachusetts",
+		"MEDIAN_INCOME": "96920",
+		"MARGIN_OF_ERROR": "15324",
+		"MUNICIPALITY": "Holbrook town",
+		"COUNTY": " Norfolk County"
+	},
+	{
+		"GEO_ID": "0600000US2502139765",
+		"NAME": "Medfield town, Norfolk County, Massachusetts",
+		"MEDIAN_INCOME": "215099",
+		"MARGIN_OF_ERROR": "27761",
+		"MUNICIPALITY": "Medfield town",
+		"COUNTY": " Norfolk County"
+	},
+	{
+		"GEO_ID": "0600000US2502139975",
+		"NAME": "Medway town, Norfolk County, Massachusetts",
+		"MEDIAN_INCOME": "165614",
+		"MARGIN_OF_ERROR": "20564",
+		"MUNICIPALITY": "Medway town",
+		"COUNTY": " Norfolk County"
+	},
+	{
+		"GEO_ID": "0600000US2502141515",
+		"NAME": "Millis town, Norfolk County, Massachusetts",
+		"MEDIAN_INCOME": "140816",
+		"MARGIN_OF_ERROR": "8208",
+		"MUNICIPALITY": "Millis town",
+		"COUNTY": " Norfolk County"
+	},
+	{
+		"GEO_ID": "0600000US2502141690",
+		"NAME": "Milton town, Norfolk County, Massachusetts",
+		"MEDIAN_INCOME": "170531",
+		"MARGIN_OF_ERROR": "11019",
+		"MUNICIPALITY": "Milton town",
+		"COUNTY": " Norfolk County"
+	},
+	{
+		"GEO_ID": "0600000US2502144105",
+		"NAME": "Needham town, Norfolk County, Massachusetts",
+		"MEDIAN_INCOME": "206261",
+		"MARGIN_OF_ERROR": "8743",
+		"MUNICIPALITY": "Needham town",
+		"COUNTY": " Norfolk County"
+	},
+	{
+		"GEO_ID": "0600000US2502146050",
+		"NAME": "Norfolk town, Norfolk County, Massachusetts",
+		"MEDIAN_INCOME": "182716",
+		"MARGIN_OF_ERROR": "19277",
+		"MUNICIPALITY": "Norfolk town",
+		"COUNTY": " Norfolk County"
+	},
+	{
+		"GEO_ID": "0600000US2502150250",
+		"NAME": "Norwood town, Norfolk County, Massachusetts",
+		"MEDIAN_INCOME": "98653",
+		"MARGIN_OF_ERROR": "7461",
+		"MUNICIPALITY": "Norwood town",
+		"COUNTY": " Norfolk County"
+	},
+	{
+		"GEO_ID": "0600000US2502154100",
+		"NAME": "Plainville town, Norfolk County, Massachusetts",
+		"MEDIAN_INCOME": "99720",
+		"MARGIN_OF_ERROR": "11895",
+		"MUNICIPALITY": "Plainville town",
+		"COUNTY": " Norfolk County"
+	},
+	{
+		"GEO_ID": "0600000US2502155745",
+		"NAME": "Quincy city, Norfolk County, Massachusetts",
+		"MEDIAN_INCOME": "90668",
+		"MARGIN_OF_ERROR": "3972",
+		"MUNICIPALITY": "Quincy city",
+		"COUNTY": " Norfolk County"
+	},
+	{
+		"GEO_ID": "0600000US2502156000",
+		"NAME": "Randolph Town city, Norfolk County, Massachusetts",
+		"MEDIAN_INCOME": "94905",
+		"MARGIN_OF_ERROR": "12142",
+		"MUNICIPALITY": "Randolph Town city",
+		"COUNTY": " Norfolk County"
+	},
+	{
+		"GEO_ID": "0600000US2502160785",
+		"NAME": "Sharon town, Norfolk County, Massachusetts",
+		"MEDIAN_INCOME": "181545",
+		"MARGIN_OF_ERROR": "19087",
+		"MUNICIPALITY": "Sharon town",
+		"COUNTY": " Norfolk County"
+	},
+	{
+		"GEO_ID": "0600000US2502167945",
+		"NAME": "Stoughton town, Norfolk County, Massachusetts",
+		"MEDIAN_INCOME": "98145",
+		"MARGIN_OF_ERROR": "9512",
+		"MUNICIPALITY": "Stoughton town",
+		"COUNTY": " Norfolk County"
+	},
+	{
+		"GEO_ID": "0600000US2502172495",
+		"NAME": "Walpole town, Norfolk County, Massachusetts",
+		"MEDIAN_INCOME": "151875",
+		"MARGIN_OF_ERROR": "13744",
+		"MUNICIPALITY": "Walpole town",
+		"COUNTY": " Norfolk County"
+	},
+	{
+		"GEO_ID": "0600000US2502174175",
+		"NAME": "Wellesley town, Norfolk County, Massachusetts",
+		"MEDIAN_INCOME": "250,000+",
+		"MARGIN_OF_ERROR": "***",
+		"MUNICIPALITY": "Wellesley town",
+		"COUNTY": " Norfolk County"
+	},
+	{
+		"GEO_ID": "0600000US2502178690",
+		"NAME": "Westwood town, Norfolk County, Massachusetts",
+		"MEDIAN_INCOME": "192887",
+		"MARGIN_OF_ERROR": "23372",
+		"MUNICIPALITY": "Westwood town",
+		"COUNTY": " Norfolk County"
+	},
+	{
+		"GEO_ID": "0600000US2502178972",
+		"NAME": "Weymouth Town city, Norfolk County, Massachusetts",
+		"MEDIAN_INCOME": "95879",
+		"MARGIN_OF_ERROR": "4125",
+		"MUNICIPALITY": "Weymouth Town city",
+		"COUNTY": " Norfolk County"
+	},
+	{
+		"GEO_ID": "0600000US2502182315",
+		"NAME": "Wrentham town, Norfolk County, Massachusetts",
+		"MEDIAN_INCOME": "151833",
+		"MARGIN_OF_ERROR": "22976",
+		"MUNICIPALITY": "Wrentham town",
+		"COUNTY": " Norfolk County"
+	},
+	{
+		"GEO_ID": "0600000US2502300000",
+		"NAME": "County subdivisions not defined, Plymouth County, Massachusetts",
+		"MEDIAN_INCOME": "-",
+		"MARGIN_OF_ERROR": "**",
+		"MUNICIPALITY": "County subdivisions not defined",
+		"COUNTY": " Plymouth County"
+	},
+	{
+		"GEO_ID": "0600000US2502300170",
+		"NAME": "Abington town, Plymouth County, Massachusetts",
+		"MEDIAN_INCOME": "120535",
+		"MARGIN_OF_ERROR": "9127",
+		"MUNICIPALITY": "Abington town",
+		"COUNTY": " Plymouth County"
+	},
+	{
+		"GEO_ID": "0600000US2502308130",
+		"NAME": "Bridgewater Town city, Plymouth County, Massachusetts",
+		"MEDIAN_INCOME": "110354",
+		"MARGIN_OF_ERROR": "9390",
+		"MUNICIPALITY": "Bridgewater Town city",
+		"COUNTY": " Plymouth County"
+	},
+	{
+		"GEO_ID": "0600000US2502309000",
+		"NAME": "Brockton city, Plymouth County, Massachusetts",
+		"MEDIAN_INCOME": "74016",
+		"MARGIN_OF_ERROR": "3413",
+		"MUNICIPALITY": "Brockton city",
+		"COUNTY": " Plymouth County"
+	},
+	{
+		"GEO_ID": "0600000US2502311665",
+		"NAME": "Carver town, Plymouth County, Massachusetts",
+		"MEDIAN_INCOME": "69629",
+		"MARGIN_OF_ERROR": "13711",
+		"MUNICIPALITY": "Carver town",
+		"COUNTY": " Plymouth County"
+	},
+	{
+		"GEO_ID": "0600000US2502317895",
+		"NAME": "Duxbury town, Plymouth County, Massachusetts",
+		"MEDIAN_INCOME": "148505",
+		"MARGIN_OF_ERROR": "21881",
+		"MUNICIPALITY": "Duxbury town",
+		"COUNTY": " Plymouth County"
+	},
+	{
+		"GEO_ID": "0600000US2502318455",
+		"NAME": "East Bridgewater town, Plymouth County, Massachusetts",
+		"MEDIAN_INCOME": "122693",
+		"MARGIN_OF_ERROR": "13556",
+		"MUNICIPALITY": "East Bridgewater town",
+		"COUNTY": " Plymouth County"
+	},
+	{
+		"GEO_ID": "0600000US2502327795",
+		"NAME": "Halifax town, Plymouth County, Massachusetts",
+		"MEDIAN_INCOME": "110763",
+		"MARGIN_OF_ERROR": "14155",
+		"MUNICIPALITY": "Halifax town",
+		"COUNTY": " Plymouth County"
+	},
+	{
+		"GEO_ID": "0600000US2502328285",
+		"NAME": "Hanover town, Plymouth County, Massachusetts",
+		"MEDIAN_INCOME": "163613",
+		"MARGIN_OF_ERROR": "21675",
+		"MUNICIPALITY": "Hanover town",
+		"COUNTY": " Plymouth County"
+	},
+	{
+		"GEO_ID": "0600000US2502328495",
+		"NAME": "Hanson town, Plymouth County, Massachusetts",
+		"MEDIAN_INCOME": "116536",
+		"MARGIN_OF_ERROR": "14851",
+		"MUNICIPALITY": "Hanson town",
+		"COUNTY": " Plymouth County"
+	},
+	{
+		"GEO_ID": "0600000US2502330210",
+		"NAME": "Hingham town, Plymouth County, Massachusetts",
+		"MEDIAN_INCOME": "170326",
+		"MARGIN_OF_ERROR": "17164",
+		"MUNICIPALITY": "Hingham town",
+		"COUNTY": " Plymouth County"
+	},
+	{
+		"GEO_ID": "0600000US2502331645",
+		"NAME": "Hull town, Plymouth County, Massachusetts",
+		"MEDIAN_INCOME": "128022",
+		"MARGIN_OF_ERROR": "8683",
+		"MUNICIPALITY": "Hull town",
+		"COUNTY": " Plymouth County"
+	},
+	{
+		"GEO_ID": "0600000US2502333220",
+		"NAME": "Kingston town, Plymouth County, Massachusetts",
+		"MEDIAN_INCOME": "111490",
+		"MARGIN_OF_ERROR": "15906",
+		"MUNICIPALITY": "Kingston town",
+		"COUNTY": " Plymouth County"
+	},
+	{
+		"GEO_ID": "0600000US2502333920",
+		"NAME": "Lakeville town, Plymouth County, Massachusetts",
+		"MEDIAN_INCOME": "119712",
+		"MARGIN_OF_ERROR": "8106",
+		"MUNICIPALITY": "Lakeville town",
+		"COUNTY": " Plymouth County"
+	},
+	{
+		"GEO_ID": "0600000US2502338540",
+		"NAME": "Marion town, Plymouth County, Massachusetts",
+		"MEDIAN_INCOME": "111351",
+		"MARGIN_OF_ERROR": "13546",
+		"MUNICIPALITY": "Marion town",
+		"COUNTY": " Plymouth County"
+	},
+	{
+		"GEO_ID": "0600000US2502338855",
+		"NAME": "Marshfield town, Plymouth County, Massachusetts",
+		"MEDIAN_INCOME": "118750",
+		"MARGIN_OF_ERROR": "6108",
+		"MUNICIPALITY": "Marshfield town",
+		"COUNTY": " Plymouth County"
+	},
+	{
+		"GEO_ID": "0600000US2502339450",
+		"NAME": "Mattapoisett town, Plymouth County, Massachusetts",
+		"MEDIAN_INCOME": "110179",
+		"MARGIN_OF_ERROR": "26761",
+		"MUNICIPALITY": "Mattapoisett town",
+		"COUNTY": " Plymouth County"
+	},
+	{
+		"GEO_ID": "0600000US2502340850",
+		"NAME": "Middleborough town, Plymouth County, Massachusetts",
+		"MEDIAN_INCOME": "89290",
+		"MARGIN_OF_ERROR": "5547",
+		"MUNICIPALITY": "Middleborough town",
+		"COUNTY": " Plymouth County"
+	},
+	{
+		"GEO_ID": "0600000US2502350145",
+		"NAME": "Norwell town, Plymouth County, Massachusetts",
+		"MEDIAN_INCOME": "179777",
+		"MARGIN_OF_ERROR": "13954",
+		"MUNICIPALITY": "Norwell town",
+		"COUNTY": " Plymouth County"
+	},
+	{
+		"GEO_ID": "0600000US2502352630",
+		"NAME": "Pembroke town, Plymouth County, Massachusetts",
+		"MEDIAN_INCOME": "140052",
+		"MARGIN_OF_ERROR": "14296",
+		"MUNICIPALITY": "Pembroke town",
+		"COUNTY": " Plymouth County"
+	},
+	{
+		"GEO_ID": "0600000US2502354310",
+		"NAME": "Plymouth town, Plymouth County, Massachusetts",
+		"MEDIAN_INCOME": "107067",
+		"MARGIN_OF_ERROR": "4675",
+		"MUNICIPALITY": "Plymouth town",
+		"COUNTY": " Plymouth County"
+	},
+	{
+		"GEO_ID": "0600000US2502354415",
+		"NAME": "Plympton town, Plymouth County, Massachusetts",
+		"MEDIAN_INCOME": "108958",
+		"MARGIN_OF_ERROR": "24484",
+		"MUNICIPALITY": "Plympton town",
+		"COUNTY": " Plymouth County"
+	},
+	{
+		"GEO_ID": "0600000US2502357600",
+		"NAME": "Rochester town, Plymouth County, Massachusetts",
+		"MEDIAN_INCOME": "114604",
+		"MARGIN_OF_ERROR": "6747",
+		"MUNICIPALITY": "Rochester town",
+		"COUNTY": " Plymouth County"
+	},
+	{
+		"GEO_ID": "0600000US2502357775",
+		"NAME": "Rockland town, Plymouth County, Massachusetts",
+		"MEDIAN_INCOME": "98295",
+		"MARGIN_OF_ERROR": "10735",
+		"MUNICIPALITY": "Rockland town",
+		"COUNTY": " Plymouth County"
+	},
+	{
+		"GEO_ID": "0600000US2502360330",
+		"NAME": "Scituate town, Plymouth County, Massachusetts",
+		"MEDIAN_INCOME": "127173",
+		"MARGIN_OF_ERROR": "13412",
+		"MUNICIPALITY": "Scituate town",
+		"COUNTY": " Plymouth County"
+	},
+	{
+		"GEO_ID": "0600000US2502372985",
+		"NAME": "Wareham town, Plymouth County, Massachusetts",
+		"MEDIAN_INCOME": "76787",
+		"MARGIN_OF_ERROR": "8383",
+		"MUNICIPALITY": "Wareham town",
+		"COUNTY": " Plymouth County"
+	},
+	{
+		"GEO_ID": "0600000US2502375260",
+		"NAME": "West Bridgewater town, Plymouth County, Massachusetts",
+		"MEDIAN_INCOME": "120414",
+		"MARGIN_OF_ERROR": "18323",
+		"MUNICIPALITY": "West Bridgewater town",
+		"COUNTY": " Plymouth County"
+	},
+	{
+		"GEO_ID": "0600000US2502379530",
+		"NAME": "Whitman town, Plymouth County, Massachusetts",
+		"MEDIAN_INCOME": "101088",
+		"MARGIN_OF_ERROR": "11270",
+		"MUNICIPALITY": "Whitman town",
+		"COUNTY": " Plymouth County"
+	},
+	{
+		"GEO_ID": "0600000US2502500000",
+		"NAME": "County subdivisions not defined, Suffolk County, Massachusetts",
+		"MEDIAN_INCOME": "-",
+		"MARGIN_OF_ERROR": "**",
+		"MUNICIPALITY": "County subdivisions not defined",
+		"COUNTY": " Suffolk County"
+	},
+	{
+		"GEO_ID": "0600000US2502507000",
+		"NAME": "Boston city, Suffolk County, Massachusetts",
+		"MEDIAN_INCOME": "89212",
+		"MARGIN_OF_ERROR": "2101",
+		"MUNICIPALITY": "Boston city",
+		"COUNTY": " Suffolk County"
+	},
+	{
+		"GEO_ID": "0600000US2502513205",
+		"NAME": "Chelsea city, Suffolk County, Massachusetts",
+		"MEDIAN_INCOME": "71051",
+		"MARGIN_OF_ERROR": "5154",
+		"MUNICIPALITY": "Chelsea city",
+		"COUNTY": " Suffolk County"
+	},
+	{
+		"GEO_ID": "0600000US2502556585",
+		"NAME": "Revere city, Suffolk County, Massachusetts",
+		"MEDIAN_INCOME": "78968",
+		"MARGIN_OF_ERROR": "6116",
+		"MUNICIPALITY": "Revere city",
+		"COUNTY": " Suffolk County"
+	},
+	{
+		"GEO_ID": "0600000US2502581005",
+		"NAME": "Winthrop Town city, Suffolk County, Massachusetts",
+		"MEDIAN_INCOME": "98901",
+		"MARGIN_OF_ERROR": "9887",
+		"MUNICIPALITY": "Winthrop Town city",
+		"COUNTY": " Suffolk County"
+	},
+	{
+		"GEO_ID": "0600000US2502701885",
+		"NAME": "Ashburnham town, Worcester County, Massachusetts",
+		"MEDIAN_INCOME": "112133",
+		"MARGIN_OF_ERROR": "24181",
+		"MUNICIPALITY": "Ashburnham town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502702480",
+		"NAME": "Athol town, Worcester County, Massachusetts",
+		"MEDIAN_INCOME": "63809",
+		"MARGIN_OF_ERROR": "4716",
+		"MUNICIPALITY": "Athol town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502702760",
+		"NAME": "Auburn town, Worcester County, Massachusetts",
+		"MEDIAN_INCOME": "101931",
+		"MARGIN_OF_ERROR": "10519",
+		"MUNICIPALITY": "Auburn town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502703740",
+		"NAME": "Barre town, Worcester County, Massachusetts",
+		"MEDIAN_INCOME": "96128",
+		"MARGIN_OF_ERROR": "9152",
+		"MUNICIPALITY": "Barre town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502705490",
+		"NAME": "Berlin town, Worcester County, Massachusetts",
+		"MEDIAN_INCOME": "123077",
+		"MARGIN_OF_ERROR": "14274",
+		"MUNICIPALITY": "Berlin town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502706015",
+		"NAME": "Blackstone town, Worcester County, Massachusetts",
+		"MEDIAN_INCOME": "95132",
+		"MARGIN_OF_ERROR": "16936",
+		"MUNICIPALITY": "Blackstone town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502706365",
+		"NAME": "Bolton town, Worcester County, Massachusetts",
+		"MEDIAN_INCOME": "191208",
+		"MARGIN_OF_ERROR": "24474",
+		"MUNICIPALITY": "Bolton town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502707525",
+		"NAME": "Boylston town, Worcester County, Massachusetts",
+		"MEDIAN_INCOME": "133292",
+		"MARGIN_OF_ERROR": "21302",
+		"MUNICIPALITY": "Boylston town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502709105",
+		"NAME": "Brookfield town, Worcester County, Massachusetts",
+		"MEDIAN_INCOME": "71122",
+		"MARGIN_OF_ERROR": "17855",
+		"MUNICIPALITY": "Brookfield town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502712715",
+		"NAME": "Charlton town, Worcester County, Massachusetts",
+		"MEDIAN_INCOME": "113896",
+		"MARGIN_OF_ERROR": "5117",
+		"MUNICIPALITY": "Charlton town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502714395",
+		"NAME": "Clinton town, Worcester County, Massachusetts",
+		"MEDIAN_INCOME": "89888",
+		"MARGIN_OF_ERROR": "11973",
+		"MUNICIPALITY": "Clinton town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502717300",
+		"NAME": "Douglas town, Worcester County, Massachusetts",
+		"MEDIAN_INCOME": "136998",
+		"MARGIN_OF_ERROR": "15081",
+		"MUNICIPALITY": "Douglas town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502717685",
+		"NAME": "Dudley town, Worcester County, Massachusetts",
+		"MEDIAN_INCOME": "87306",
+		"MARGIN_OF_ERROR": "11113",
+		"MUNICIPALITY": "Dudley town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502718560",
+		"NAME": "East Brookfield town, Worcester County, Massachusetts",
+		"MEDIAN_INCOME": "77122",
+		"MARGIN_OF_ERROR": "18512",
+		"MUNICIPALITY": "East Brookfield town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502723875",
+		"NAME": "Fitchburg city, Worcester County, Massachusetts",
+		"MEDIAN_INCOME": "65963",
+		"MARGIN_OF_ERROR": "4769",
+		"MUNICIPALITY": "Fitchburg city",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502725485",
+		"NAME": "Gardner city, Worcester County, Massachusetts",
+		"MEDIAN_INCOME": "56974",
+		"MARGIN_OF_ERROR": "6934",
+		"MUNICIPALITY": "Gardner city",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502726430",
+		"NAME": "Grafton town, Worcester County, Massachusetts",
+		"MEDIAN_INCOME": "118252",
+		"MARGIN_OF_ERROR": "8347",
+		"MUNICIPALITY": "Grafton town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502728740",
+		"NAME": "Hardwick town, Worcester County, Massachusetts",
+		"MEDIAN_INCOME": "64573",
+		"MARGIN_OF_ERROR": "17752",
+		"MUNICIPALITY": "Hardwick town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502728950",
+		"NAME": "Harvard town, Worcester County, Massachusetts",
+		"MEDIAN_INCOME": "189647",
+		"MARGIN_OF_ERROR": "22833",
+		"MUNICIPALITY": "Harvard town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502730560",
+		"NAME": "Holden town, Worcester County, Massachusetts",
+		"MEDIAN_INCOME": "138241",
+		"MARGIN_OF_ERROR": "8802",
+		"MUNICIPALITY": "Holden town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502730945",
+		"NAME": "Hopedale town, Worcester County, Massachusetts",
+		"MEDIAN_INCOME": "120750",
+		"MARGIN_OF_ERROR": "23227",
+		"MUNICIPALITY": "Hopedale town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502731435",
+		"NAME": "Hubbardston town, Worcester County, Massachusetts",
+		"MEDIAN_INCOME": "114922",
+		"MARGIN_OF_ERROR": "14367",
+		"MUNICIPALITY": "Hubbardston town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502734165",
+		"NAME": "Lancaster town, Worcester County, Massachusetts",
+		"MEDIAN_INCOME": "111506",
+		"MARGIN_OF_ERROR": "25309",
+		"MUNICIPALITY": "Lancaster town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502734795",
+		"NAME": "Leicester town, Worcester County, Massachusetts",
+		"MEDIAN_INCOME": "93885",
+		"MARGIN_OF_ERROR": "9618",
+		"MUNICIPALITY": "Leicester town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502735075",
+		"NAME": "Leominster city, Worcester County, Massachusetts",
+		"MEDIAN_INCOME": "75620",
+		"MARGIN_OF_ERROR": "4552",
+		"MUNICIPALITY": "Leominster city",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502737420",
+		"NAME": "Lunenburg town, Worcester County, Massachusetts",
+		"MEDIAN_INCOME": "106138",
+		"MARGIN_OF_ERROR": "12439",
+		"MUNICIPALITY": "Lunenburg town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502740255",
+		"NAME": "Mendon town, Worcester County, Massachusetts",
+		"MEDIAN_INCOME": "135909",
+		"MARGIN_OF_ERROR": "41565",
+		"MUNICIPALITY": "Mendon town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502741165",
+		"NAME": "Milford town, Worcester County, Massachusetts",
+		"MEDIAN_INCOME": "92843",
+		"MARGIN_OF_ERROR": "6305",
+		"MUNICIPALITY": "Milford town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502741340",
+		"NAME": "Millbury town, Worcester County, Massachusetts",
+		"MEDIAN_INCOME": "109119",
+		"MARGIN_OF_ERROR": "18181",
+		"MUNICIPALITY": "Millbury town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502741585",
+		"NAME": "Millville town, Worcester County, Massachusetts",
+		"MEDIAN_INCOME": "95144",
+		"MARGIN_OF_ERROR": "15920",
+		"MUNICIPALITY": "Millville town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502745105",
+		"NAME": "New Braintree town, Worcester County, Massachusetts",
+		"MEDIAN_INCOME": "99318",
+		"MARGIN_OF_ERROR": "10488",
+		"MUNICIPALITY": "New Braintree town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502746820",
+		"NAME": "Northborough town, Worcester County, Massachusetts",
+		"MEDIAN_INCOME": "160801",
+		"MARGIN_OF_ERROR": "17071",
+		"MUNICIPALITY": "Northborough town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502746925",
+		"NAME": "Northbridge town, Worcester County, Massachusetts",
+		"MEDIAN_INCOME": "103454",
+		"MARGIN_OF_ERROR": "13801",
+		"MUNICIPALITY": "Northbridge town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502747135",
+		"NAME": "North Brookfield town, Worcester County, Massachusetts",
+		"MEDIAN_INCOME": "80380",
+		"MARGIN_OF_ERROR": "11867",
+		"MUNICIPALITY": "North Brookfield town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502750670",
+		"NAME": "Oakham town, Worcester County, Massachusetts",
+		"MEDIAN_INCOME": "93906",
+		"MARGIN_OF_ERROR": "8571",
+		"MUNICIPALITY": "Oakham town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502751825",
+		"NAME": "Oxford town, Worcester County, Massachusetts",
+		"MEDIAN_INCOME": "96481",
+		"MARGIN_OF_ERROR": "16374",
+		"MUNICIPALITY": "Oxford town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502752420",
+		"NAME": "Paxton town, Worcester County, Massachusetts",
+		"MEDIAN_INCOME": "130787",
+		"MARGIN_OF_ERROR": "18257",
+		"MUNICIPALITY": "Paxton town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502753120",
+		"NAME": "Petersham town, Worcester County, Massachusetts",
+		"MEDIAN_INCOME": "104205",
+		"MARGIN_OF_ERROR": "13202",
+		"MUNICIPALITY": "Petersham town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502753225",
+		"NAME": "Phillipston town, Worcester County, Massachusetts",
+		"MEDIAN_INCOME": "90625",
+		"MARGIN_OF_ERROR": "10783",
+		"MUNICIPALITY": "Phillipston town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502755395",
+		"NAME": "Princeton town, Worcester County, Massachusetts",
+		"MEDIAN_INCOME": "163750",
+		"MARGIN_OF_ERROR": "25099",
+		"MUNICIPALITY": "Princeton town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502758580",
+		"NAME": "Royalston town, Worcester County, Massachusetts",
+		"MEDIAN_INCOME": "98542",
+		"MARGIN_OF_ERROR": "12132",
+		"MUNICIPALITY": "Royalston town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502758825",
+		"NAME": "Rutland town, Worcester County, Massachusetts",
+		"MEDIAN_INCOME": "150685",
+		"MARGIN_OF_ERROR": "24577",
+		"MUNICIPALITY": "Rutland town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502761800",
+		"NAME": "Shrewsbury town, Worcester County, Massachusetts",
+		"MEDIAN_INCOME": "127088",
+		"MARGIN_OF_ERROR": "12807",
+		"MUNICIPALITY": "Shrewsbury town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502763165",
+		"NAME": "Southborough town, Worcester County, Massachusetts",
+		"MEDIAN_INCOME": "186432",
+		"MARGIN_OF_ERROR": "12730",
+		"MUNICIPALITY": "Southborough town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502763345",
+		"NAME": "Southbridge Town city, Worcester County, Massachusetts",
+		"MEDIAN_INCOME": "55182",
+		"MARGIN_OF_ERROR": "8306",
+		"MUNICIPALITY": "Southbridge Town city",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502766105",
+		"NAME": "Spencer town, Worcester County, Massachusetts",
+		"MEDIAN_INCOME": "76225",
+		"MARGIN_OF_ERROR": "13053",
+		"MUNICIPALITY": "Spencer town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502767385",
+		"NAME": "Sterling town, Worcester County, Massachusetts",
+		"MEDIAN_INCOME": "131058",
+		"MARGIN_OF_ERROR": "21148",
+		"MUNICIPALITY": "Sterling town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502768155",
+		"NAME": "Sturbridge town, Worcester County, Massachusetts",
+		"MEDIAN_INCOME": "113427",
+		"MARGIN_OF_ERROR": "18281",
+		"MUNICIPALITY": "Sturbridge town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502768610",
+		"NAME": "Sutton town, Worcester County, Massachusetts",
+		"MEDIAN_INCOME": "142537",
+		"MARGIN_OF_ERROR": "18975",
+		"MUNICIPALITY": "Sutton town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502769275",
+		"NAME": "Templeton town, Worcester County, Massachusetts",
+		"MEDIAN_INCOME": "101768",
+		"MARGIN_OF_ERROR": "14859",
+		"MUNICIPALITY": "Templeton town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502771480",
+		"NAME": "Upton town, Worcester County, Massachusetts",
+		"MEDIAN_INCOME": "145129",
+		"MARGIN_OF_ERROR": "29262",
+		"MUNICIPALITY": "Upton town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502771620",
+		"NAME": "Uxbridge town, Worcester County, Massachusetts",
+		"MEDIAN_INCOME": "124682",
+		"MARGIN_OF_ERROR": "9723",
+		"MUNICIPALITY": "Uxbridge town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502773090",
+		"NAME": "Warren town, Worcester County, Massachusetts",
+		"MEDIAN_INCOME": "64085",
+		"MARGIN_OF_ERROR": "25254",
+		"MUNICIPALITY": "Warren town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502773895",
+		"NAME": "Webster town, Worcester County, Massachusetts",
+		"MEDIAN_INCOME": "70644",
+		"MARGIN_OF_ERROR": "5683",
+		"MUNICIPALITY": "Webster town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502775015",
+		"NAME": "Westborough town, Worcester County, Massachusetts",
+		"MEDIAN_INCOME": "133145",
+		"MARGIN_OF_ERROR": "11929",
+		"MUNICIPALITY": "Westborough town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502775155",
+		"NAME": "West Boylston town, Worcester County, Massachusetts",
+		"MEDIAN_INCOME": "96406",
+		"MARGIN_OF_ERROR": "12138",
+		"MUNICIPALITY": "West Boylston town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502775400",
+		"NAME": "West Brookfield town, Worcester County, Massachusetts",
+		"MEDIAN_INCOME": "89112",
+		"MARGIN_OF_ERROR": "20234",
+		"MUNICIPALITY": "West Brookfield town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502777010",
+		"NAME": "Westminster town, Worcester County, Massachusetts",
+		"MEDIAN_INCOME": "95674",
+		"MARGIN_OF_ERROR": "17722",
+		"MUNICIPALITY": "Westminster town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502780405",
+		"NAME": "Winchendon town, Worcester County, Massachusetts",
+		"MEDIAN_INCOME": "84375",
+		"MARGIN_OF_ERROR": "12829",
+		"MUNICIPALITY": "Winchendon town",
+		"COUNTY": " Worcester County"
+	},
+	{
+		"GEO_ID": "0600000US2502782000",
+		"NAME": "Worcester city, Worcester County, Massachusetts",
+		"MEDIAN_INCOME": "63011",
+		"MARGIN_OF_ERROR": "2417",
+		"MUNICIPALITY": "Worcester city",
+		"COUNTY": " Worcester County"
+	}
+]
