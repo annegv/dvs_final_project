@@ -17,7 +17,7 @@
 
     async function fetch_municipalities() {
         try {
-            const response = await fetch("src/data/mbta_municipalities.txt");
+            const response = await fetch(".src/data/mbta_municipalities.txt");
             const text = await response.text();
             mbta_communities = text.split('\n').map(municipality => municipality.trim());
             isLoading = false;
@@ -27,7 +27,7 @@
     }
 
     async function fetch_income() {
-        let income_data = await d3.json("src/data/municipality_income_quantiles.json")
+        let income_data = await d3.json(".src/data/municipality_income_quantiles.json")
         income_data.forEach(row => {
             municipiality_income_data[row.MUNICIPALITY.replace(/ town|city|[" ]/g, '').toLowerCase()] = [
                 { value: Number(row.QUINTILE_1/100).toFixed(2), label: "Q1" },
@@ -40,7 +40,7 @@
     }
 
     async function fetch_race(){
-        let race_data = await d3.json("src/data/municipality_race_demographics.json")
+        let race_data = await d3.json(".src/data/municipality_race_demographics.json")
         race_data.forEach(row => {
             municipiality_race_data[row.MUNICIPALITY.replace(/ town|city|[" ]/g, '').toLowerCase()] = [
                 { value: Number(row.WHITE).toFixed(2), label: "White" },
@@ -55,7 +55,7 @@
     }
 
     async function fetch_commute(){
-        let commute_data = await d3.json("src/data/municipality_work_transport_modes.json")
+        let commute_data = await d3.json(".src/data/municipality_work_transport_modes.json")
         commute_data.forEach(row => {
             municipiality_commute_data[row.MUNICIPALITY.replace(/ town|city|[" ]/g, '').toLowerCase()] = [
                 { value: Number(row.VEHICLE_ALONE).toFixed(2), label: "Vehicle" },
